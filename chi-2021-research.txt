@@ -1,0 +1,64 @@
+# Author: Claudia
+# Reviewer: Sarah
+
+#############################################
+
+Ramin Hedeshy, Chandan Kumar, Raphael Menges, and Steffen Staab. 2021. Hummer:
+Text Entry by Gaze and Hum. In Proceedings of the 2021 CHI Conference on Human
+Factors in Computing Systems (CHI '21). Association for Computing Machinery,
+New York, NY, USA, Article 741, 1–11.
+DOI:https://doi.org/10.1145/3411764.3445501
+
+In this paper the authors developed a novel hands-free text entry by combining
+eye-tracking and humming.
+For this they implemented and evaluated two design choices: "HumHum" and
+"Hummer" which were also validated by comparing them with the sophisticated
+baseline for handsfree text entry, "EyeSwipe" (a gaze-based hands-free method).
+With "HumHum" the beginning and the end of a word is hummed briefly.
+In the other choice one continuous humming counts as the start and end of a word.
+Their conducted experiment with 12 participants showed that "Hummer"
+(20.45 words per minute) outperformed "HumHum" and "EyeSwipe" in quantitative
+and qualitative measures.
+
+#############################################
+
+Mingrui Ray Zhang and Shumin Zhai. 2021. PhraseFlow: Designs and Empirical
+Studies of Phrase-Level Input. In Proceedings of the 2021 CHI Conference on
+Human Factors in Computing Systems (CHI '21). Association for Computing
+Machinery, New York, NY, USA, Article 197, 1–13.
+DOI:https://doi.org/10.1145/3411764.3445166
+
+The authors implemented "PhraseFlow" a phrase-level input keyboard that is able
+to correct preceding text based on the subsequently input sequences.
+"PhraseFlow" was optimized through an iterative design-implement-research
+process in which they created visual feedback effects and interaction methods
+that reduced the cognitive load of phrase level input.
+They found out that phrase-level decoding had a higher accuracy on correction
+tasks than word-level decoding including space-related errors.
+In their in-lab experiment they demonstrated that users could adapt to
+"PhraseFlow" quickly which resulted in 19% lesser error without losing speed.
+From their real life study which lasted for six days, 78,6 % out of 42
+participants would like to have phrase-level input in future keyboards.
+
+#############################################
+
+Carla F. Griggio, Arissa J. Sato, Wendy E. Mackay, and Koji Yatani. 2021.
+Mediating Intimacy with DearBoard: a Co-Customizable Keyboard for Everyday
+Messaging. In Proceedings of the 2021 CHI Conference on Human Factors in
+Computing Systems (CHI '21). Association for Computing Machinery, New York, NY,
+USA, Article 342, 1–16. DOI:https://doi.org/10.1145/3411764.3445757
+
+The authors investigated collaborative customizations (co-customizations) in
+everyday messaging and how people in close relationsships use co-customizations
+in their  established communication app ecosystems.
+For that they created "DearBoard" an Android keyboard where users can
+co-customize the color theme and toolbar of expressions shortcuts (emojis and
+GIFs).
+When their coressponding partner changes their keyboard style the changes can be
+seen by the other person.
+To understand what role co-customizations may play in online relationsship
+maintenance, they conducted a 5-week field study with 18 pairs of couples, close
+friends and relatives where participants communicated with their partner and
+shared the "DearBoard".
+They found out that participants expressed their intimacy with co-customizations
+by e.g. changing the color theme to a color that describes their shared identity.

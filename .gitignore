@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+.idea/
+test_setup
+raw_log_data
+experiment/.ipynb_checkpoints/
+textedit.py
+
