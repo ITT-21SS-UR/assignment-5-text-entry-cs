@@ -4,54 +4,64 @@
 import sys
 
 from PyQt5 import QtCore, QtWidgets
+from PyQt5.QtGui import QFont
+from PyQt5.QtWidgets import QVBoxLayout, QLabel
 
+from config_parser import ConfigParser
+from edit_text_widget import EditTextWidget
 from text_model import TextModel
 
+"""
+The features of the program were discussed together and everyone got their own tasks.
+The authors of the python and sub files are written at the beginning of the python files.
+"""
 
-class SuperText(QtWidgets.QTextEdit):
 
-    def __init__(self, example_text):
-        super(SuperText, self).__init__()
+class MainWindow(QtWidgets.QWidget):
 
-        self.setHtml(example_text)
+    def __init__(self, config):
+        super(MainWindow, self).__init__()
 
-        self.__model = TextModel()
-        self.__model.generate_template(self.toPlainText())
-        self.__render_template()
-        self.__init_UI()
+        self.__model = TextModel(config)  # TODO all widgets share the same model
 
-    def __init_UI(self):
-        self.setGeometry(0, 0, 400, 400)
-        self.setWindowTitle("SuperText")
-        self.setFocusPolicy(QtCore.Qt.StrongFocus)
-        self.setMouseTracking(True)
+        self.setFixedSize(800, 600)
+        self.move(QtWidgets.qApp.desktop().availableGeometry(self).center() - self.rect().center())
 
-    def wheelEvent(self, event):
-        super(SuperText, self).wheelEvent(event)
+        self.setWindowTitle("Typing Speed Test")
 
-        self.__model.generate_template(self.toPlainText())
-        self.__render_template()
+        self.__setup_typing_speed_display()
+        self.__setup_example_text()
 
-        anchor = self.anchorAt(event.pos())
-        if anchor:
-            self.__change_value(anchor, event.angleDelta().y())
+        self.edit_text = EditTextWidget(self.__model, self)
 
-    def __change_value(self, val_id, amount):
-        self.__model.set_number_position_value(val_id, amount)
-        self.__render_template()
+        layout = QVBoxLayout(self)  # or QGridLayout
+        layout.addWidget(self.typing_speed_display)
+        layout.addWidget(self.example_text)
+        layout.addWidget(self.edit_text)
+        self.setLayout(layout)
 
-    def __render_template(self):
-        self.setHtml(self.__model.create_doc())
+    def __setup_example_text(self):
+        self.example_text = QLabel(self)
+        self.example_text.setFont(QFont("Arial", 15))
+        self.example_text.setText(self.__model.get_example_text())
+        self.example_text.setAlignment(QtCore.Qt.AlignCenter)
 
-        cursor = self.textCursor()
-        self.setTextCursor(cursor)
+    def __setup_typing_speed_display(self):
+        # TODO should we display the time or is it sufficient to log the time
+        # self.typing_speed_display = TypingSpeedDisplay(self) # this is not working
+        self.typing_speed_display = QLabel(self)
+        self.typing_speed_display.setFont(QFont("Arial", 15))
+        self.typing_speed_display.setText("Speed")
+        self.typing_speed_display.setAlignment(QtCore.Qt.AlignCenter)
 
 
 def main():
+    config_parser = ConfigParser()
+
     app = QtWidgets.QApplication(sys.argv)
 
-    super_text = SuperText("An 123 Tagen kamen 1342 Personen.")
-    super_text.show()
+    main_window = MainWindow(config_parser.get_config())
+    main_window.show()
 
     sys.exit(app.exec_())
 
