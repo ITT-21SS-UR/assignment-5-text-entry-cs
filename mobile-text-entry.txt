@@ -1,35 +1,154 @@
-﻿Summary of MacKenzie, I. S., & Soukoreff, R. W. (2002). Text entry for mobile computing: Models and methods, theory and practice. Human-Computer Interaction, 17, 147-198. 
+﻿# Author: Claudia
+# Reviewer: Claudia
 
-This paper presents different methods of text entry on mobile devices, such as pagers or mobile phones. The authors discovered that evaluating and assessing the performance of the methods and different keyboard layouts is difficult. Especially the measurement and handling of errors and the type of tasks used are tricky. 
+#############################################
+Summary of MacKenzie, I. S., & Soukoreff, R. W. (2002). Text entry for mobile computing:
+Models and methods, theory and practice. Human-Computer Interaction, 17, 147-198.
 
-The primary text input on computers, they say, is via Qwerty keyboard, but there is no such equivalent on mobile devices. Qwerty is not advantageous for mobile devices, as the keyboard requires full-size and cannot be operated with one hand.
 
-At the beginning, the authors provide a brief historical background of mobile and handheld devices. They report that mobile devices were initially only used by experts and that commercial use is still in its early stages. A pen was mostly used for input but there existed a parallel trend with keyboard-based technology. Handwriting recognition was used early on, but did not provide sufficient results, so Graffiti was developed which simplifies the letters to improve recognition, but they are still similar to the standard alphabet, so that the learning curve is kept as low as possible.
+This paper presents different methods of text entry on mobile devices, such as pagers or mobile
+phones. The authors discovered that evaluating and assessing the performance of the methods and
+different keyboard layouts is difficult. Especially the measurement and handling of errors and
+the type of tasks used are tricky.
 
-Next, they cover what different keyboard designs there are and what needs to be considered when evaluating them. The authors state that an evaluation is valuable and useful if the study is reproducible and generalizable. This is achieved through a well-designed experiment. However, it is necessary to balance the accuracy of the answers with the importance or relevance of the questions the answers are intended to address. 
+The primary text input on computers, they say, is via Qwerty keyboard, but there is no such equivalent
+on mobile devices. Qwerty is not advantageous for mobile devices, as the keyboard requires full-size and
+cannot be operated with one hand.
 
-They identify certain factors with relevance to the methodology for evaluating text input on mobile systems, such as text creation versus text copying, novice versus expert performance, quantitative versus qualitative analysis, speed and accuracy. With a text copying task, the participant is given a text to type out; with a creation task, in contrast, either the source text is learned by heart or newly created by the participant. Here they introduce the term "Focus of Attention (FOA)", which represents the attentional demands of the task. Difficulty in text compilation tasks is the identification of errors. Both task types have advantages and disadvantages, e.g. copying text does not necessarily correspond to reality and creating text has one more FOA than copying. But a well-designed experiment can capture the strengths of both a text creation task and a text copying task, e.g. by introducing short, simple sentences that can be easily memorized by the user or a large text block where input and output text alternate, thus reducing FOA.
+At the beginning, the authors provide a brief historical background of mobile and handheld devices.
+They report that mobile devices were initially only used by experts and that commercial use is still
+in its early stages. A pen was mostly used for input but there existed a parallel trend with
+keyboard-based technology. Handwriting recognition was used early on, but did not provide sufficient
+results, so Graffiti was developed which simplifies the letters to improve recognition, but they are
+still similar to the standard alphabet, so that the learning curve is kept as low as possible.
 
-Initially, the mobile device, and thus the studies, were designed for experts, but gradually the devices were commercialized. Care must therefore be taken to ensure that usability is respected and that the learning curve is not too high, as this leads to frustration. One problem is that measuring immediate usability is challenging, as novices learn along the way and consequently lose their status. Experts should be tested several times over several days to gain experience with the novel technique, which is very time-consuming.
+Next, they cover what different keyboard designs there are and what needs to be considered when
+evaluating them. The authors state that an evaluation is valuable and useful if the study is
+reproducible and generalizable. This is achieved through a well-designed experiment. However, it is
+necessary to balance the accuracy of the answers with the importance or relevance of the questions
+the answers are intended to address.
 
-Study design always requires a trade-off between the precision of the answers and the relevance of the questions they are trying to answer. Whereas quantitative evaluations tend to provide precise answers to narrow questions, qualitative evaluations tend to provide loose answers to broad but very important questions. In quantitative results are many common pitfalls that need to be avoided, such as imprecision of measurements, lack of control or baseline conditions,  using insufficient sample size, artificially biasing the data through aggregation, non-random representation of conditions and so on. The authors call for new approaches to be implemented and evaluated in accordance with the rigorous requirements of empirical assessment, and to collect both qualitative and quantitative data during a study. In addition, care will be taken to ensure that users feel comfortable with the interaction technology and that they have the feeling that their efforts will be worthwhile. The opinions of the participants are to be gathered by means of questionnaires.
+They identify certain factors with relevance to the methodology for evaluating text input on mobile
+systems, such as text creation versus text copying, novice versus expert performance, quantitative
+versus qualitative analysis, speed and accuracy. With a text copying task, the participant is given
+a text to type out; with a creation task, in contrast, either the source text is learned by heart
+or newly created by the participant. Here they introduce the term "Focus of Attention (FOA)", which
+represents the attentional demands of the task. Difficulty in text compilation tasks is the
+identification of errors. Both task types have advantages and disadvantages, e.g. copying text does
+not necessarily correspond to reality and creating text has one more FOA than copying. But a
+well-designed experiment can capture the strengths of both a text creation task and a text copying
+task, e.g. by introducing short, simple sentences that can be easily memorized by the user or a large
+text block where input and output text alternate, thus reducing FOA.
 
-In order to measure typing speed, they state that the easiest way is to take the number of characters entered per second during a trial (cps: characters per second).  Another option would be to calculate the words per minute (wpm), where a word consists of five characters by default.
+Initially, the mobile device, and thus the studies, were designed for experts, but gradually the
+devices were commercialized. Care must therefore be taken to ensure that usability is respected and
+that the learning curve is not too high, as this leads to frustration. One problem is that measuring
+immediate usability is challenging, as novices learn along the way and consequently lose their status.
+Experts should be tested several times over several days to gain experience with the novel technique,
+which is very time-consuming.
 
-Accuracy, according to the authors, is a problematic metric that captures the number of incorrect characters during an trial and reports this as a percentage of all characters in the displayed text. In particular, the type of error must be determined, e.g. input of an incorrect character (substitution), omission of a character (omission), addition of an extra character (insertion) or swapping of adjacent characters (transposition). Automation of error tabulation is non-trivial (e.g. confusion matrix). As a result, some researchers have ignored errors entirely. A sensible measure of accuracy is the number of keystrokes per character (KSPC). Both speed and accuracy need to be measured and analyzed during a experiment. According to the authors, another factor that must be considered is the position while typing (sitting, standing, walking, ...).
+Study design always requires a trade-off between the precision of the answers and the relevance of the
+questions they are trying to answer. Whereas quantitative evaluations tend to provide precise answers
+to narrow questions, qualitative evaluations tend to provide loose answers to broad but very important
+questions. In quantitative results are many common pitfalls that need to be avoided, such as imprecision
+of measurements, lack of control or baseline conditions,  using insufficient sample size, artificially
+biasing the data through aggregation, non-random representation of conditions and so on. The authors
+call for new approaches to be implemented and evaluated in accordance with the rigorous requirements
+of empirical assessment, and to collect both qualitative and quantitative data during a study.
+In addition, care will be taken to ensure that users feel comfortable with the interaction technology and
+that they have the feeling that their efforts will be worthwhile. The opinions of the participants are to
+be gathered by means of questionnaires.
 
-In the next text section, the authors have devoted themselves to the various optimization techniques of text input. Two popular methods are movement minimization and language prediction. The main reason for using a Qwerty keyboard for text input is to support touch typing, but a Qwerty keyboard is very large and therefore unsuitable for the mobile paradigm. The authors present a model for predicting movement time to aid in modeling and designing input techniques. Predictive text input methods attempt to reduce input overhead by predicting what the user will type in. This involves using a corpus to determine the relative frequency of characters, words, or phrases. However, some caveats should be considered, such as that the corpus may not be representative, may not reflect the editing process (like arrow keys) and input modality (like upper and lower case). In addition, there are hybrid input techniques that use both motion minimization and predictive features. 
-A further technique is the minimization of keys in order to save space. Some keyboards are designed such that more than one letter is on each key or there are modi keys, e.g. Shift for upper and lower case. 
-To counteract the ambiguity caused by the above, embedded database of language statistics are used to identify legal words.
+In order to measure typing speed, they state that the easiest way is to take the number of characters
+entered per second during a trial (cps: characters per second).  Another option would be to calculate the
+words per minute (wpm), where a word consists of five characters by default.
 
-The next chapter of the text presents an overview of text input techniques. One type is key-based text entry, which range from those that use a keyboard where each key represents one or more letters to those with only three keys in total. An example would be the phone keypad, where three or four characters are grouped on each key, creating ambiguity. There are the multi-tap, the two-key or one-key with disambiguation method (T9). T9 compares the word possibilities with a linguistic database to estimate the intended word. With one version, to support disambiguation, a mode shift is used to explicitly select one character from any key, whereas the other characters remain ambiguous (reduces memory requirements). Text input via phone keypad has 2 FOA (keypad and display). 
-Often a miniature Qwerty keyboard or half-Qwerty keyboard is used as the keyboard is small, familiar to users, supports relatively fast text entry, and allows typing with one hand. Another option is text input with five or three keys, which require very limited hardware. The desired character is selected by rotating through the character set. However, this method is very slow, requires many keystrokes and is not even suitable for very small texts. An optimized technique is fluctuating optimal character layout (FOCL), in which the input device, moves the most likely characters closer to the base position of the cursor as it analyzes the previously entered characters, thus minimizing the number of cursor movements. However, the technique takes some time to become familiar before it delivers benefits. Other small keyboards are Single Hand Key Card (SHK) or chord keyboards. However, most of these keyboards are connected to the computer and are not explicitly intended for mobile devices.
+Accuracy, according to the authors, is a problematic metric that captures the number of incorrect
+characters during an trial and reports this as a percentage of all characters in the displayed text.
+In particular, the type of error must be determined, e.g. input of an incorrect character (substitution),
+omission of a character (omission), addition of an extra character (insertion) or swapping of adjacent
+characters (transposition). Automation of error tabulation is non-trivial (e.g. confusion matrix).
+As a result, some researchers have ignored errors entirely. A sensible measure of accuracy is the number
+of keystrokes per character (KSPC). Both speed and accuracy need to be measured and analyzed during a
+experiment. According to the authors, another factor that must be considered is the position while
+typing (sitting, standing, walking, ...).
 
-Another form is stylus-based text input, which use a stylus to select characters by touch or gesture. Handwriting recognition is a major challenge here (segmentation and recognition), and although it was used early on, it initially achieved only moderate success. One possibility is to restrict the input, e.g., only block-printed characters. The relatively high expectations of users are also an obstacle. There were no mobile commercial products available in time of the paper where natural handwriting recognition was the only text input method, and products that supported pen-based text input work with constraints or stylized alphabets. One alphabet is Unistrokes, which uses a simplified set of strokes that is both easier for the software to recognize and faster for the user to write. However, it did not catch on largely because the strokes are not similar enough to normal letters. Graffiti has a similar structure, but here the characters are very similar to the normal alphabet and it has punctuation, numbers, symbolic characters, and mode changes (upper and lower case). But practice is also required to learn the alphabet and to achieve a fast typing speed. The alphabets have the capability to support simple FOA text entry as soon as the user is familiar with it. 
-Gesture-based is another form of text input which have a boundary in which informal movements of the pen are interpreted as characters, e.g. Cirrin, Quikwriting or T-Cube. Users must pay attention to the screen when entering text and hence is a two-FOA interface when the user fixes mistakes while typing. Quick text input is possible with the methods, but they are difficult to learn.
+In the next text section, the authors have devoted themselves to the various optimization techniques
+of text input. Two popular methods are movement minimization and language prediction. The main reason
+for using a Qwerty keyboard for text input is to support touch typing, but a Qwerty keyboard is very
+large and therefore unsuitable for the mobile paradigm. The authors present a model for predicting
+movement time to aid in modeling and designing input techniques. Predictive text input methods
+attempt to reduce input overhead by predicting what the user will type in. This involves using a
+corpus to determine the relative frequency of characters, words, or phrases. However, some caveats
+should be considered, such as that the corpus may not be representative, may not reflect the editing
+process (like arrow keys) and input modality (like upper and lower case). In addition, there are
+hybrid input techniques that use both motion minimization and predictive features.
+A further technique is the minimization of keys in order to save space. Some keyboards are designed
+such that more than one letter is on each key or there are modi keys, e.g. Shift for upper and
+lower case. To counteract the ambiguity caused by the above, embedded database of language
+statistics are used to identify legal words.
 
-With soft keyboards, the user types with a stylus or finger on keys placed on a display. The soft keyboard disappears when no input is entered, releasing screen space for other purposes. It features efficient use of space and offers performance advantages. There are two keyboard arrangements: Qwerty and alphabetic. Several keyboards use different algorithms to minimize the distance between common character pairs to increase typing speed.  Thus, Metroplosis keyboard employs the same named algorithm, which uses a random walk strategy instead of a greedy algorithm for prediction. It holds the distinction of delivering the fastest predictions of all soft keyboards tested. Other examples of keyboards are Fitaly, Cubon, OPTI I + II and DotNote. 
+The next chapter of the text presents an overview of text input techniques. One type is key-based
+text entry, which range from those that use a keyboard where each key represents one or more letters
+to those with only three keys in total. An example would be the phone keypad, where three or four
+characters are grouped on each key, creating ambiguity. There are the multi-tap, the two-key or
+one-key with disambiguation method (T9). T9 compares the word possibilities with a linguistic
+database to estimate the intended word. With one version, to support disambiguation, a mode shift
+is used to explicitly select one character from any key, whereas the other characters remain
+ambiguous (reduces memory requirements). Text input via phone keypad has 2 FOA (keypad and display).
+Often a miniature Qwerty keyboard or half-Qwerty keyboard is used as the keyboard is small,
+familiar to users, supports relatively fast text entry, and allows typing with one hand.
+Another option is text input with five or three keys, which require very limited hardware.
+The desired character is selected by rotating through the character set. However, this method is
+very slow, requires many keystrokes and is not even suitable for very small texts. An optimized
+technique is fluctuating optimal character layout (FOCL), in which the input device, moves the
+most likely characters closer to the base position of the cursor as it analyzes the previously
+entered characters, thus minimizing the number of cursor movements. However, the technique
+takes some time to become familiar before it delivers benefits. Other small keyboards are
+Single Hand Key Card (SHK) or chord keyboards. However, most of these keyboards are connected
+to the computer and are not explicitly intended for mobile devices.
 
-The last presented input techniques are predictive ones. On the one hand, these are reactive keyboards, which track what a user enters and, based on that, display text predictions from which the user can choose. The predictions are generated by retrieving the longest matching substrings in the previously entered text. On the other hand, there exists POBox, which searches for similar words based on spelling, pronunciation or shape. 
+Another form is stylus-based text input, which use a stylus to select characters by touch or gesture.
+Handwriting recognition is a major challenge here (segmentation and recognition), and although it
+was used early on, it initially achieved only moderate success. One possibility is to restrict the
+input, e.g., only block-printed characters. The relatively high expectations of users are also an
+obstacle. There were no mobile commercial products available in time of the paper where natural
+handwriting recognition was the only text input method, and products that supported pen-based
+text input work with constraints or stylized alphabets. One alphabet is Unistrokes, which uses
+a simplified set of strokes that is both easier for the software to recognize and faster for the
+user to write. However, it did not catch on largely because the strokes are not similar enough
+to normal letters. Graffiti has a similar structure, but here the characters are very similar
+to the normal alphabet and it has punctuation, numbers, symbolic characters, and mode
+changes (upper and lower case). But practice is also required to learn the alphabet and to achieve
+a fast typing speed. The alphabets have the capability to support simple FOA text entry as soon
+as the user is familiar with it.
+Gesture-based is another form of text input which have a boundary in which informal movements of
+the pen are interpreted as characters, e.g. Cirrin, Quikwriting or T-Cube. Users must pay attention
+to the screen when entering text and hence is a two-FOA interface when the user fixes mistakes while
+typing. Quick text input is possible with the methods, but they are difficult to learn.
 
-In conclusion, many text input methods exist for the use on mobile devices, but choosing the appropriate one is difficult due to the lack of publications that provide empirically measured text input speeds and accuracies. The paper synthesized several of these techniques and provided a snapshot of the state-of-the-art at that time. The authors showed that movement and language are ubiquitous in human-computer interaction and how Fitts' law and a language corpus can collaborate in a priori analysis of design alternations. Further work is needed, in their opinion, for example in the treatment of blanks and punctuation marks. They have addressed many methodological and evaluation issues and identified factors that affect user performance, such as focus of attention. As they pointed out, the measurement and treatment of errors, as well as the selection of the types of tasks to use, is tricky and hence requires special attention.
+With soft keyboards, the user types with a stylus or finger on keys placed on a display. The soft
+keyboard disappears when no input is entered, releasing screen space for other purposes.
+It features efficient use of space and offers performance advantages.
+There are two keyboard arrangements: Qwerty and alphabetic. Several keyboards use different algorithms
+to minimize the distance between common character pairs to increase typing speed.  Thus, Metroplosis
+keyboard employs the same named algorithm, which uses a random walk strategy instead of a greedy
+algorithm for prediction. It holds the distinction of delivering the fastest predictions of all
+soft keyboards tested. Other examples of keyboards are Fitaly, Cubon, OPTI I + II and DotNote.
+
+The last presented input techniques are predictive ones. On the one hand, these are reactive
+keyboards, which track what a user enters and, based on that, display text predictions from which
+the user can choose. The predictions are generated by retrieving the longest matching substrings
+in the previously entered text. On the other hand, there exists POBox, which searches for similar
+words based on spelling, pronunciation or shape.
+
+In conclusion, many text input methods exist for the use on mobile devices, but choosing the
+appropriate one is difficult due to the lack of publications that provide empirically measured
+text input speeds and accuracies. The paper synthesized several of these techniques and provided
+a snapshot of the state-of-the-art at that time. The authors showed that movement and language
+are ubiquitous in human-computer interaction and how Fitts' law and a language corpus can
+collaborate in a priori analysis of design alternations. Further work is needed, in their opinion,
+for example in the treatment of blanks and punctuation marks. They have addressed many
+methodological and evaluation issues and identified factors that affect user performance, such as
+focus of attention. As they pointed out, the measurement and treatment of errors, as well as the
+selection of the types of tasks to use, is tricky and hence requires special attention.
