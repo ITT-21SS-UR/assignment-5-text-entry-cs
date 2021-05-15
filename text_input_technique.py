@@ -132,11 +132,11 @@ class EditTextWidget(QtWidgets.QTextEdit):
                 and (has_modifier
                      or not key_text
                      or len(completion_prefix) < 3
-                     or eow.__contains__(key_text[-1]))):  # key_text[-1] in eow
+                     or key_text[-1] in eow)):
             self.__completer.popup().hide()
             return
 
-        if completion_prefix != self.__completer.completionPrefix():
+        if completion_prefix != self.__completer.completionPrefix():  # TODO this is not working correctly
             self.__completer.setCompletionPrefix(completion_prefix)
             self.__completer.popup().setCurrentIndex(self.__completer.completionModel().index(0, 0))
 

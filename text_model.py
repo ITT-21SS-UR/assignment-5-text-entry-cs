@@ -175,7 +175,8 @@ class TextModel(QObject):
         word_time = self.__calculate_time_difference(self.__word_start_time)
         sentence_time = self.__calculate_time_difference(self.__sentence_start_time)
 
-        if self.__sentence_count > self.__total_sentences:
+        if self.__sentence_count == self.__total_sentences:
+            # TODO and autocomplete is not open
             self.__write_to_stdout_in_csv_format(
                 self.__create_row_data(key_event, LogType.TEST_FINISHED, word_time=word_time,
                                        sentence_time=sentence_time))
