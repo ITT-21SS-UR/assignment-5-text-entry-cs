@@ -1,5 +1,5 @@
 {
   "participant_id": 1,
-  "keyboard_type": "normal",
-  "example_text": "Ich bin ein Text."
+  "keyboard_type": "auto_complete",
+  "example_text": "Ich bin ein Text\nDas ist nur vorübergehend\nDer dritte Satz und dann ist Ende"
 }

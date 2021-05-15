@@ -3,13 +3,13 @@
 
 import sys
 
-from PyQt5 import QtCore, QtWidgets
-from PyQt5.QtGui import QFont
-from PyQt5.QtWidgets import QVBoxLayout, QLabel
+from PyQt5 import QtWidgets, QtCore
+from PyQt5.QtWidgets import QVBoxLayout
 
 from config_parser import ConfigParser
-from edit_text_widget import EditTextWidget
-from text_model import TextModel
+from example_text_display import ExampleTextDisplay
+from text_input_technique import EditTextWidget
+from text_model import TextModel, KeyboardType
 
 """
 The features of the program were discussed together and everyone got their own tasks.
@@ -22,37 +22,34 @@ class MainWindow(QtWidgets.QWidget):
     def __init__(self, config):
         super(MainWindow, self).__init__()
 
-        self.__model = TextModel(config)  # TODO all widgets share the same model
+        self.__model = TextModel(config)
 
         self.setFixedSize(800, 600)
         self.move(QtWidgets.qApp.desktop().availableGeometry(self).center() - self.rect().center())
 
         self.setWindowTitle("Typing Speed Test")
 
-        self.__setup_typing_speed_display()
-        self.__setup_example_text()
+        self.__example_text = ExampleTextDisplay(self.__model, self)
+        self.__edit_text = EditTextWidget(self.__model, self)
+        self.__setup_completer()
 
-        self.edit_text = EditTextWidget(self.__model, self)
-
-        layout = QVBoxLayout(self)  # or QGridLayout
-        layout.addWidget(self.typing_speed_display)
-        layout.addWidget(self.example_text)
-        layout.addWidget(self.edit_text)
+        layout = QVBoxLayout(self)
+        layout.addWidget(self.__example_text)
+        layout.addWidget(self.__edit_text)
         self.setLayout(layout)
 
-    def __setup_example_text(self):
-        self.example_text = QLabel(self)
-        self.example_text.setFont(QFont("Arial", 15))
-        self.example_text.setText(self.__model.get_example_text())
-        self.example_text.setAlignment(QtCore.Qt.AlignCenter)
+        self.__model.test_finished.connect(self.__close_program)
 
-    def __setup_typing_speed_display(self):
-        # TODO should we display the time or is it sufficient to log the time
-        # self.typing_speed_display = TypingSpeedDisplay(self) # this is not working
-        self.typing_speed_display = QLabel(self)
-        self.typing_speed_display.setFont(QFont("Arial", 15))
-        self.typing_speed_display.setText("Speed")
-        self.typing_speed_display.setAlignment(QtCore.Qt.AlignCenter)
+    def __setup_completer(self):
+        if self.__model.get_keyboard_type() == KeyboardType.AUTO_COMPLETE.value:
+            completer = QtWidgets.QCompleter(self.__model.get_word_list(), self)
+            completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
+            completer.setWrapAround(False)
+            self.__edit_text.setCompleter(completer)
+
+    @staticmethod
+    def __close_program():
+        sys.exit(0)
 
 
 def main():

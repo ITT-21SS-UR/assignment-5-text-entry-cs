@@ -4,7 +4,7 @@ from datetime import datetime
 from enum import Enum
 
 from PyQt5 import QtCore
-from PyQt5.QtCore import QObject
+from PyQt5.QtCore import QObject, pyqtSignal
 
 
 class ConfigKeys(Enum):
@@ -15,6 +15,12 @@ class ConfigKeys(Enum):
     @staticmethod
     def get_all_values():
         return list(map(lambda v: v.value, ConfigKeys))
+
+
+class KeyboardType(Enum):
+    NORMAL = "normal"
+    AUTO_COMPLETE = "auto_complete"
+    # further keyboard types can be extended
 
 
 class LogType(Enum):
@@ -37,13 +43,13 @@ class TextModel(QObject):
 
     INVALID_TIME = "NaN"
 
+    test_finished = pyqtSignal()
+
     @staticmethod
-    def __is_sentence_end(key_code):
-        if key_code == QtCore.Qt.Key_Enter \
-                or key_code == QtCore.Qt.Key_Return \
-                or key_code == QtCore.Qt.Key_Question \
-                or key_code == QtCore.Qt.Key_Exclam \
-                or key_code == QtCore.Qt.Key_Period:
+    def __is_sentence_end(value):
+        if value == QtCore.Qt.Key_Enter \
+                or value == QtCore.Qt.Key_Return \
+                or value == "\n":
             return True
 
         return False
@@ -55,6 +61,9 @@ class TextModel(QObject):
                 or key_code == QtCore.Qt.Key_Comma \
                 or key_code == QtCore.Qt.Key_Semicolon \
                 or key_code == QtCore.Qt.Key_Tab:
+            # or key_code == QtCore.Qt.Key_Question \
+            # or key_code == QtCore.Qt.Key_Exclam \
+            # or key_code == QtCore.Qt.Key_Period:
             return True
 
         return False
@@ -84,17 +93,24 @@ class TextModel(QObject):
         self.__template_doc = ""
 
         self.__content = ""
+
         self.__first_start_time = self.INVALID_TIME
-
         self.__word_start_time = self.INVALID_TIME
-        self.__current_word = ""
-        self.__word_count = 0
-
         self.__sentence_start_time = self.INVALID_TIME
-        self.__sentence = ""
+
         self.__sentence_count = 0
+        self.__total_sentences = self.__calculate_number_sentences(self.get_example_text())
 
         self.__stdout_csv_column_names()
+
+    def __calculate_number_sentences(self, text):
+        sentence_number = 0
+
+        for char in text:
+            if self.__is_sentence_end(char):
+                sentence_number += 1
+
+        return sentence_number
 
     def __calculate_time_difference(self, start_time):
         end_time = datetime.now()
@@ -133,7 +149,8 @@ class TextModel(QObject):
     def __calculate_words_per_minute(self):
         minutes_since_typing_start = self.__calculate_time_difference(self.__first_start_time) / 60
 
-        return len(self.__content) / minutes_since_typing_start / 5  # characters per minute / 5
+        # characters per minute / 5
+        return len(self.__content) / minutes_since_typing_start / 5
 
     def __create_row_data(self, key_event, log_type, word_time="NaN", sentence_time="NaN"):
         return {
@@ -149,6 +166,47 @@ class TextModel(QObject):
             self.WORDS_PER_MINUTE: self.__calculate_words_per_minute()
         }
 
+    def __handle_sentence_end(self, key_event):
+        self.__sentence_count = self.__calculate_number_sentences(self.__content)
+
+        # TODO is not working correctly when enter/return is pressed
+        word_time = self.__calculate_time_difference(self.__word_start_time)
+        sentence_time = self.__calculate_time_difference(self.__sentence_start_time)
+
+        if self.__sentence_count > self.__total_sentences:
+            self.__write_to_stdout_in_csv_format(
+                self.__create_row_data(key_event, LogType.TEST_FINISHED, word_time=word_time,
+                                       sentence_time=sentence_time))
+            self.test_finished.emit()
+
+        else:
+            self.__write_to_stdout_in_csv_format(
+                self.__create_row_data(key_event, LogType.SENTENCE_TYPED, word_time=word_time,
+                                       sentence_time=sentence_time))
+
+        self.__word_start_time = self.INVALID_TIME
+        self.__sentence_start_time = self.INVALID_TIME
+
+    def __handle_word_end(self, key_event):
+        word_time = self.__calculate_time_difference(self.__word_start_time)
+
+        self.__write_to_stdout_in_csv_format(
+            self.__create_row_data(key_event, LogType.WORD_TYPED, word_time=word_time))
+
+        self.__word_start_time = self.INVALID_TIME
+
+    def __handle_rest(self, key_event):
+        if self.__word_start_time == self.INVALID_TIME:
+            self.__word_start_time = datetime.now()
+
+        if self.__sentence_start_time == self.INVALID_TIME:
+            self.__sentence_start_time = datetime.now()
+
+        self.__write_to_stdout_in_csv_format(self.__create_row_data(key_event, LogType.KEY_PRESSED))
+
+    def __generate_word_list(self):
+        return self.get_example_text().replace(" ", "\n").split("\n")
+
     def get_participant_id(self):
         return self.__config[ConfigKeys.PARTICIPANT_ID.value]
 
@@ -157,6 +215,9 @@ class TextModel(QObject):
 
     def get_example_text(self):
         return self.__config[ConfigKeys.EXAMPLE_TEXT.value]
+
+    def get_word_list(self):
+        return self.__generate_word_list()
 
     def set_number_position_value(self, val_id, amount):
         self.__numbers[int(str(val_id))] += amount / 120
@@ -186,39 +247,15 @@ class TextModel(QObject):
         self.__template_doc = content
 
     def handle_key_event(self, key_event, text):
-        # LogType.TEST_FINISHED = "test_finished"
-        # TODO how to check that/ count the number of sentences in example text? and after that output test finished?
         self.__content = text
-        key_code = key_event.key()
 
         if self.__first_start_time == self.INVALID_TIME:
             self.__first_start_time = datetime.now()
 
+        key_code = key_event.key()
         if self.__is_sentence_end(key_code):
-            # print("sentence end")
-            # is not working correctly when enter/return is pressed
-            word_time = self.__calculate_time_difference(self.__word_start_time)
-            sentence_time = self.__calculate_time_difference(self.__sentence_start_time)
-
-            self.__write_to_stdout_in_csv_format(
-                self.__create_row_data(key_event, LogType.SENTENCE_TYPED, word_time=word_time,
-                                       sentence_time=sentence_time))
-
-            self.__word_start_time = self.INVALID_TIME
-            self.__sentence_start_time = self.INVALID_TIME
-
+            self.__handle_sentence_end(key_event)
         elif self.__is_word_end(key_code):
-            word_time = self.__calculate_time_difference(self.__word_start_time)
-
-            self.__write_to_stdout_in_csv_format(
-                self.__create_row_data(key_event, LogType.WORD_TYPED, word_time=word_time))
-
-            self.__word_start_time = self.INVALID_TIME
+            self.__handle_word_end(key_event)
         else:
-            if self.__word_start_time == self.INVALID_TIME:
-                self.__word_start_time = datetime.now()
-
-            if self.__sentence_start_time == self.INVALID_TIME:
-                self.__sentence_start_time = datetime.now()
-
-            self.__write_to_stdout_in_csv_format(self.__create_row_data(key_event, LogType.KEY_PRESSED))
+            self.__handle_rest(key_event)
