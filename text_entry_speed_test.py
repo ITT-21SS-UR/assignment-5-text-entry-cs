@@ -13,10 +13,11 @@ from text_model import TextModel, KeyboardType
 
 """
 The features of the program were discussed together and everyone got their own tasks.
-The authors of the python and sub files are written at the beginning of the python files.
 """
 
 
+# Author: Claudia
+# Reviewer: Sarah
 class MainWindow(QtWidgets.QWidget):
 
     def __init__(self, config):
@@ -45,7 +46,7 @@ class MainWindow(QtWidgets.QWidget):
             completer = QtWidgets.QCompleter(self.__model.get_word_list(), self)
             completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
             completer.setWrapAround(False)
-            self.__edit_text.setCompleter(completer)
+            self.__edit_text.set_completer(completer)
 
     @staticmethod
     def __close_program():

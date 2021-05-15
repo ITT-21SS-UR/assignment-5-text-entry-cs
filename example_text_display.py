@@ -2,6 +2,8 @@ from PyQt5 import QtWidgets, QtCore
 from PyQt5.QtGui import QFont
 
 
+# Author: Claudia
+# Reviewer: Sarah
 class ExampleTextDisplay(QtWidgets.QLabel):
 
     def __init__(self, model, parent=None):

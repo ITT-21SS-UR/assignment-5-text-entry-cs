@@ -1,13 +1,16 @@
 from PyQt5 import QtWidgets, QtCore, QtGui
 
 
+# Sources:
 # https://doc.qt.io/qt-5/qcompleter.html
-# Main source for auto_completer, also the comments are directly copied from the following source:
+# Main source for autocomplete, also the text for our comments are directly copied from the following source:
 # https://doc.qt.io/qt-5/qtwidgets-tools-customcompleter-example.html
 # For python specific reference:
 # https://www.howtobuildsoftware.com/index.php/how-do/IFK/python-3x-autocomplete-pyqt-qtextedit-pyqt5-pyqt5-qtextedit-auto-completion
 
 
+# Author: Claudia
+# Reviewer: Sarah
 class EditTextWidget(QtWidgets.QTextEdit):
 
     def __init__(self, model, parent=None):
@@ -31,27 +34,8 @@ class EditTextWidget(QtWidgets.QTextEdit):
         self.setHtml(self.__model.create_doc())
         self.setTextCursor(cursor)
 
-    def setCompleter(self, completer):
-        # The setCompleter() function accepts a completer and sets it up.
-        if self.__completer:
-            self.disconnect(self)
-
-        self.__completer = completer
-
-        if not self.__completer:
-            return
-
-        self.__completer.setWidget(self)
-        self.__completer.setCompletionMode(QtWidgets.QCompleter.PopupCompletion)
-        self.__completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
-
-        self.__completer.activated.connect(self.insertCompletion)
-
-    def get_completer(self):
-        return self.__completer
-
-    def insertCompletion(self, completion):
-        # The insertCompletion() function is responsible for completing the word using a QTextCursor object, tc.
+    def __insert_completion(self, completion):
+        # The __insert_completion() function is responsible for completing the word using a QTextCursor object, tc.
         if self.__completer.widget() != self:
             return
 
@@ -62,15 +46,16 @@ class EditTextWidget(QtWidgets.QTextEdit):
         tc.insertText(completion[-extra:])
         self.setTextCursor(tc)
 
-    def text_under_cursor(self):
-        # The textUnderCursor() function uses a QTextCursor, tc, to select a word under the cursor and return it.
+    def __text_under_cursor(self):
+        # The __text_under_cursor() function uses a QTextCursor, tc, to select a word under the cursor and return it.
         tc = self.textCursor()
         tc.select(QtGui.QTextCursor.WordUnderCursor)
 
         return tc.selectedText()
 
     def focusInEvent(self, event):
-        # The TextEdit class reimplements focusInEvent() function, which is an event handler used to receive keyboard focus events for the widget.
+        # The TextEdit class reimplements focusInEvent() function,
+        # which is an event handler used to receive keyboard focus events for the widget.
         if self.__completer:
             self.__completer.setWidget(self)
         QtWidgets.QTextEdit.focusInEvent(self, event)
@@ -85,9 +70,27 @@ class EditTextWidget(QtWidgets.QTextEdit):
         if anchor:
             self.__change_value(anchor, event.angleDelta().y())
 
+    def set_completer(self, completer):
+        # The set_completer() function accepts a completer and sets it up.
+        if self.__completer:
+            self.disconnect(self)
+
+        self.__completer = completer
+
+        if not self.__completer:
+            return
+
+        self.__completer.setWidget(self)
+        self.__completer.setCompletionMode(QtWidgets.QCompleter.PopupCompletion)
+        self.__completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
+
+        self.__completer.activated.connect(self.__insert_completion)
+
     def keyPressEvent(self, event):
         key_code = event.key()
         key_text = event.text()
+
+        self.__model.handle_key_event(event, self.toPlainText())
 
         # The keyPressEvent() is reimplemented to ignore key events like
         # Qt::Key_Enter, Qt::Key_Return, Qt::Key_Escape, Qt::Key_Tab,
@@ -119,11 +122,11 @@ class EditTextWidget(QtWidgets.QTextEdit):
                 or (ctrl_or_shift and not key_text):
             return
 
-        eow = "~!@#$%^&*()_+{}|:\"<>?,./;'[]\\-="  # end of word # TODO also for own word end
+        eow = "~!@#$%^&*()_+{}|:\"<>?,./;'[]\\-="  # end of word
         has_modifier = ((event.modifiers() != QtCore.Qt.NoModifier)
                         and not ctrl_or_shift)
 
-        completion_prefix = self.text_under_cursor()
+        completion_prefix = self.__text_under_cursor()
 
         if (not is_shortcut
                 and (has_modifier
@@ -141,7 +144,3 @@ class EditTextWidget(QtWidgets.QTextEdit):
         cr.setWidth(self.__completer.popup().sizeHintForColumn(0)
                     + self.__completer.popup().verticalScrollBar().sizeHint().width())
         self.__completer.complete(cr)  # popup it up!
-
-        # TODO somehow use the old code for logging
-        # QtWidgets.QTextEdit.keyPressEvent(self, event)
-        # self.__model.handle_key_event(event, self.toPlainText())

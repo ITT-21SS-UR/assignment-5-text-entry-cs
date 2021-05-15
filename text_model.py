@@ -7,6 +7,8 @@ from PyQt5 import QtCore
 from PyQt5.QtCore import QObject, pyqtSignal
 
 
+# Author: Claudia
+# Reviewer: Sarah
 class ConfigKeys(Enum):
     PARTICIPANT_ID = "participant_id"
     KEYBOARD_TYPE = "keyboard_type"
@@ -55,7 +57,7 @@ class TextModel(QObject):
         return False
 
     @staticmethod
-    def __is_word_end(key_code):
+    def __is_word_end(key_code):  # "~!@#$%^&*()_+{}|:\"<>?,./;'[]\\-="  # TODO also for own word end
         if key_code == QtCore.Qt.Key_Space \
                 or key_code == QtCore.Qt.Key_Colon \
                 or key_code == QtCore.Qt.Key_Comma \
