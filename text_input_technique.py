@@ -9,7 +9,7 @@ from PyQt5 import QtWidgets, QtCore, QtGui
 # https://www.howtobuildsoftware.com/index.php/how-do/IFK/python-3x-autocomplete-pyqt-qtextedit-pyqt5-pyqt5-qtextedit-auto-completion
 
 
-# Author: Claudia
+# Author: Claudia, Sarah
 # Reviewer: Sarah
 class EditTextWidget(QtWidgets.QTextEdit):
 
@@ -17,22 +17,12 @@ class EditTextWidget(QtWidgets.QTextEdit):
         super(EditTextWidget, self).__init__(parent)
 
         self.__model = model
-        self.__setup_ui()
         self.__completer = None
+        self.__setup_ui()
 
     def __setup_ui(self):
         self.setGeometry(0, 0, 400, 400)
         self.setFocusPolicy(QtCore.Qt.StrongFocus)
-        self.setMouseTracking(True)
-
-    def __change_value(self, val_id, amount):
-        self.__model.set_number_position_value(val_id, amount)
-        self.__render_template()
-
-    def __render_template(self):
-        cursor = self.textCursor()
-        self.setHtml(self.__model.create_doc())
-        self.setTextCursor(cursor)
 
     def __insert_completion(self, completion):
         # The __insert_completion() function is responsible for completing the word using a QTextCursor object, tc.
@@ -58,17 +48,8 @@ class EditTextWidget(QtWidgets.QTextEdit):
         # which is an event handler used to receive keyboard focus events for the widget.
         if self.__completer:
             self.__completer.setWidget(self)
-        QtWidgets.QTextEdit.focusInEvent(self, event)
 
-    def wheelEvent(self, event):
-        super(EditTextWidget, self).wheelEvent(event)
-
-        self.__model.generate_template(self.toPlainText())
-        self.__render_template()
-
-        anchor = self.anchorAt(event.pos())
-        if anchor:
-            self.__change_value(anchor, event.angleDelta().y())
+        super(EditTextWidget, self).focusInEvent(event)
 
     def set_completer(self, completer):
         # The set_completer() function accepts a completer and sets it up.
@@ -90,8 +71,6 @@ class EditTextWidget(QtWidgets.QTextEdit):
         key_code = event.key()
         key_text = event.text()
 
-        self.__model.handle_key_event(event, self.toPlainText())
-
         # The keyPressEvent() is reimplemented to ignore key events like
         # Qt::Key_Enter, Qt::Key_Return, Qt::Key_Escape, Qt::Key_Tab,
         # and Qt::Key_Backtab so the completer can handle them.
@@ -109,36 +88,40 @@ class EditTextWidget(QtWidgets.QTextEdit):
                 return  # let the completer do default behavior
 
         is_shortcut = (event.modifiers() == QtCore.Qt.ControlModifier
-                       and key_code == QtCore.Qt.Key_E)  # CTRL+E
+                       and key_code == QtCore.Qt.Key_Space)  # Ctrl+Space
 
         if not self.__completer or not is_shortcut:  # do not process the shortcut when we have a completer
-            QtWidgets.QTextEdit.keyPressEvent(self, event)
+            super(EditTextWidget, self).keyPressEvent(event)
 
         # We also handle other modifiers and shortcuts for which we do not want the completer to respond to.
         ctrl_or_shift = (event.modifiers() == QtCore.Qt.ControlModifier
                          or event.modifiers() == QtCore.Qt.ShiftModifier)
 
-        if not self.__completer \
-                or (ctrl_or_shift and not key_text):
+        if (not self.__completer
+                or (ctrl_or_shift and not key_text)):
             return
 
-        eow = "~!@#$%^&*()_+{}|:\"<>?,./;'[]\\-="  # end of word
+        self.__model.handle_key_event(event, self.toPlainText())
+
         has_modifier = ((event.modifiers() != QtCore.Qt.NoModifier)
                         and not ctrl_or_shift)
 
         completion_prefix = self.__text_under_cursor()
+        self.__completer.setCompletionPrefix(completion_prefix)
 
         if (not is_shortcut
                 and (has_modifier
                      or not key_text
-                     or len(completion_prefix) < 3
-                     or key_text[-1] in eow)):
+                     or len(completion_prefix) < 3 # TODO parameter
+                     or self.__model.is_word_end(key_text[-1]))):
             self.__completer.popup().hide()
             return
 
-        if completion_prefix != self.__completer.completionPrefix():  # TODO this is not working correctly
-            self.__completer.setCompletionPrefix(completion_prefix)
-            self.__completer.popup().setCurrentIndex(self.__completer.completionModel().index(0, 0))
+        if (self.__completer.completionCount() == 1
+                and self.__completer.currentCompletion().lower() == completion_prefix.lower()):
+            return self.__completer.popup().hide()
+
+        self.__completer.popup().setCurrentIndex(self.__completer.completionModel().index(0, 0))
 
         cr = self.cursorRect()
         cr.setWidth(self.__completer.popup().sizeHintForColumn(0)

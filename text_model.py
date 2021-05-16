@@ -1,5 +1,6 @@
 import re
 import sys
+import string
 from datetime import datetime
 from enum import Enum
 
@@ -7,7 +8,7 @@ from PyQt5 import QtCore
 from PyQt5.QtCore import QObject, pyqtSignal
 
 
-# Author: Claudia
+# Author: Claudia, Sarah
 # Reviewer: Sarah
 class ConfigKeys(Enum):
     PARTICIPANT_ID = "participant_id"
@@ -57,18 +58,8 @@ class TextModel(QObject):
         return False
 
     @staticmethod
-    def __is_word_end(key_code):  # "~!@#$%^&*()_+{}|:\"<>?,./;'[]\\-="  # TODO also for own word end
-        if key_code == QtCore.Qt.Key_Space \
-                or key_code == QtCore.Qt.Key_Colon \
-                or key_code == QtCore.Qt.Key_Comma \
-                or key_code == QtCore.Qt.Key_Semicolon \
-                or key_code == QtCore.Qt.Key_Tab:
-            # or key_code == QtCore.Qt.Key_Question \
-            # or key_code == QtCore.Qt.Key_Exclam \
-            # or key_code == QtCore.Qt.Key_Period:
-            return True
-
-        return False
+    def is_word_end(key_text):
+        return key_text in string.punctuation + string.whitespace
 
     @staticmethod
     def __write_to_stdout_in_csv_format(row_data):
@@ -90,9 +81,6 @@ class TextModel(QObject):
         super().__init__()
 
         self.__config = config
-
-        self.__numbers = []
-        self.__template_doc = ""
 
         self.__content = ""
 
@@ -150,18 +138,22 @@ class TextModel(QObject):
 
     def __calculate_words_per_minute(self):
         minutes_since_typing_start = self.__calculate_time_difference(self.__first_start_time) / 60
-
-        # characters per minute / 5
-        return len(self.__content) / minutes_since_typing_start / 5
+        return len(self.get_clean_content()) / 5 / minutes_since_typing_start
 
     def __create_row_data(self, key_event, log_type, word_time="NaN", sentence_time="NaN"):
+        lines = self.__content.strip().splitlines()
+
+        key_text = key_event.text().replace('\r', "<RETURN>")
+        key_text = key_text.replace('\n', "<NEWLINE>")
+        key_text = key_text.replace('\t', "<TAB>")
+
         return {
             self.LOG_TYPE: log_type.value,
             ConfigKeys.PARTICIPANT_ID.value: self.get_participant_id(),
             ConfigKeys.KEYBOARD_TYPE: self.get_keyboard_type(),
             self.KEY_CODE: key_event.key(),
-            self.KEY_VALUE: key_event.text(),
-            self.CONTENT: self.__content,
+            self.KEY_VALUE: key_text,
+            self.CONTENT: lines[-1] if lines else "",
             self.TIMESTAMP: datetime.now(),
             self.WORD_TIME: word_time,
             self.SENTENCE_TIME: sentence_time,
@@ -208,7 +200,7 @@ class TextModel(QObject):
         self.__write_to_stdout_in_csv_format(self.__create_row_data(key_event, LogType.KEY_PRESSED))
 
     def __generate_word_list(self):
-        return self.get_example_text().replace(" ", "\n").split("\n")
+        return list(set(self.get_example_text().replace(" ", "\n").splitlines()))
 
     def get_participant_id(self):
         return self.__config[ConfigKeys.PARTICIPANT_ID.value]
@@ -222,32 +214,9 @@ class TextModel(QObject):
     def get_word_list(self):
         return self.__generate_word_list()
 
-    def set_number_position_value(self, val_id, amount):
-        self.__numbers[int(str(val_id))] += amount / 120
-
-    def create_doc(self):
-        doc = self.__template_doc
-
-        for num_id, num in enumerate(self.__numbers):
-            doc = doc.replace("$" + str(num_id) + "$", "%d" % (num))
-
-        return doc
-
-    def generate_template(self, plaint_text):
-        content = str(plaint_text)
-        numbers = list(re.finditer(" -?[0-9]+", content))
-        numbers = [int(n.group()) for n in numbers]
-
-        self.__numbers = numbers
-
-        if len(numbers) == 0:
-            self.__template_doc = content
-            return
-
-        for num_id in range(len(numbers)):
-            content = re.sub(" " + str(numbers[num_id]), " <a href='%d'>$%d$</a>" % (num_id, num_id), content, count=1)
-
-        self.__template_doc = content
+    def get_clean_content(self):
+        p = re.compile("\W")
+        return p.sub('', self.__content)
 
     def handle_key_event(self, key_event, text):
         self.__content = text
@@ -258,7 +227,7 @@ class TextModel(QObject):
         key_code = key_event.key()
         if self.__is_sentence_end(key_code):
             self.__handle_sentence_end(key_event)
-        elif self.__is_word_end(key_code):
+        elif self.is_word_end(key_event.text()):
             self.__handle_word_end(key_event)
         else:
             self.__handle_rest(key_event)
