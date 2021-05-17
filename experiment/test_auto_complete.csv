@@ -1,0 +1,139 @@
+log_type;participant_id;keyboard_type;txt_file;key_limit;key_code;key_value;content;timestamp;word_time_in_s;sentence_time_in_s;words_per_minute
+key_pressed;1;auto_complete;wahrheit.txt;3;87;W;W;2021-05-17 15:09:14.541240;NaN;NaN;18237.0820668693
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Wa;2021-05-17 15:09:14.767454;NaN;NaN;105.84297312911521
+key_pressed;1;auto_complete;wahrheit.txt;3;72;h;Wah;2021-05-17 15:09:15.739909;NaN;NaN;30.019687911988946
+sentence_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;Wahrheit;2021-05-17 15:09:17.028012;2.486877;2.486902;38.596145612000186
+key_pressed;1;auto_complete;wahrheit.txt;3;86;v;v;2021-05-17 15:09:17.532670;NaN;NaN;36.09677545499484
+key_pressed;1;auto_complete;wahrheit.txt;3;79;o;vo;2021-05-17 15:09:17.707684;NaN;NaN;37.89099959298751
+key_pressed;1;auto_complete;wahrheit.txt;3;78;n;von;2021-05-17 15:09:18.234584;NaN;NaN;35.73476359017424
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;von;2021-05-17 15:09:18.680507;1.147982;NaN;31.885767787548033
+key_pressed;1;auto_complete;wahrheit.txt;3;74;J;von J;2021-05-17 15:09:19.721575;NaN;NaN;27.794656168522092
+key_pressed;1;auto_complete;wahrheit.txt;3;75;K;von JK;2021-05-17 15:09:19.734479;NaN;NaN;30.03596807176594
+key_pressed;1;auto_complete;wahrheit.txt;3;79;o;von JKo;2021-05-17 15:09:20.475524;NaN;NaN;28.307513959985307
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;von JK;2021-05-17 15:09:20.931570;NaN;NaN;24.409833595347862
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;von J;2021-05-17 15:09:21.115818;NaN;NaN;21.900757629334237
+key_pressed;1;auto_complete;wahrheit.txt;3;79;o;von Jo;2021-05-17 15:09:21.721701;NaN;NaN;21.724039250882715
+key_pressed;1;auto_complete;wahrheit.txt;3;72;h;von Joh;2021-05-17 15:09:22.051986;NaN;NaN;22.366349082260772
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;von Joha;2021-05-17 15:09:22.267423;NaN;NaN;23.295783980783565
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;von Johann;2021-05-17 15:09:23.020134;3.298474;NaN;24.058246429797503
+key_pressed;1;auto_complete;wahrheit.txt;3;87;W;von Johann W;2021-05-17 15:09:24.235647;NaN;NaN;22.279677200484297
+key_pressed;1;auto_complete;wahrheit.txt;3;79;o;von Johann Wo;2021-05-17 15:09:24.444339;NaN;NaN;23.021852382670847
+key_pressed;1;auto_complete;wahrheit.txt;3;76;l;von Johann Wol;2021-05-17 15:09:24.675830;NaN;NaN;23.67999797930684
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;von Johann Wolfgang;2021-05-17 15:09:25.588065;1.352326;NaN;27.15578704757667
+key_pressed;1;auto_complete;wahrheit.txt;3;86;v;von Johann Wolfgang v;2021-05-17 15:09:26.251691;NaN;NaN;26.641669039084523
+key_pressed;1;auto_complete;wahrheit.txt;3;79;o;von Johann Wolfgang vo;2021-05-17 15:09:26.435705;NaN;NaN;27.2383285653648
+key_pressed;1;auto_complete;wahrheit.txt;3;78;n;von Johann Wolfgang von;2021-05-17 15:09:26.680744;NaN;NaN;27.677050338129533
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;von Johann Wolfgang von;2021-05-17 15:09:26.916112;0.664413;NaN;27.15060245247513
+key_pressed;1;auto_complete;wahrheit.txt;3;71;G;von Johann Wolfgang von G;2021-05-17 15:09:27.275540;NaN;NaN;27.326637417218155
+key_pressed;1;auto_complete;wahrheit.txt;3;79;o;von Johann Wolfgang von Go;2021-05-17 15:09:27.620074;NaN;NaN;27.524232028052698
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;von Johann Wolfgang von Goe;2021-05-17 15:09:27.811655;NaN;NaN;28.03115074655545
+sentence_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;von Johann Wolfgang von Goethe;2021-05-17 15:09:29.035967;1.760401;11.503311;28.14714776949031
+sentence_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;von Johann Wolfgang von Goethe;2021-05-17 15:09:29.340911;NaN;NaN;27.567202488399477
+key_pressed;1;auto_complete;wahrheit.txt;3;87;W;W;2021-05-17 15:09:29.955747;NaN;NaN;27.24612691440532
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Wa;2021-05-17 15:09:30.139939;NaN;NaN;27.69366219642666
+key_pressed;1;auto_complete;wahrheit.txt;3;83;s;Was;2021-05-17 15:09:30.297100;NaN;NaN;28.17905964573972
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Was;2021-05-17 15:09:30.572109;0.616473;NaN;27.695655930129604
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Was a;2021-05-17 15:09:30.931341;NaN;NaN;27.82077490741813
+key_pressed;1;auto_complete;wahrheit.txt;3;85;u;Was au;2021-05-17 15:09:31.124321;NaN;NaN;28.220622798994935
+key_pressed;1;auto_complete;wahrheit.txt;3;83;s;Was aus;2021-05-17 15:09:31.339962;NaN;NaN;28.572675224460685
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;Was au;2021-05-17 15:09:31.820570;NaN;NaN;27.0835402214878
+key_pressed;1;auto_complete;wahrheit.txt;3;67;c;Was auc;2021-05-17 15:09:32.099544;NaN;NaN;27.336656217799337
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Was auch;2021-05-17 15:09:32.923655;1.992295;NaN;26.763945266643958
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Was auch a;2021-05-17 15:09:33.500135;NaN;NaN;26.58307485160948
+key_pressed;1;auto_complete;wahrheit.txt;3;76;l;Was auch al;2021-05-17 15:09:33.657443;NaN;NaN;26.992078138927596
+key_pressed;1;auto_complete;wahrheit.txt;3;83;s;Was auch als;2021-05-17 15:09:33.795733;NaN;NaN;27.42140482661389
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Was auch als;2021-05-17 15:09:34.084106;0.584128;NaN;27.016800305167042
+key_pressed;1;auto_complete;wahrheit.txt;3;87;W;Was auch als W;2021-05-17 15:09:34.411466;NaN;NaN;27.175616989672356
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Was auch als Wa;2021-05-17 15:09:34.674470;NaN;NaN;27.416656592369847
+key_pressed;1;auto_complete;wahrheit.txt;3;72;h;Was auch als Wah;2021-05-17 15:09:34.788067;NaN;NaN;27.855475126986892
+word_finished;1;auto_complete;wahrheit.txt;3;35;#;Was auch als Wah#;2021-05-17 15:09:35.115701;0.704217;NaN;27.41192630702155
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;Was auch als Wah;2021-05-17 15:09:35.651600;NaN;NaN;26.71607308589165
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Was auch als Wahrheit;2021-05-17 15:09:36.892032;1.240341;NaN;27.917798012315416
+key_pressed;1;auto_complete;wahrheit.txt;3;79;o;Was auch als Wahrheit o;2021-05-17 15:09:37.688385;NaN;NaN;27.475782970172748
+key_pressed;1;auto_complete;wahrheit.txt;3;68;d;Was auch als Wahrheit od;2021-05-17 15:09:37.867865;NaN;NaN;27.778774469917327
+sentence_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;Was auch als Wahrheit od;2021-05-17 15:09:39.603942;1.915419;9.648267;25.854610587271523
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;Was auch als Wahrheit od;2021-05-17 15:09:40.267748;NaN;NaN;25.18750405944438
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;Was auch als Wahrheit ode;2021-05-17 15:09:40.907603;NaN;NaN;25.031385944603723
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Was auch als Wahrheit oder;2021-05-17 15:09:41.676282;1.408538;NaN;24.764545190283098
+key_pressed;1;auto_complete;wahrheit.txt;3;70;F;Was auch als Wahrheit oder F;2021-05-17 15:09:42.235858;NaN;NaN;24.697468646671876
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Was auch als Wahrheit oder Fa;2021-05-17 15:09:42.361700;NaN;NaN;25.017091418059323
+key_pressed;1;auto_complete;wahrheit.txt;3;66;b;Was auch als Wahrheit oder Fab;2021-05-17 15:09:42.540380;NaN;NaN;25.2859969470373
+sentence_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;Was auch als Wahrheit oder Fabel;2021-05-17 15:09:43.696857;1.461109;3.42924;25.106214377985992
+key_pressed;1;auto_complete;wahrheit.txt;3;73;I;I;2021-05-17 15:09:44.460210;NaN;NaN;24.866725713999234
+key_pressed;1;auto_complete;wahrheit.txt;3;78;n;In;2021-05-17 15:09:45.603555;NaN;NaN;24.33775237380006
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;In;2021-05-17 15:09:45.988603;1.528362;NaN;24.039757179373314
+key_pressed;1;auto_complete;wahrheit.txt;3;84;t;In t;2021-05-17 15:09:46.443659;NaN;NaN;24.073012695222967
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;In ta;2021-05-17 15:09:46.544882;NaN;NaN;24.37183318492554
+key_pressed;1;auto_complete;wahrheit.txt;3;85;u;In tau;2021-05-17 15:09:47.595939;NaN;NaN;23.959896940980663
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;In tausend;2021-05-17 15:09:48.508012;2.06414;NaN;24.72966283312732
+key_pressed;1;auto_complete;wahrheit.txt;3;66;B;In tausend B;2021-05-17 15:09:49.291760;NaN;NaN;24.51724621369692
+key_pressed;1;auto_complete;wahrheit.txt;3;220;ü;In tausend Bü;2021-05-17 15:09:49.804595;NaN;NaN;24.500979698896572
+key_pressed;1;auto_complete;wahrheit.txt;3;67;c;In tausend Büc;2021-05-17 15:09:49.972274;NaN;NaN;24.72371321045855
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;In tausend Büchern;2021-05-17 15:09:51.507564;2.215828;NaN;24.99536814728245
+key_pressed;1;auto_complete;wahrheit.txt;3;68;d;In tausend Büchern d;2021-05-17 15:09:52.083574;NaN;NaN;24.931504287859145
+key_pressed;1;auto_complete;wahrheit.txt;3;73;i;In tausend Büchern di;2021-05-17 15:09:52.324591;NaN;NaN;25.09006021535053
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;In tausend Büchern die;2021-05-17 15:09:52.899859;NaN;NaN;25.02661945951053
+sentence_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;In tausend Büchern die;2021-05-17 15:09:53.228727;1.144995;8.768425;24.813885519484895
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;In tausend Büchern die;2021-05-17 15:09:53.660103;NaN;NaN;24.540253684872468
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;In tausend Büchern di;2021-05-17 15:09:53.843641;NaN;NaN;24.120333596426466
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;In tausend Büchern die;2021-05-17 15:09:54.147361;NaN;NaN;24.238349628952527
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;In tausend Büchern di;2021-05-17 15:09:54.771745;NaN;NaN;23.563887328527045
+key_pressed;1;auto_complete;wahrheit.txt;3;82;r;In tausend Büchern dir;2021-05-17 15:09:54.987689;NaN;NaN;23.73477281433956
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;In tausend Büchern dir;2021-05-17 15:09:55.252595;1.5924;NaN;23.580332568167915
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;In tausend Büchern dir e;2021-05-17 15:09:55.547701;NaN;NaN;23.70327653171512
+key_pressed;1;auto_complete;wahrheit.txt;3;82;r;In tausend Büchern dir er;2021-05-17 15:09:55.764023;NaN;NaN;23.869984850079636
+key_pressed;1;auto_complete;wahrheit.txt;3;83;s;In tausend Büchern dir ers;2021-05-17 15:09:56.421034;NaN;NaN;23.782045859090953
+sentence_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;In tausend Büchern dir erscheint,;2021-05-17 15:09:57.309500;1.76173;3.649386;24.97148329090948
+key_pressed;1;auto_complete;wahrheit.txt;3;68;D;D;2021-05-17 15:09:58.243908;NaN;NaN;24.71215148658693
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Da;2021-05-17 15:09:58.516251;NaN;NaN;24.83192911275585
+key_pressed;1;auto_complete;wahrheit.txt;3;83;s;Das;2021-05-17 15:09:58.688521;NaN;NaN;25.006910310836123
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Das;2021-05-17 15:09:58.884726;0.640623;NaN;24.896254892909003
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Das a;2021-05-17 15:09:59.475783;NaN;NaN;24.83583535087405
+key_pressed;1;auto_complete;wahrheit.txt;3;76;l;Das al;2021-05-17 15:09:59.875387;NaN;NaN;24.88161271319825
+key_pressed;1;auto_complete;wahrheit.txt;3;76;l;Das all;2021-05-17 15:10:00.044946;NaN;NaN;25.052609380901238
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Das alles;2021-05-17 15:10:00.843736;1.367943;NaN;25.138744705853796
+key_pressed;1;auto_complete;wahrheit.txt;3;73;i;Das alles i;2021-05-17 15:10:01.619766;NaN;NaN;24.97926094735759
+key_pressed;1;auto_complete;wahrheit.txt;3;83;s;Das alles is;2021-05-17 15:10:01.772006;NaN;NaN;25.15280860537712
+key_pressed;1;auto_complete;wahrheit.txt;3;84;t;Das alles ist;2021-05-17 15:10:01.972363;NaN;NaN;25.299507161383914
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Das alles ist;2021-05-17 15:10:02.228124;0.608414;NaN;25.16387501782703
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;Das alles ist e;2021-05-17 15:10:02.435934;NaN;NaN;25.305232359972027
+key_pressed;1;auto_complete;wahrheit.txt;3;73;i;Das alles ist ei;2021-05-17 15:10:02.611704;NaN;NaN;25.46233695991346
+key_pressed;1;auto_complete;wahrheit.txt;3;78;n;Das alles ist ein;2021-05-17 15:10:02.852373;NaN;NaN;25.583809174589938
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Das alles ist ein;2021-05-17 15:10:03.123960;0.688021;NaN;25.440868012776754
+key_pressed;1;auto_complete;wahrheit.txt;3;84;T;Das alles ist ein T;2021-05-17 15:10:03.796751;NaN;NaN;25.33696282618878
+key_pressed;1;auto_complete;wahrheit.txt;3;85;u;Das alles ist ein Tu;2021-05-17 15:10:04.161286;NaN;NaN;25.39269756400396
+key_pressed;1;auto_complete;wahrheit.txt;3;82;r;Das alles ist ein Tur;2021-05-17 15:10:04.373270;NaN;NaN;25.525476653158897
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Das alles ist ein Turm;2021-05-17 15:10:04.939907;1.143474;NaN;25.476598910553964
+key_pressed;1;auto_complete;wahrheit.txt;3;90;z;Das alles ist ein Turm z;2021-05-17 15:10:06.316081;NaN;NaN;25.03101595891437
+key_pressed;1;auto_complete;wahrheit.txt;3;85;u;Das alles ist ein Turm zu;2021-05-17 15:10:06.499996;NaN;NaN;25.173552688640317
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Das alles ist ein Turm zu;2021-05-17 15:10:06.780073;0.464039;NaN;25.03859254931885
+key_pressed;1;auto_complete;wahrheit.txt;3;66;B;Das alles ist ein Turm zu B;2021-05-17 15:10:07.060460;NaN;NaN;25.133404110522545
+key_pressed;1;auto_complete;wahrheit.txt;3;65;a;Das alles ist ein Turm zu Ba;2021-05-17 15:10:07.208772;NaN;NaN;25.29047592574534
+key_pressed;1;auto_complete;wahrheit.txt;3;66;b;Das alles ist ein Turm zu Bab;2021-05-17 15:10:07.720874;NaN;NaN;25.272587610226747
+sentence_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;Das alles ist ein Turm zu Babel,;2021-05-17 15:10:08.781784;1.72127;10.537847;25.220742334940752
+key_pressed;1;auto_complete;wahrheit.txt;3;87;W;W;2021-05-17 15:10:09.451812;NaN;NaN;25.131531241070224
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;We;2021-05-17 15:10:09.730089;NaN;NaN;25.222247043828524
+key_pressed;1;auto_complete;wahrheit.txt;3;78;n;Wen;2021-05-17 15:10:09.940509;NaN;NaN;25.343048577768506
+key_pressed;1;auto_complete;wahrheit.txt;3;78;n;Wenn;2021-05-17 15:10:10.098229;NaN;NaN;25.487097858684194
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Wenn;2021-05-17 15:10:10.405393;0.953573;NaN;25.34696386602347
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;Wenn e;2021-05-17 15:10:10.867927;NaN;NaN;25.351866328769606
+key_pressed;1;auto_complete;wahrheit.txt;3;83;s;Wenn es;2021-05-17 15:10:11.236020;NaN;NaN;25.39892315973822
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Wenn es;2021-05-17 15:10:11.603706;0.735766;NaN;25.235269822514738
+key_pressed;1;auto_complete;wahrheit.txt;3;68;d;Wenn es d;2021-05-17 15:10:11.932315;NaN;NaN;25.299869226509294
+key_pressed;1;auto_complete;wahrheit.txt;3;73;i;Wenn es di;2021-05-17 15:10:12.115648;NaN;NaN;25.42772728658273
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;Wenn es die;2021-05-17 15:10:12.276041;NaN;NaN;25.564933059365934
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Wenn es die;2021-05-17 15:10:12.619782;0.687416;NaN;25.413630511191563
+key_pressed;1;auto_complete;wahrheit.txt;3;76;L;Wenn es die L;2021-05-17 15:10:13.380889;NaN;NaN;25.288843889400397
+key_pressed;1;auto_complete;wahrheit.txt;3;73;i;Wenn es die Li;2021-05-17 15:10:13.602276;NaN;NaN;25.397228312430542
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;Wenn es die Lie;2021-05-17 15:10:13.764423;NaN;NaN;25.530311165863946
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Wenn es die Liebe;2021-05-17 15:10:14.780246;1.39935;NaN;25.49820648504053
+key_pressed;1;auto_complete;wahrheit.txt;3;78;n;Wenn es die Liebe n;2021-05-17 15:10:15.660354;NaN;NaN;25.327339501729426
+key_pressed;1;auto_complete;wahrheit.txt;3;73;i;Wenn es die Liebe ni;2021-05-17 15:10:15.883758;NaN;NaN;25.430750038076845
+key_pressed;1;auto_complete;wahrheit.txt;3;67;c;Wenn es die Liebe nic;2021-05-17 15:10:16.076194;NaN;NaN;25.54623356375321
+word_finished;1;auto_complete;wahrheit.txt;3;35;#;Wenn es die Liebe nic#;2021-05-17 15:10:16.356720;0.696375;NaN;25.430306836711512
+key_pressed;1;auto_complete;wahrheit.txt;3;16777219;Wenn es die Liebe nic;2021-05-17 15:10:16.964037;NaN;NaN;25.18288993718631
+word_finished;1;auto_complete;wahrheit.txt;3;32; ;Wenn es die Liebe nicht;2021-05-17 15:10:17.763729;0.799777;NaN;25.24397127780174
+key_pressed;1;auto_complete;wahrheit.txt;3;86;v;Wenn es die Liebe nicht v;2021-05-17 15:10:18.435955;NaN;NaN;25.16619312592947
+key_pressed;1;auto_complete;wahrheit.txt;3;69;e;Wenn es die Liebe nicht ve;2021-05-17 15:10:18.569641;NaN;NaN;25.30106115305525
+key_pressed;1;auto_complete;wahrheit.txt;3;82;r;Wenn es die Liebe nicht ver;2021-05-17 15:10:18.747764;NaN;NaN;25.417765981151696
+test_finished;1;auto_complete;wahrheit.txt;3;16777220;<RETURN>;Wenn es die Liebe nicht vereint.;2021-05-17 15:10:19.870860;1.434867;10.419016;25.715541052534643

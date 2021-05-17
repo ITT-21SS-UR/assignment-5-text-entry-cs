@@ -29,7 +29,7 @@ class MainWindow(QtWidgets.QWidget):
         self.move(QtWidgets.qApp.desktop().availableGeometry(
             self).center() - self.rect().center())
 
-        self.setWindowTitle("Typing Speed Test")
+        self.setWindowTitle("Tippgeschwindigkeitstest")
 
         example_text = QtWidgets.QLabel(self)
         example_text.setFont(QFont("Arial", 15))
@@ -58,15 +58,18 @@ class MainWindow(QtWidgets.QWidget):
 
     def __show_hint(self):
         QtWidgets.QMessageBox.information(self,
-                                          "Introduction",
-                                          "Type the text as shown above,\nfinish every line with 'Enter'")
+                                          "Einleitung",
+                                          "Tippen Sie den Text wie oben abgebildet ein,\
+                                              \n und schließen Sie jede Zeile mit 'Enter' ab \
+                                              \n (inklusive der letzten).")
 
     def __close_program(self):
         if self.__model.get_clean_content():
             QtWidgets.QMessageBox.information(
-                self, "Test passed", "Test finished")
+                self, "Test bestanden", "Test erfolgreich beendet :)")
         else:
-            QtWidgets.QMessageBox.warning(self, "Test failed", "Lazy bastard")
+            QtWidgets.QMessageBox.warning(
+                self, "Test gescheitert", "Fauler Hund!")
 
         QtWidgets.qApp.quit()
 

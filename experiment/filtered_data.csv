@@ -1,68 +1,277 @@
 log_type,participant_id,keyboard_type,content,sentence_time_in_s,words_per_minute
-key_pressed,1,auto_complete,I,,14814.814814814818
-key_pressed,1,auto_complete,Ic,,103.4558566791532
-key_pressed,1,auto_complete,Ich,,103.17462592033199
-word_finished,1,auto_complete,Ich,,59.88462229437949
-key_pressed,1,auto_complete,Ich b,,45.80480473316316
-key_pressed,1,auto_complete,Ich bi,,47.11921003073743
-key_pressed,1,auto_complete,Ich bin,,48.090249367980576
-word_finished,1,auto_complete,Ich bin,,42.22019591343687
-key_pressed,1,auto_complete,Ich bin n,,40.36284273579348
-key_pressed,1,auto_complete,Ich bin nu,,41.503732093409354
-key_pressed,1,auto_complete,Ich bin nur,,42.56675985371224
-word_finished,1,auto_complete,Ich bin nur,,39.68427484887825
-key_pressed,1,auto_complete,Ich bin nur e,,39.04208932439617
-key_pressed,1,auto_complete,Ich bin nur ei,,40.32540155087829
-key_pressed,1,auto_complete,Ich bin nur ein,,38.771597327883036
-word_finished,1,auto_complete,Ich bin nur ein,,36.568958135145664
-key_pressed,1,auto_complete,Ich bin nur ein T,,37.05604013454194
-key_pressed,1,auto_complete,Ich bin nur ein TE,,39.11405728952156
-key_pressed,1,auto_complete,Ich bin nur ein TEx,,38.643766942876574
-key_pressed,1,auto_complete,Ich bin nur ein TExt,,39.74105391619109
-sentence_finished,1,auto_complete,Ich bin nur ein TExt,6.579231,29.180240417824567
-key_pressed,1,auto_complete,D,,26.466575893230715
-key_pressed,1,auto_complete,Da,,27.177968129806015
-key_pressed,1,auto_complete,Das,,28.18671174562531
-word_finished,1,auto_complete,Das,,27.495470181584672
-key_pressed,1,auto_complete,Das i,,26.889659626206843
-key_pressed,1,auto_complete,Das is,,27.921596157988372
-key_pressed,1,auto_complete,Das ist,,28.337901567654864
-word_finished,1,auto_complete,Das ist,,27.43962425176354
-key_pressed,1,auto_complete,Das ist n,,26.322907300257768
-key_pressed,1,auto_complete,Das ist nu,,26.893423045310374
-key_pressed,1,auto_complete,Das ist nur,,27.48005177241754
-word_finished,1,auto_complete,Das ist nur,,26.886596637239588
-key_pressed,1,auto_complete,Das ist nur v,,27.36155426256621
-key_pressed,1,auto_complete,Das ist nur vo,,27.725568896156105
-key_pressed,1,auto_complete,Das ist nur vor,,27.89302328245596
-sentence_finished,1,auto_complete,Das ist nur vorübergehend,5.794756,33.77113361993373
-key_pressed,1,auto_complete,D,,32.86590940708705
-key_pressed,1,auto_complete,De,,33.15018317548091
-key_pressed,1,auto_complete,Der,,33.72585105677075
-word_finished,1,auto_complete,Der,,33.431071653386645
-key_pressed,1,auto_complete,Der d,,33.619113586711165
-key_pressed,1,auto_complete,Der dr,,34.038210133702876
-key_pressed,1,auto_complete,Der dri,,34.12648542314321
-word_finished,1,auto_complete,Der dritte,,34.139877859139105
-key_pressed,1,auto_complete,Der dritte D,,33.19361281125927
-key_pressed,1,auto_complete,2021-05-17 09:50:37.038460,31.37341461346952,
-key_pressed,1,auto_complete,Der dritte S,,31.126044647609127
-key_pressed,1,auto_complete,Der dritte Sa,,31.520196565949632
-key_pressed,1,auto_complete,Der dritte Sat,,31.89878812250751
-key_pressed,1,auto_complete,Der dritte Satz,,32.194974448658435
-word_finished,1,auto_complete,Der dritte Satz,,30.62191150878011
-key_pressed,1,auto_complete,Der dritte Satz u,,30.394599347305213
-key_pressed,1,auto_complete,Der dritte Satz un,,30.632656839684664
-key_pressed,1,auto_complete,Der dritte Satz und,,30.972314144726077
-word_finished,1,auto_complete,Der dritte Satz und,,30.608135472363358
-key_pressed,1,auto_complete,Der dritte Satz und d,,30.99109668052955
-key_pressed,1,auto_complete,Der dritte Satz und da,,31.106682729194798
-key_pressed,1,auto_complete,Der dritte Satz und dan,,31.1212806315982
-key_pressed,1,auto_complete,Der dritte Satz und danni,,29.974723433430142
-key_pressed,1,auto_complete,Der dritte Satz und dannis,,30.35256783988616
-key_pressed,1,auto_complete,Der dritte Satz und dannist,,29.95788216435385
-word_finished,1,auto_complete,Der dritte Satz und dannist,,29.77342545252861
-key_pressed,1,auto_complete,Der dritte Satz und dannist E,,29.839699450055146
-key_pressed,1,auto_complete,Der dritte Satz und dannist En,,30.141711495817518
-key_pressed,1,auto_complete,Der dritte Satz und dannist End,,29.9758085857273
-test_finished,1,auto_complete,Der dritte Satz und dannist Ende,13.326507999999999,28.295599337795917
+key_pressed,1,normal,W,,18237.082066869298
+key_pressed,1,normal,Wa,,105.8429731291152
+key_pressed,1,normal,Wah,,30.019687911988946
+sentence_finished,1,normal,Wahrheit,2.486902,38.596145612000186
+key_pressed,1,normal,v,,36.09677545499485
+key_pressed,1,normal,vo,,37.89099959298751
+key_pressed,1,normal,von,,35.73476359017424
+word_finished,1,normal,von,,31.885767787548037
+key_pressed,1,normal,von J,,27.794656168522092
+key_pressed,1,normal,von JK,,30.035968071765943
+key_pressed,1,normal,von JKo,,28.307513959985307
+key_pressed,1,normal,2021-05-17 15:09:20.931570,24.409833595347862,
+key_pressed,1,normal,2021-05-17 15:09:21.115818,21.90075762933424,
+key_pressed,1,normal,von Jo,,21.724039250882715
+key_pressed,1,normal,von Joh,,22.366349082260765
+key_pressed,1,normal,von Joha,,23.29578398078357
+word_finished,1,normal,von Johann,,24.058246429797503
+key_pressed,1,normal,von Johann W,,22.279677200484294
+key_pressed,1,normal,von Johann Wo,,23.02185238267085
+key_pressed,1,normal,von Johann Wol,,23.67999797930684
+word_finished,1,normal,von Johann Wolfgang,,27.15578704757667
+key_pressed,1,normal,von Johann Wolfgang v,,26.641669039084526
+key_pressed,1,normal,von Johann Wolfgang vo,,27.2383285653648
+key_pressed,1,normal,von Johann Wolfgang von,,27.67705033812953
+word_finished,1,normal,von Johann Wolfgang von,,27.150602452475127
+key_pressed,1,normal,von Johann Wolfgang von G,,27.326637417218155
+key_pressed,1,normal,von Johann Wolfgang von Go,,27.524232028052698
+key_pressed,1,normal,von Johann Wolfgang von Goe,,28.031150746555447
+sentence_finished,1,normal,von Johann Wolfgang von Goethe,11.503311,28.14714776949031
+sentence_finished,1,normal,von Johann Wolfgang von Goethe,,27.56720248839948
+key_pressed,1,normal,W,,27.246126914405323
+key_pressed,1,normal,Wa,,27.693662196426658
+key_pressed,1,normal,Was,,28.179059645739716
+word_finished,1,normal,Was,,27.695655930129604
+key_pressed,1,normal,Was a,,27.820774907418127
+key_pressed,1,normal,Was au,,28.220622798994928
+key_pressed,1,normal,Was aus,,28.57267522446068
+key_pressed,1,normal,2021-05-17 15:09:31.820570,27.083540221487798,
+key_pressed,1,normal,Was auc,,27.336656217799334
+word_finished,1,normal,Was auch,,26.76394526664396
+key_pressed,1,normal,Was auch a,,26.58307485160948
+key_pressed,1,normal,Was auch al,,26.992078138927603
+key_pressed,1,normal,Was auch als,,27.421404826613887
+word_finished,1,normal,Was auch als,,27.016800305167042
+key_pressed,1,normal,Was auch als W,,27.17561698967236
+key_pressed,1,normal,Was auch als Wa,,27.41665659236985
+key_pressed,1,normal,Was auch als Wah,,27.85547512698689
+word_finished,1,normal,Was auch als Wah#,,27.411926307021552
+key_pressed,1,normal,2021-05-17 15:09:35.651600,26.716073085891647,
+word_finished,1,normal,Was auch als Wahrheit,,27.917798012315416
+key_pressed,1,normal,Was auch als Wahrheit o,,27.475782970172748
+key_pressed,1,normal,Was auch als Wahrheit od,,27.778774469917327
+sentence_finished,1,normal,Was auch als Wahrheit od,9.648267,25.854610587271523
+key_pressed,1,normal,2021-05-17 15:09:40.267748,25.18750405944438,
+key_pressed,1,normal,Was auch als Wahrheit ode,,25.031385944603723
+word_finished,1,normal,Was auch als Wahrheit oder,,24.764545190283094
+key_pressed,1,normal,Was auch als Wahrheit oder F,,24.697468646671876
+key_pressed,1,normal,Was auch als Wahrheit oder Fa,,25.017091418059326
+key_pressed,1,normal,Was auch als Wahrheit oder Fab,,25.2859969470373
+sentence_finished,1,normal,Was auch als Wahrheit oder Fabel,3.42924,25.10621437798599
+key_pressed,1,normal,I,,24.866725713999234
+key_pressed,1,normal,In,,24.337752373800058
+word_finished,1,normal,In,,24.039757179373318
+key_pressed,1,normal,In t,,24.073012695222967
+key_pressed,1,normal,In ta,,24.37183318492554
+key_pressed,1,normal,In tau,,23.959896940980663
+word_finished,1,normal,In tausend,,24.72966283312732
+key_pressed,1,normal,In tausend B,,24.51724621369692
+key_pressed,1,normal,In tausend Bü,,24.500979698896572
+key_pressed,1,normal,In tausend Büc,,24.723713210458552
+word_finished,1,normal,In tausend Büchern,,24.99536814728245
+key_pressed,1,normal,In tausend Büchern d,,24.931504287859145
+key_pressed,1,normal,In tausend Büchern di,,25.090060215350533
+key_pressed,1,normal,In tausend Büchern die,,25.02661945951053
+sentence_finished,1,normal,In tausend Büchern die,8.768425,24.81388551948489
+key_pressed,1,normal,2021-05-17 15:09:53.660103,24.54025368487247,
+key_pressed,1,normal,2021-05-17 15:09:53.843641,24.120333596426462,
+key_pressed,1,normal,In tausend Büchern die,,24.23834962895253
+key_pressed,1,normal,2021-05-17 15:09:54.771745,23.563887328527045,
+key_pressed,1,normal,In tausend Büchern dir,,23.734772814339557
+word_finished,1,normal,In tausend Büchern dir,,23.580332568167915
+key_pressed,1,normal,In tausend Büchern dir e,,23.703276531715122
+key_pressed,1,normal,In tausend Büchern dir er,,23.869984850079643
+key_pressed,1,normal,In tausend Büchern dir ers,,23.782045859090953
+sentence_finished,1,normal,"In tausend Büchern dir erscheint,",3.6493860000000002,24.971483290909482
+key_pressed,1,normal,D,,24.71215148658693
+key_pressed,1,normal,Da,,24.83192911275585
+key_pressed,1,normal,Das,,25.006910310836126
+word_finished,1,normal,Das,,24.896254892909003
+key_pressed,1,normal,Das a,,24.835835350874053
+key_pressed,1,normal,Das al,,24.88161271319825
+key_pressed,1,normal,Das all,,25.052609380901238
+word_finished,1,normal,Das alles,,25.1387447058538
+key_pressed,1,normal,Das alles i,,24.979260947357588
+key_pressed,1,normal,Das alles is,,25.15280860537712
+key_pressed,1,normal,Das alles ist,,25.299507161383914
+word_finished,1,normal,Das alles ist,,25.163875017827028
+key_pressed,1,normal,Das alles ist e,,25.305232359972035
+key_pressed,1,normal,Das alles ist ei,,25.462336959913458
+key_pressed,1,normal,Das alles ist ein,,25.583809174589934
+word_finished,1,normal,Das alles ist ein,,25.440868012776757
+key_pressed,1,normal,Das alles ist ein T,,25.336962826188778
+key_pressed,1,normal,Das alles ist ein Tu,,25.39269756400396
+key_pressed,1,normal,Das alles ist ein Tur,,25.525476653158893
+word_finished,1,normal,Das alles ist ein Turm,,25.476598910553964
+key_pressed,1,normal,Das alles ist ein Turm z,,25.03101595891437
+key_pressed,1,normal,Das alles ist ein Turm zu,,25.173552688640324
+word_finished,1,normal,Das alles ist ein Turm zu,,25.038592549318853
+key_pressed,1,normal,Das alles ist ein Turm zu B,,25.133404110522548
+key_pressed,1,normal,Das alles ist ein Turm zu Ba,,25.29047592574534
+key_pressed,1,normal,Das alles ist ein Turm zu Bab,,25.27258761022675
+sentence_finished,1,normal,"Das alles ist ein Turm zu Babel,",10.537847,25.22074233494075
+key_pressed,1,normal,W,,25.131531241070228
+key_pressed,1,normal,We,,25.222247043828524
+key_pressed,1,normal,Wen,,25.343048577768503
+key_pressed,1,normal,Wenn,,25.487097858684198
+word_finished,1,normal,Wenn,,25.34696386602347
+key_pressed,1,normal,Wenn e,,25.351866328769606
+key_pressed,1,normal,Wenn es,,25.398923159738217
+word_finished,1,normal,Wenn es,,25.235269822514734
+key_pressed,1,normal,Wenn es d,,25.29986922650929
+key_pressed,1,normal,Wenn es di,,25.427727286582734
+key_pressed,1,normal,Wenn es die,,25.56493305936593
+word_finished,1,normal,Wenn es die,,25.413630511191567
+key_pressed,1,normal,Wenn es die L,,25.288843889400397
+key_pressed,1,normal,Wenn es die Li,,25.39722831243055
+key_pressed,1,normal,Wenn es die Lie,,25.530311165863942
+word_finished,1,normal,Wenn es die Liebe,,25.49820648504053
+key_pressed,1,normal,Wenn es die Liebe n,,25.327339501729426
+key_pressed,1,normal,Wenn es die Liebe ni,,25.430750038076845
+key_pressed,1,normal,Wenn es die Liebe nic,,25.54623356375321
+word_finished,1,normal,Wenn es die Liebe nic#,,25.430306836711512
+key_pressed,1,normal,2021-05-17 15:10:16.964037,25.182889937186307,
+word_finished,1,normal,Wenn es die Liebe nicht,,25.243971277801737
+key_pressed,1,normal,Wenn es die Liebe nicht v,,25.16619312592947
+key_pressed,1,normal,Wenn es die Liebe nicht ve,,25.301061153055247
+key_pressed,1,normal,Wenn es die Liebe nicht ver,,25.417765981151696
+test_finished,1,normal,Wenn es die Liebe nicht vereint.,10.419016000000001,25.715541052534643
+key_pressed,1,auto_complete,W,,18237.082066869298
+key_pressed,1,auto_complete,Wa,,105.8429731291152
+key_pressed,1,auto_complete,Wah,,30.019687911988946
+sentence_finished,1,auto_complete,Wahrheit,2.486902,38.596145612000186
+key_pressed,1,auto_complete,v,,36.09677545499485
+key_pressed,1,auto_complete,vo,,37.89099959298751
+key_pressed,1,auto_complete,von,,35.73476359017424
+word_finished,1,auto_complete,von,,31.885767787548037
+key_pressed,1,auto_complete,von J,,27.794656168522092
+key_pressed,1,auto_complete,von JK,,30.035968071765943
+key_pressed,1,auto_complete,von JKo,,28.307513959985307
+key_pressed,1,auto_complete,2021-05-17 15:09:20.931570,24.409833595347862,
+key_pressed,1,auto_complete,2021-05-17 15:09:21.115818,21.90075762933424,
+key_pressed,1,auto_complete,von Jo,,21.724039250882715
+key_pressed,1,auto_complete,von Joh,,22.366349082260765
+key_pressed,1,auto_complete,von Joha,,23.29578398078357
+word_finished,1,auto_complete,von Johann,,24.058246429797503
+key_pressed,1,auto_complete,von Johann W,,22.279677200484294
+key_pressed,1,auto_complete,von Johann Wo,,23.02185238267085
+key_pressed,1,auto_complete,von Johann Wol,,23.67999797930684
+word_finished,1,auto_complete,von Johann Wolfgang,,27.15578704757667
+key_pressed,1,auto_complete,von Johann Wolfgang v,,26.641669039084526
+key_pressed,1,auto_complete,von Johann Wolfgang vo,,27.2383285653648
+key_pressed,1,auto_complete,von Johann Wolfgang von,,27.67705033812953
+word_finished,1,auto_complete,von Johann Wolfgang von,,27.150602452475127
+key_pressed,1,auto_complete,von Johann Wolfgang von G,,27.326637417218155
+key_pressed,1,auto_complete,von Johann Wolfgang von Go,,27.524232028052698
+key_pressed,1,auto_complete,von Johann Wolfgang von Goe,,28.031150746555447
+sentence_finished,1,auto_complete,von Johann Wolfgang von Goethe,11.503311,28.14714776949031
+sentence_finished,1,auto_complete,von Johann Wolfgang von Goethe,,27.56720248839948
+key_pressed,1,auto_complete,W,,27.246126914405323
+key_pressed,1,auto_complete,Wa,,27.693662196426658
+key_pressed,1,auto_complete,Was,,28.179059645739716
+word_finished,1,auto_complete,Was,,27.695655930129604
+key_pressed,1,auto_complete,Was a,,27.820774907418127
+key_pressed,1,auto_complete,Was au,,28.220622798994928
+key_pressed,1,auto_complete,Was aus,,28.57267522446068
+key_pressed,1,auto_complete,2021-05-17 15:09:31.820570,27.083540221487798,
+key_pressed,1,auto_complete,Was auc,,27.336656217799334
+word_finished,1,auto_complete,Was auch,,26.76394526664396
+key_pressed,1,auto_complete,Was auch a,,26.58307485160948
+key_pressed,1,auto_complete,Was auch al,,26.992078138927603
+key_pressed,1,auto_complete,Was auch als,,27.421404826613887
+word_finished,1,auto_complete,Was auch als,,27.016800305167042
+key_pressed,1,auto_complete,Was auch als W,,27.17561698967236
+key_pressed,1,auto_complete,Was auch als Wa,,27.41665659236985
+key_pressed,1,auto_complete,Was auch als Wah,,27.85547512698689
+word_finished,1,auto_complete,Was auch als Wah#,,27.411926307021552
+key_pressed,1,auto_complete,2021-05-17 15:09:35.651600,26.716073085891647,
+word_finished,1,auto_complete,Was auch als Wahrheit,,27.917798012315416
+key_pressed,1,auto_complete,Was auch als Wahrheit o,,27.475782970172748
+key_pressed,1,auto_complete,Was auch als Wahrheit od,,27.778774469917327
+sentence_finished,1,auto_complete,Was auch als Wahrheit od,9.648267,25.854610587271523
+key_pressed,1,auto_complete,2021-05-17 15:09:40.267748,25.18750405944438,
+key_pressed,1,auto_complete,Was auch als Wahrheit ode,,25.031385944603723
+word_finished,1,auto_complete,Was auch als Wahrheit oder,,24.764545190283094
+key_pressed,1,auto_complete,Was auch als Wahrheit oder F,,24.697468646671876
+key_pressed,1,auto_complete,Was auch als Wahrheit oder Fa,,25.017091418059326
+key_pressed,1,auto_complete,Was auch als Wahrheit oder Fab,,25.2859969470373
+sentence_finished,1,auto_complete,Was auch als Wahrheit oder Fabel,3.42924,25.10621437798599
+key_pressed,1,auto_complete,I,,24.866725713999234
+key_pressed,1,auto_complete,In,,24.337752373800058
+word_finished,1,auto_complete,In,,24.039757179373318
+key_pressed,1,auto_complete,In t,,24.073012695222967
+key_pressed,1,auto_complete,In ta,,24.37183318492554
+key_pressed,1,auto_complete,In tau,,23.959896940980663
+word_finished,1,auto_complete,In tausend,,24.72966283312732
+key_pressed,1,auto_complete,In tausend B,,24.51724621369692
+key_pressed,1,auto_complete,In tausend Bü,,24.500979698896572
+key_pressed,1,auto_complete,In tausend Büc,,24.723713210458552
+word_finished,1,auto_complete,In tausend Büchern,,24.99536814728245
+key_pressed,1,auto_complete,In tausend Büchern d,,24.931504287859145
+key_pressed,1,auto_complete,In tausend Büchern di,,25.090060215350533
+key_pressed,1,auto_complete,In tausend Büchern die,,25.02661945951053
+sentence_finished,1,auto_complete,In tausend Büchern die,8.768425,24.81388551948489
+key_pressed,1,auto_complete,2021-05-17 15:09:53.660103,24.54025368487247,
+key_pressed,1,auto_complete,2021-05-17 15:09:53.843641,24.120333596426462,
+key_pressed,1,auto_complete,In tausend Büchern die,,24.23834962895253
+key_pressed,1,auto_complete,2021-05-17 15:09:54.771745,23.563887328527045,
+key_pressed,1,auto_complete,In tausend Büchern dir,,23.734772814339557
+word_finished,1,auto_complete,In tausend Büchern dir,,23.580332568167915
+key_pressed,1,auto_complete,In tausend Büchern dir e,,23.703276531715122
+key_pressed,1,auto_complete,In tausend Büchern dir er,,23.869984850079643
+key_pressed,1,auto_complete,In tausend Büchern dir ers,,23.782045859090953
+sentence_finished,1,auto_complete,"In tausend Büchern dir erscheint,",3.6493860000000002,24.971483290909482
+key_pressed,1,auto_complete,D,,24.71215148658693
+key_pressed,1,auto_complete,Da,,24.83192911275585
+key_pressed,1,auto_complete,Das,,25.006910310836126
+word_finished,1,auto_complete,Das,,24.896254892909003
+key_pressed,1,auto_complete,Das a,,24.835835350874053
+key_pressed,1,auto_complete,Das al,,24.88161271319825
+key_pressed,1,auto_complete,Das all,,25.052609380901238
+word_finished,1,auto_complete,Das alles,,25.1387447058538
+key_pressed,1,auto_complete,Das alles i,,24.979260947357588
+key_pressed,1,auto_complete,Das alles is,,25.15280860537712
+key_pressed,1,auto_complete,Das alles ist,,25.299507161383914
+word_finished,1,auto_complete,Das alles ist,,25.163875017827028
+key_pressed,1,auto_complete,Das alles ist e,,25.305232359972035
+key_pressed,1,auto_complete,Das alles ist ei,,25.462336959913458
+key_pressed,1,auto_complete,Das alles ist ein,,25.583809174589934
+word_finished,1,auto_complete,Das alles ist ein,,25.440868012776757
+key_pressed,1,auto_complete,Das alles ist ein T,,25.336962826188778
+key_pressed,1,auto_complete,Das alles ist ein Tu,,25.39269756400396
+key_pressed,1,auto_complete,Das alles ist ein Tur,,25.525476653158893
+word_finished,1,auto_complete,Das alles ist ein Turm,,25.476598910553964
+key_pressed,1,auto_complete,Das alles ist ein Turm z,,25.03101595891437
+key_pressed,1,auto_complete,Das alles ist ein Turm zu,,25.173552688640324
+word_finished,1,auto_complete,Das alles ist ein Turm zu,,25.038592549318853
+key_pressed,1,auto_complete,Das alles ist ein Turm zu B,,25.133404110522548
+key_pressed,1,auto_complete,Das alles ist ein Turm zu Ba,,25.29047592574534
+key_pressed,1,auto_complete,Das alles ist ein Turm zu Bab,,25.27258761022675
+sentence_finished,1,auto_complete,"Das alles ist ein Turm zu Babel,",10.537847,25.22074233494075
+key_pressed,1,auto_complete,W,,25.131531241070228
+key_pressed,1,auto_complete,We,,25.222247043828524
+key_pressed,1,auto_complete,Wen,,25.343048577768503
+key_pressed,1,auto_complete,Wenn,,25.487097858684198
+word_finished,1,auto_complete,Wenn,,25.34696386602347
+key_pressed,1,auto_complete,Wenn e,,25.351866328769606
+key_pressed,1,auto_complete,Wenn es,,25.398923159738217
+word_finished,1,auto_complete,Wenn es,,25.235269822514734
+key_pressed,1,auto_complete,Wenn es d,,25.29986922650929
+key_pressed,1,auto_complete,Wenn es di,,25.427727286582734
+key_pressed,1,auto_complete,Wenn es die,,25.56493305936593
+word_finished,1,auto_complete,Wenn es die,,25.413630511191567
+key_pressed,1,auto_complete,Wenn es die L,,25.288843889400397
+key_pressed,1,auto_complete,Wenn es die Li,,25.39722831243055
+key_pressed,1,auto_complete,Wenn es die Lie,,25.530311165863942
+word_finished,1,auto_complete,Wenn es die Liebe,,25.49820648504053
+key_pressed,1,auto_complete,Wenn es die Liebe n,,25.327339501729426
+key_pressed,1,auto_complete,Wenn es die Liebe ni,,25.430750038076845
+key_pressed,1,auto_complete,Wenn es die Liebe nic,,25.54623356375321
+word_finished,1,auto_complete,Wenn es die Liebe nic#,,25.430306836711512
+key_pressed,1,auto_complete,2021-05-17 15:10:16.964037,25.182889937186307,
+word_finished,1,auto_complete,Wenn es die Liebe nicht,,25.243971277801737
+key_pressed,1,auto_complete,Wenn es die Liebe nicht v,,25.16619312592947
+key_pressed,1,auto_complete,Wenn es die Liebe nicht ve,,25.301061153055247
+key_pressed,1,auto_complete,Wenn es die Liebe nicht ver,,25.417765981151696
+test_finished,1,auto_complete,Wenn es die Liebe nicht vereint.,10.419016000000001,25.715541052534643
