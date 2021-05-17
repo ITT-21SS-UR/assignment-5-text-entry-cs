@@ -13,6 +13,21 @@ from text_model import TextModel, KeyboardType
 
 """
 The features of the program were discussed together and everyone got their own tasks.
+We helped each other while programming. The workload was distributed evenly.
+
+The class, function, variable names and code are usually self-explanatory, which is why there are no comments for them.
+
+HOW TO START THE PROGRAM:
+python3 text_entry_speed_test.py config.json
+
+Config file structure with description
+{
+  "participant_id": 1,
+  "keyboard_type": "normal",  # 2 possible values: normal, auto_complete
+  "txt_file": "test.txt",  # for the study we used 2 different txt files (TODO)
+  "key_limit": 2  # how many characters should be typed, so that auto-completion is invoked if enabled
+}
+
 """
 
 
@@ -31,22 +46,21 @@ class MainWindow(QtWidgets.QWidget):
 
         self.setWindowTitle("Tippgeschwindigkeitstest")
 
+        self.__setup_example_text()
+        self.__edit_text = EditTextWidget(self.__model, self)
+        self.__setup_completer()
+
+        self.__setup_layout()
+
+        self.__model.test_finished.connect(self.__close_program)
+        self.__show_hint()
+
+    def __setup_example_text(self):
         example_text = QtWidgets.QLabel(self)
         example_text.setFont(QFont("Arial", 15))
         example_text.setText(self.__model.get_example_text().strip())
         example_text.setAlignment(QtCore.Qt.AlignLeft)
         self.__example_text = example_text
-
-        self.__edit_text = EditTextWidget(self.__model, self)
-        self.__setup_completer()
-
-        layout = QVBoxLayout(self)
-        layout.addWidget(self.__example_text)
-        layout.addWidget(self.__edit_text)
-        self.setLayout(layout)
-
-        self.__model.test_finished.connect(self.__close_program)
-        self.__show_hint()
 
     def __setup_completer(self):
         if self.__model.get_keyboard_type() == KeyboardType.AUTO_COMPLETE.value:
@@ -55,6 +69,12 @@ class MainWindow(QtWidgets.QWidget):
             completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
             completer.setWrapAround(False)
             self.__edit_text.set_completer(completer)
+
+    def __setup_layout(self):
+        layout = QVBoxLayout(self)
+        layout.addWidget(self.__example_text)
+        layout.addWidget(self.__edit_text)
+        self.setLayout(layout)
 
     def __show_hint(self):
         QtWidgets.QMessageBox.information(self,

@@ -2,16 +2,23 @@ from PyQt5 import QtWidgets, QtCore, QtGui
 
 from text_model import KeyboardType
 
-'''
+"""
+Our method for a faster text input is autocompletion.
+When a user types a certain number of characters (see config.json key_limit)
+an autocompletion hint is shown that the user can accept.
+With the arrow keys and then by pressing Enter a hint can be selected.
+Furthermore a user can manually invoke auto-completion by pressing Ctrl+Space to select a word.
+
 Sources:
 https://doc.qt.io/qt-5/qcompleter.html
 
-Main source for autocomplete, also the text for our comments are directly copied from the following source:
+Main source for auto-complete (adjusted to our needs),
+also the text for our comments are directly copied from the following source:
 https://doc.qt.io/qt-5/qtwidgets-tools-customcompleter-example.html
 
 For python specific reference:
 https://www.howtobuildsoftware.com/index.php/how-do/IFK/python-3x-autocomplete-pyqt-qtextedit-pyqt5-pyqt5-qtextedit-auto-completion
-'''
+"""
 
 
 # Author: Claudia, Sarah
@@ -64,9 +71,9 @@ class EditTextWidget(QtWidgets.QTextEdit):
         # The keyPressEvent() is reimplemented to ignore key events like
         # Qt::Key_Enter, Qt::Key_Return, Qt::Key_Escape, Qt::Key_Tab,
         # and Qt::Key_Backtab so the completer can handle them.
-        # If there is an active completer, we cannot process the shortcut, Ctrl+E.
-        if self.__completer \
-                and self.__completer.popup().isVisible():
+        # If there is an active completer, we cannot process the shortcut, Ctrl+Space.
+        if (self.__completer
+                and self.__completer.popup().isVisible()):
 
             if key_code in (
                     QtCore.Qt.Key_Enter,
@@ -80,7 +87,8 @@ class EditTextWidget(QtWidgets.QTextEdit):
         is_shortcut = (event.modifiers() == QtCore.Qt.ControlModifier
                        and key_code == QtCore.Qt.Key_Space)  # Ctrl+Space
 
-        if not self.__completer or not is_shortcut:  # do not process the shortcut when we have a completer
+        if (not self.__completer
+                or not is_shortcut):  # do not process the shortcut when we have a completer
             super(EditTextWidget, self).keyPressEvent(event)
 
         # We also handle other modifiers and shortcuts for which we do not want the completer to respond to.

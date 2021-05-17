@@ -51,9 +51,9 @@ class TextModel(QObject):
 
     @staticmethod
     def __is_sentence_end(value):
-        if value == QtCore.Qt.Key_Enter \
-                or value == QtCore.Qt.Key_Return \
-                or value == "\n":
+        if (value == QtCore.Qt.Key_Enter
+                or value == QtCore.Qt.Key_Return
+                or value == "\n"):
             return True
 
         return False
@@ -240,7 +240,7 @@ class TextModel(QObject):
         return self.__generate_word_list()
 
     def get_clean_content(self):
-        p = re.compile("\W")
+        p = re.compile(r"\W")
         return p.sub('', self.__content)
 
     def handle_key_event(self, key_event, text):
