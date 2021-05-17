@@ -1,4 +1,4 @@
-﻿# Author: Claudia
+﻿# Author: Sarah
 # Reviewer: Claudia
 
 #############################################

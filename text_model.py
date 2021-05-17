@@ -1,6 +1,6 @@
 import re
-import sys
 import string
+import sys
 from datetime import datetime
 from enum import Enum
 
@@ -13,7 +13,7 @@ from PyQt5.QtCore import QObject, pyqtSignal
 class ConfigKeys(Enum):
     PARTICIPANT_ID = "participant_id"
     KEYBOARD_TYPE = "keyboard_type"
-    EXAMPLE_TEXT = "example_text"
+    TXT_FILE = "txt_file"
     KEY_LIMIT = "key_limit"
 
     @staticmethod
@@ -59,10 +59,6 @@ class TextModel(QObject):
         return False
 
     @staticmethod
-    def is_word_end(key_text):
-        return key_text in string.punctuation + string.whitespace
-
-    @staticmethod
     def __write_to_stdout_in_csv_format(row_data):
         row_data_values = list(row_data.values())
         values_length = len(row_data_values)
@@ -77,6 +73,15 @@ class TextModel(QObject):
 
         sys.stdout.write("\n")
         sys.stdout.flush()
+
+    @staticmethod
+    def is_word_end(key_text):
+        return key_text in string.punctuation + string.whitespace
+
+    @staticmethod
+    def is_ctrl_or_shift(modifiers):
+        return (modifiers == QtCore.Qt.ControlModifier
+                or modifiers == QtCore.Qt.ShiftModifier)
 
     def __init__(self, config):
         super().__init__()
@@ -206,6 +211,11 @@ class TextModel(QObject):
     def __generate_word_list(self):
         return list(set(self.get_example_text().replace(" ", "\n").splitlines()))
 
+    def __read_file(self):
+        file_name = self.__config[ConfigKeys.TXT_FILE.value]
+        with open(file_name) as file:
+            return file.read()
+
     def get_participant_id(self):
         return self.__config[ConfigKeys.PARTICIPANT_ID.value]
 
@@ -213,7 +223,7 @@ class TextModel(QObject):
         return self.__config[ConfigKeys.KEYBOARD_TYPE.value]
 
     def get_example_text(self):
-        return self.__config[ConfigKeys.EXAMPLE_TEXT.value]
+        return self.__read_file()
 
     def get_key_limit(self):
         return self.__config[ConfigKeys.KEY_LIMIT.value]

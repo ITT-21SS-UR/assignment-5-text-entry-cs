@@ -1,5 +1,7 @@
 from PyQt5 import QtWidgets, QtCore, QtGui
 
+from text_model import KeyboardType
+
 '''
 Sources:
 https://doc.qt.io/qt-5/qcompleter.html
@@ -47,32 +49,15 @@ class EditTextWidget(QtWidgets.QTextEdit):
 
         return tc.selectedText()
 
-    def focusInEvent(self, event):
-        # The TextEdit class reimplements focusInEvent() function,
-        # which is an event handler used to receive keyboard focus events for the widget.
-        if self.__completer:
-            self.__completer.setWidget(self)
-
-        super(EditTextWidget, self).focusInEvent(event)
-
-    def set_completer(self, completer):
-        # The set_completer() function accepts a completer and sets it up.
-        if self.__completer:
-            self.disconnect(self)
-
-        self.__completer = completer
-
-        if not self.__completer:
+    def __handle_normal_keyboard(self, event):
+        if (self.__model.is_ctrl_or_shift(event.modifiers())
+                and not event.text()):
             return
 
-        self.__completer.setWidget(self)
-        self.__completer.setCompletionMode(
-            QtWidgets.QCompleter.PopupCompletion)
-        self.__completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
+        super(EditTextWidget, self).keyPressEvent(event)
+        self.__model.handle_key_event(event, self.toPlainText())
 
-        self.__completer.activated.connect(self.__insert_completion)
-
-    def keyPressEvent(self, event):
+    def __handle_auto_complete(self, event):
         key_code = event.key()
         key_text = event.text()
 
@@ -99,8 +84,7 @@ class EditTextWidget(QtWidgets.QTextEdit):
             super(EditTextWidget, self).keyPressEvent(event)
 
         # We also handle other modifiers and shortcuts for which we do not want the completer to respond to.
-        ctrl_or_shift = (event.modifiers() == QtCore.Qt.ControlModifier
-                         or event.modifiers() == QtCore.Qt.ShiftModifier)
+        ctrl_or_shift = self.__model.is_ctrl_or_shift(event.modifiers())
 
         if (not self.__completer
                 or (ctrl_or_shift and not key_text)):
@@ -133,3 +117,35 @@ class EditTextWidget(QtWidgets.QTextEdit):
         cr.setWidth(self.__completer.popup().sizeHintForColumn(0)
                     + self.__completer.popup().verticalScrollBar().sizeHint().width())
         self.__completer.complete(cr)  # popup it up!
+
+    def focusInEvent(self, event):
+        # The TextEdit class reimplements focusInEvent() function,
+        # which is an event handler used to receive keyboard focus events for the widget.
+        if self.__completer:
+            self.__completer.setWidget(self)
+
+        super(EditTextWidget, self).focusInEvent(event)
+
+    def set_completer(self, completer):
+        # The set_completer() function accepts a completer and sets it up.
+        if self.__completer:
+            self.disconnect(self)
+
+        self.__completer = completer
+
+        if not self.__completer:
+            return
+
+        self.__completer.setWidget(self)
+        self.__completer.setCompletionMode(
+            QtWidgets.QCompleter.PopupCompletion)
+        self.__completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
+
+        self.__completer.activated.connect(self.__insert_completion)
+
+    def keyPressEvent(self, event):
+        if self.__model.get_keyboard_type() == KeyboardType.AUTO_COMPLETE.value:
+            self.__handle_auto_complete(event)
+
+        else:  # normal keyboard type
+            self.__handle_normal_keyboard(event)
