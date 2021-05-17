@@ -158,6 +158,8 @@ class TextModel(QObject):
         key_text = key_event.text().replace('\r', "<RETURN>")
         key_text = key_text.replace('\n', "<NEWLINE>")
         key_text = key_text.replace('\t', "<TAB>")
+        key_text = key_text.replace('\b', "<BACKSPACE>")
+        key_text = key_text.replace(';', "<SEMICOLON>")
 
         return {
             self.LOG_TYPE: log_type.value,
@@ -167,7 +169,7 @@ class TextModel(QObject):
             ConfigKeys.KEY_LIMIT: self.get_key_limit(),
             self.KEY_CODE: key_event.key(),
             self.KEY_VALUE: key_text,
-            self.CONTENT: lines[-1] if lines else "",
+            self.CONTENT: ("\"" + lines[-1] + "\"") if lines else "",
             self.TIMESTAMP: datetime.now(),
             self.WORD_TIME: word_time,
             self.SENTENCE_TIME: sentence_time,

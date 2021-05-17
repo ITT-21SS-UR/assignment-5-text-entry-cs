@@ -15,8 +15,6 @@ from text_model import TextModel, KeyboardType
 The features of the program were discussed together and everyone got their own tasks.
 We helped each other while programming. The workload was distributed evenly.
 
-The class, function, variable names and code are usually self-explanatory, which is why there are no comments for them.
-
 HOW TO START THE PROGRAM:
 python3 text_entry_speed_test.py config.json
 
@@ -24,7 +22,7 @@ Config file structure with description
 {
   "participant_id": 1,
   "keyboard_type": "normal",  # 2 possible values: normal, auto_complete
-  "txt_file": "test.txt",  # for the study we used 2 different txt files (TODO)
+  "txt_file": "test.txt",  # for the study we used 2 different txt files, which were copied from books
   "key_limit": 2  # how many characters should be typed, so that auto-completion is invoked if enabled
 }
 
@@ -40,7 +38,7 @@ class MainWindow(QtWidgets.QWidget):
 
         self.__model = TextModel(config)
 
-        self.setFixedSize(800, 600)
+        self.setFixedSize(810, 600)
         self.move(QtWidgets.qApp.desktop().availableGeometry(
             self).center() - self.rect().center())
 
