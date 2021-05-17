@@ -1,12 +1,15 @@
 from PyQt5 import QtWidgets, QtCore, QtGui
 
+'''
+Sources:
+https://doc.qt.io/qt-5/qcompleter.html
 
-# Sources:
-# https://doc.qt.io/qt-5/qcompleter.html
-# Main source for autocomplete, also the text for our comments are directly copied from the following source:
-# https://doc.qt.io/qt-5/qtwidgets-tools-customcompleter-example.html
-# For python specific reference:
-# https://www.howtobuildsoftware.com/index.php/how-do/IFK/python-3x-autocomplete-pyqt-qtextedit-pyqt5-pyqt5-qtextedit-auto-completion
+Main source for autocomplete, also the text for our comments are directly copied from the following source:
+https://doc.qt.io/qt-5/qtwidgets-tools-customcompleter-example.html
+
+For python specific reference:
+https://www.howtobuildsoftware.com/index.php/how-do/IFK/python-3x-autocomplete-pyqt-qtextedit-pyqt5-pyqt5-qtextedit-auto-completion
+'''
 
 
 # Author: Claudia, Sarah
@@ -18,6 +21,7 @@ class EditTextWidget(QtWidgets.QTextEdit):
 
         self.__model = model
         self.__completer = None
+        self.__key_limit = self.__model.get_key_limit()
         self.__setup_ui()
 
     def __setup_ui(self):
@@ -62,7 +66,8 @@ class EditTextWidget(QtWidgets.QTextEdit):
             return
 
         self.__completer.setWidget(self)
-        self.__completer.setCompletionMode(QtWidgets.QCompleter.PopupCompletion)
+        self.__completer.setCompletionMode(
+            QtWidgets.QCompleter.PopupCompletion)
         self.__completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
 
         self.__completer.activated.connect(self.__insert_completion)
@@ -112,7 +117,7 @@ class EditTextWidget(QtWidgets.QTextEdit):
         if (not is_shortcut
                 and (has_modifier
                      or not key_text
-                     or len(completion_prefix) < 3 # TODO parameter
+                     or len(completion_prefix) < self.__key_limit
                      or self.__model.is_word_end(key_text[-1]))):
             self.__completer.popup().hide()
             return
@@ -121,7 +126,8 @@ class EditTextWidget(QtWidgets.QTextEdit):
                 and self.__completer.currentCompletion().lower() == completion_prefix.lower()):
             return self.__completer.popup().hide()
 
-        self.__completer.popup().setCurrentIndex(self.__completer.completionModel().index(0, 0))
+        self.__completer.popup().setCurrentIndex(
+            self.__completer.completionModel().index(0, 0))
 
         cr = self.cursorRect()
         cr.setWidth(self.__completer.popup().sizeHintForColumn(0)

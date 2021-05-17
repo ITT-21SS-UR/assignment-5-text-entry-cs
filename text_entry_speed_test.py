@@ -26,7 +26,8 @@ class MainWindow(QtWidgets.QWidget):
         self.__model = TextModel(config)
 
         self.setFixedSize(800, 600)
-        self.move(QtWidgets.qApp.desktop().availableGeometry(self).center() - self.rect().center())
+        self.move(QtWidgets.qApp.desktop().availableGeometry(
+            self).center() - self.rect().center())
 
         self.setWindowTitle("Typing Speed Test")
 
@@ -49,17 +50,21 @@ class MainWindow(QtWidgets.QWidget):
 
     def __setup_completer(self):
         if self.__model.get_keyboard_type() == KeyboardType.AUTO_COMPLETE.value:
-            completer = QtWidgets.QCompleter(self.__model.get_word_list(), self)
+            completer = QtWidgets.QCompleter(
+                self.__model.get_word_list(), self)
             completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
             completer.setWrapAround(False)
             self.__edit_text.set_completer(completer)
 
     def __show_hint(self):
-        QtWidgets.QMessageBox.information(self, "Introduction", "Type the text as shown above,\nfinish every line with 'Enter'")
+        QtWidgets.QMessageBox.information(self,
+                                          "Introduction",
+                                          "Type the text as shown above,\nfinish every line with 'Enter'")
 
     def __close_program(self):
         if self.__model.get_clean_content():
-            QtWidgets.QMessageBox.information(self, "Test passed", "Test finished")
+            QtWidgets.QMessageBox.information(
+                self, "Test passed", "Test finished")
         else:
             QtWidgets.QMessageBox.warning(self, "Test failed", "Lazy bastard")
 

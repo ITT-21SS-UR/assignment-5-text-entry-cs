@@ -1,5 +1,6 @@
 {
   "participant_id": 1,
   "keyboard_type": "auto_complete",
-  "example_text": "Ich bin ein Text\nDas ist nur vorübergehend\nDer dritte Satz und dann ist Ende\n"
+  "example_text": "Ich bin ein Text\nDas ist nur vorübergehend\nDer dritte Satz und dann ist Ende\n",
+  "key_limit": 2
 }

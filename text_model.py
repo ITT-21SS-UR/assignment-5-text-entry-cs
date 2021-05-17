@@ -14,6 +14,7 @@ class ConfigKeys(Enum):
     PARTICIPANT_ID = "participant_id"
     KEYBOARD_TYPE = "keyboard_type"
     EXAMPLE_TEXT = "example_text"
+    KEY_LIMIT = "key_limit"
 
     @staticmethod
     def get_all_values():
@@ -89,7 +90,8 @@ class TextModel(QObject):
         self.__sentence_start_time = self.INVALID_TIME
 
         self.__sentence_count = 0
-        self.__total_sentences = self.__calculate_number_sentences(self.get_example_text())
+        self.__total_sentences = self.__calculate_number_sentences(
+            self.get_example_text())
 
         self.__stdout_csv_column_names()
 
@@ -137,7 +139,8 @@ class TextModel(QObject):
         sys.stdout.flush()
 
     def __calculate_words_per_minute(self):
-        minutes_since_typing_start = self.__calculate_time_difference(self.__first_start_time) / 60
+        minutes_since_typing_start = self.__calculate_time_difference(
+            self.__first_start_time) / 60
         return len(self.get_clean_content()) / 5 / minutes_since_typing_start
 
     def __create_row_data(self, key_event, log_type, word_time="NaN", sentence_time="NaN"):
@@ -161,14 +164,14 @@ class TextModel(QObject):
         }
 
     def __handle_sentence_end(self, key_event):
-        self.__sentence_count = self.__calculate_number_sentences(self.__content)
+        self.__sentence_count = self.__calculate_number_sentences(
+            self.__content)
 
-        # TODO is not working correctly when enter/return is pressed
         word_time = self.__calculate_time_difference(self.__word_start_time)
-        sentence_time = self.__calculate_time_difference(self.__sentence_start_time)
+        sentence_time = self.__calculate_time_difference(
+            self.__sentence_start_time)
 
         if self.__sentence_count == self.__total_sentences:
-            # TODO and autocomplete is not open
             self.__write_to_stdout_in_csv_format(
                 self.__create_row_data(key_event, LogType.TEST_FINISHED, word_time=word_time,
                                        sentence_time=sentence_time))
@@ -197,7 +200,8 @@ class TextModel(QObject):
         if self.__sentence_start_time == self.INVALID_TIME:
             self.__sentence_start_time = datetime.now()
 
-        self.__write_to_stdout_in_csv_format(self.__create_row_data(key_event, LogType.KEY_PRESSED))
+        self.__write_to_stdout_in_csv_format(
+            self.__create_row_data(key_event, LogType.KEY_PRESSED))
 
     def __generate_word_list(self):
         return list(set(self.get_example_text().replace(" ", "\n").splitlines()))
@@ -210,6 +214,9 @@ class TextModel(QObject):
 
     def get_example_text(self):
         return self.__config[ConfigKeys.EXAMPLE_TEXT.value]
+
+    def get_key_limit(self):
+        return self.__config[ConfigKeys.KEY_LIMIT.value]
 
     def get_word_list(self):
         return self.__generate_word_list()

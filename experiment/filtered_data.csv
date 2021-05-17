@@ -1,0 +1,68 @@
+log_type,participant_id,keyboard_type,content,sentence_time_in_s,words_per_minute
+key_pressed,1,auto_complete,I,,14814.814814814818
+key_pressed,1,auto_complete,Ic,,103.4558566791532
+key_pressed,1,auto_complete,Ich,,103.17462592033199
+word_finished,1,auto_complete,Ich,,59.88462229437949
+key_pressed,1,auto_complete,Ich b,,45.80480473316316
+key_pressed,1,auto_complete,Ich bi,,47.11921003073743
+key_pressed,1,auto_complete,Ich bin,,48.090249367980576
+word_finished,1,auto_complete,Ich bin,,42.22019591343687
+key_pressed,1,auto_complete,Ich bin n,,40.36284273579348
+key_pressed,1,auto_complete,Ich bin nu,,41.503732093409354
+key_pressed,1,auto_complete,Ich bin nur,,42.56675985371224
+word_finished,1,auto_complete,Ich bin nur,,39.68427484887825
+key_pressed,1,auto_complete,Ich bin nur e,,39.04208932439617
+key_pressed,1,auto_complete,Ich bin nur ei,,40.32540155087829
+key_pressed,1,auto_complete,Ich bin nur ein,,38.771597327883036
+word_finished,1,auto_complete,Ich bin nur ein,,36.568958135145664
+key_pressed,1,auto_complete,Ich bin nur ein T,,37.05604013454194
+key_pressed,1,auto_complete,Ich bin nur ein TE,,39.11405728952156
+key_pressed,1,auto_complete,Ich bin nur ein TEx,,38.643766942876574
+key_pressed,1,auto_complete,Ich bin nur ein TExt,,39.74105391619109
+sentence_finished,1,auto_complete,Ich bin nur ein TExt,6.579231,29.180240417824567
+key_pressed,1,auto_complete,D,,26.466575893230715
+key_pressed,1,auto_complete,Da,,27.177968129806015
+key_pressed,1,auto_complete,Das,,28.18671174562531
+word_finished,1,auto_complete,Das,,27.495470181584672
+key_pressed,1,auto_complete,Das i,,26.889659626206843
+key_pressed,1,auto_complete,Das is,,27.921596157988372
+key_pressed,1,auto_complete,Das ist,,28.337901567654864
+word_finished,1,auto_complete,Das ist,,27.43962425176354
+key_pressed,1,auto_complete,Das ist n,,26.322907300257768
+key_pressed,1,auto_complete,Das ist nu,,26.893423045310374
+key_pressed,1,auto_complete,Das ist nur,,27.48005177241754
+word_finished,1,auto_complete,Das ist nur,,26.886596637239588
+key_pressed,1,auto_complete,Das ist nur v,,27.36155426256621
+key_pressed,1,auto_complete,Das ist nur vo,,27.725568896156105
+key_pressed,1,auto_complete,Das ist nur vor,,27.89302328245596
+sentence_finished,1,auto_complete,Das ist nur vorübergehend,5.794756,33.77113361993373
+key_pressed,1,auto_complete,D,,32.86590940708705
+key_pressed,1,auto_complete,De,,33.15018317548091
+key_pressed,1,auto_complete,Der,,33.72585105677075
+word_finished,1,auto_complete,Der,,33.431071653386645
+key_pressed,1,auto_complete,Der d,,33.619113586711165
+key_pressed,1,auto_complete,Der dr,,34.038210133702876
+key_pressed,1,auto_complete,Der dri,,34.12648542314321
+word_finished,1,auto_complete,Der dritte,,34.139877859139105
+key_pressed,1,auto_complete,Der dritte D,,33.19361281125927
+key_pressed,1,auto_complete,2021-05-17 09:50:37.038460,31.37341461346952,
+key_pressed,1,auto_complete,Der dritte S,,31.126044647609127
+key_pressed,1,auto_complete,Der dritte Sa,,31.520196565949632
+key_pressed,1,auto_complete,Der dritte Sat,,31.89878812250751
+key_pressed,1,auto_complete,Der dritte Satz,,32.194974448658435
+word_finished,1,auto_complete,Der dritte Satz,,30.62191150878011
+key_pressed,1,auto_complete,Der dritte Satz u,,30.394599347305213
+key_pressed,1,auto_complete,Der dritte Satz un,,30.632656839684664
+key_pressed,1,auto_complete,Der dritte Satz und,,30.972314144726077
+word_finished,1,auto_complete,Der dritte Satz und,,30.608135472363358
+key_pressed,1,auto_complete,Der dritte Satz und d,,30.99109668052955
+key_pressed,1,auto_complete,Der dritte Satz und da,,31.106682729194798
+key_pressed,1,auto_complete,Der dritte Satz und dan,,31.1212806315982
+key_pressed,1,auto_complete,Der dritte Satz und danni,,29.974723433430142
+key_pressed,1,auto_complete,Der dritte Satz und dannis,,30.35256783988616
+key_pressed,1,auto_complete,Der dritte Satz und dannist,,29.95788216435385
+word_finished,1,auto_complete,Der dritte Satz und dannist,,29.77342545252861
+key_pressed,1,auto_complete,Der dritte Satz und dannist E,,29.839699450055146
+key_pressed,1,auto_complete,Der dritte Satz und dannist En,,30.141711495817518
+key_pressed,1,auto_complete,Der dritte Satz und dannist End,,29.9758085857273
+test_finished,1,auto_complete,Der dritte Satz und dannist Ende,13.326507999999999,28.295599337795917
