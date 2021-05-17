@@ -34,7 +34,7 @@ class MainWindow(QtWidgets.QWidget):
         example_text = QtWidgets.QLabel(self)
         example_text.setFont(QFont("Arial", 15))
         example_text.setText(self.__model.get_example_text().strip())
-        example_text.setAlignment(QtCore.Qt.AlignCenter)
+        example_text.setAlignment(QtCore.Qt.AlignLeft)
         self.__example_text = example_text
 
         self.__edit_text = EditTextWidget(self.__model, self)

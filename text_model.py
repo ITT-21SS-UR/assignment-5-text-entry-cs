@@ -29,8 +29,8 @@ class KeyboardType(Enum):
 
 class LogType(Enum):
     KEY_PRESSED = "key_pressed"
-    WORD_TYPED = "word_finished"
-    SENTENCE_TYPED = "sentence_finished"
+    WORD_FINISHED = "word_finished"
+    SENTENCE_FINISHED = "sentence_finished"
     TEST_FINISHED = "test_finished"
 
 
@@ -79,9 +79,10 @@ class TextModel(QObject):
         return key_text in string.punctuation + string.whitespace
 
     @staticmethod
-    def is_ctrl_or_shift(modifiers):
-        return (modifiers == QtCore.Qt.ControlModifier
-                or modifiers == QtCore.Qt.ShiftModifier)
+    def is_ctrl_or_shift_or_caps_lock(event):
+        return (event.modifiers() == QtCore.Qt.ControlModifier
+                or event.modifiers() == QtCore.Qt.ShiftModifier
+                or event.key() == QtCore.Qt.Key_CapsLock)
 
     def __init__(self, config):
         super().__init__()
@@ -124,6 +125,8 @@ class TextModel(QObject):
             self.LOG_TYPE,
             ConfigKeys.PARTICIPANT_ID.value,
             ConfigKeys.KEYBOARD_TYPE.value,
+            ConfigKeys.TXT_FILE.value,
+            ConfigKeys.KEY_LIMIT.value,
             self.KEY_CODE,
             self.KEY_VALUE,
             self.CONTENT,
@@ -146,6 +149,7 @@ class TextModel(QObject):
     def __calculate_words_per_minute(self):
         minutes_since_typing_start = self.__calculate_time_difference(
             self.__first_start_time) / 60
+
         return len(self.get_clean_content()) / 5 / minutes_since_typing_start
 
     def __create_row_data(self, key_event, log_type, word_time="NaN", sentence_time="NaN"):
@@ -159,6 +163,8 @@ class TextModel(QObject):
             self.LOG_TYPE: log_type.value,
             ConfigKeys.PARTICIPANT_ID.value: self.get_participant_id(),
             ConfigKeys.KEYBOARD_TYPE: self.get_keyboard_type(),
+            ConfigKeys.TXT_FILE: self.get_file_name(),
+            ConfigKeys.KEY_LIMIT: self.get_key_limit(),
             self.KEY_CODE: key_event.key(),
             self.KEY_VALUE: key_text,
             self.CONTENT: lines[-1] if lines else "",
@@ -184,7 +190,7 @@ class TextModel(QObject):
 
         else:
             self.__write_to_stdout_in_csv_format(
-                self.__create_row_data(key_event, LogType.SENTENCE_TYPED, word_time=word_time,
+                self.__create_row_data(key_event, LogType.SENTENCE_FINISHED, word_time=word_time,
                                        sentence_time=sentence_time))
 
         self.__word_start_time = self.INVALID_TIME
@@ -194,7 +200,7 @@ class TextModel(QObject):
         word_time = self.__calculate_time_difference(self.__word_start_time)
 
         self.__write_to_stdout_in_csv_format(
-            self.__create_row_data(key_event, LogType.WORD_TYPED, word_time=word_time))
+            self.__create_row_data(key_event, LogType.WORD_FINISHED, word_time=word_time))
 
         self.__word_start_time = self.INVALID_TIME
 
@@ -212,8 +218,7 @@ class TextModel(QObject):
         return list(set(self.get_example_text().replace(" ", "\n").splitlines()))
 
     def __read_file(self):
-        file_name = self.__config[ConfigKeys.TXT_FILE.value]
-        with open(file_name) as file:
+        with open(self.get_file_name()) as file:
             return file.read()
 
     def get_participant_id(self):
@@ -224,6 +229,9 @@ class TextModel(QObject):
 
     def get_example_text(self):
         return self.__read_file()
+
+    def get_file_name(self):
+        return self.__config[ConfigKeys.TXT_FILE.value]
 
     def get_key_limit(self):
         return self.__config[ConfigKeys.KEY_LIMIT.value]

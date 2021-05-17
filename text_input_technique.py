@@ -50,7 +50,7 @@ class EditTextWidget(QtWidgets.QTextEdit):
         return tc.selectedText()
 
     def __handle_normal_keyboard(self, event):
-        if (self.__model.is_ctrl_or_shift(event.modifiers())
+        if (self.__model.is_ctrl_or_shift_or_caps_lock(event)
                 and not event.text()):
             return
 
@@ -84,7 +84,7 @@ class EditTextWidget(QtWidgets.QTextEdit):
             super(EditTextWidget, self).keyPressEvent(event)
 
         # We also handle other modifiers and shortcuts for which we do not want the completer to respond to.
-        ctrl_or_shift = self.__model.is_ctrl_or_shift(event.modifiers())
+        ctrl_or_shift = self.__model.is_ctrl_or_shift_or_caps_lock(event)
 
         if (not self.__completer
                 or (ctrl_or_shift and not key_text)):
