@@ -65,6 +65,7 @@ class MainWindow(QtWidgets.QWidget):
             completer = QtWidgets.QCompleter(
                 self.__model.get_word_list(), self)
             completer.setCaseSensitivity(QtCore.Qt.CaseInsensitive)
+            completer.setModelSorting(QtWidgets.QCompleter.CaseInsensitivelySortedModel)
             completer.setWrapAround(False)
             self.__edit_text.set_completer(completer)
 

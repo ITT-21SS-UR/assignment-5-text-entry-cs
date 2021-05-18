@@ -217,10 +217,10 @@ class TextModel(QObject):
             self.__create_row_data(key_event, LogType.KEY_PRESSED))
 
     def __generate_word_list(self):
-        # Deleting punctuation, splitting into single words and removing duplicate words
+        # Deleting punctuation, splitting into single words, removing duplicate words and sort list alphabetically
         p = re.compile(r"[^\w\s]")
         text = p.sub('', self.get_example_text())
-        return list(set(text.replace(" ", "\n").splitlines()))
+        return sorted(list(set(text.replace(" ", "\n").splitlines())), key=lambda s: s.lower())
 
     def __read_file(self):
         with open(self.get_file_name()) as file:
