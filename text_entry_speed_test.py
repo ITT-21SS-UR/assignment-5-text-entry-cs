@@ -18,7 +18,7 @@ We helped each other while programming. The workload was distributed evenly.
 HOW TO START THE PROGRAM:
 python3 text_entry_speed_test.py config.json
 
-Config file structure with description
+Config file structure with description:
 {
   "participant_id": 1,
   "keyboard_type": "normal",  # 2 possible values: normal, auto_complete

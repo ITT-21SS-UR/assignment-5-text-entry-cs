@@ -217,7 +217,10 @@ class TextModel(QObject):
             self.__create_row_data(key_event, LogType.KEY_PRESSED))
 
     def __generate_word_list(self):
-        return list(set(self.get_example_text().replace(" ", "\n").splitlines()))
+        # Deleting punctuation, splitting into single words and removing duplicate words
+        p = re.compile(r"[^\w\s]")
+        text = p.sub('', self.get_example_text())
+        return list(set(text.replace(" ", "\n").splitlines()))
 
     def __read_file(self):
         with open(self.get_file_name()) as file:
