@@ -1,139 +1,635 @@
 log_type,participant_id,keyboard_type,txt_file,key_limit,key_code,key_value,content,timestamp,word_time_in_s,sentence_time_in_s,words_per_minute
-key_pressed,1,normal,wahrheit.txt,3,87,W,W,2021-05-17 15:09:14.541240,,,18237.082066869298
-key_pressed,1,normal,wahrheit.txt,3,65,a,Wa,2021-05-17 15:09:14.767454,,,105.8429731291152
-key_pressed,1,normal,wahrheit.txt,3,72,h,Wah,2021-05-17 15:09:15.739909,,,30.019687911988946
-sentence_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,Wahrheit,2021-05-17 15:09:17.028012,2.4868770000000002,2.486902,38.596145612000186
-key_pressed,1,normal,wahrheit.txt,3,86,v,v,2021-05-17 15:09:17.532670,,,36.09677545499485
-key_pressed,1,normal,wahrheit.txt,3,79,o,vo,2021-05-17 15:09:17.707684,,,37.89099959298751
-key_pressed,1,normal,wahrheit.txt,3,78,n,von,2021-05-17 15:09:18.234584,,,35.73476359017424
-word_finished,1,normal,wahrheit.txt,3,32, ,von,2021-05-17 15:09:18.680507,1.147982,,31.885767787548037
-key_pressed,1,normal,wahrheit.txt,3,74,J,von J,2021-05-17 15:09:19.721575,,,27.794656168522092
-key_pressed,1,normal,wahrheit.txt,3,75,K,von JK,2021-05-17 15:09:19.734479,,,30.035968071765943
-key_pressed,1,normal,wahrheit.txt,3,79,o,von JKo,2021-05-17 15:09:20.475524,,,28.307513959985307
-key_pressed,1,normal,wahrheit.txt,3,16777219,von JK,2021-05-17 15:09:20.931570,,,24.409833595347862,
-key_pressed,1,normal,wahrheit.txt,3,16777219,von J,2021-05-17 15:09:21.115818,,,21.90075762933424,
-key_pressed,1,normal,wahrheit.txt,3,79,o,von Jo,2021-05-17 15:09:21.721701,,,21.724039250882715
-key_pressed,1,normal,wahrheit.txt,3,72,h,von Joh,2021-05-17 15:09:22.051986,,,22.366349082260765
-key_pressed,1,normal,wahrheit.txt,3,65,a,von Joha,2021-05-17 15:09:22.267423,,,23.29578398078357
-word_finished,1,normal,wahrheit.txt,3,32, ,von Johann,2021-05-17 15:09:23.020134,3.2984739999999997,,24.058246429797503
-key_pressed,1,normal,wahrheit.txt,3,87,W,von Johann W,2021-05-17 15:09:24.235647,,,22.279677200484294
-key_pressed,1,normal,wahrheit.txt,3,79,o,von Johann Wo,2021-05-17 15:09:24.444339,,,23.02185238267085
-key_pressed,1,normal,wahrheit.txt,3,76,l,von Johann Wol,2021-05-17 15:09:24.675830,,,23.67999797930684
-word_finished,1,normal,wahrheit.txt,3,32, ,von Johann Wolfgang,2021-05-17 15:09:25.588065,1.352326,,27.15578704757667
-key_pressed,1,normal,wahrheit.txt,3,86,v,von Johann Wolfgang v,2021-05-17 15:09:26.251691,,,26.641669039084526
-key_pressed,1,normal,wahrheit.txt,3,79,o,von Johann Wolfgang vo,2021-05-17 15:09:26.435705,,,27.2383285653648
-key_pressed,1,normal,wahrheit.txt,3,78,n,von Johann Wolfgang von,2021-05-17 15:09:26.680744,,,27.67705033812953
-word_finished,1,normal,wahrheit.txt,3,32, ,von Johann Wolfgang von,2021-05-17 15:09:26.916112,0.664413,,27.150602452475127
-key_pressed,1,normal,wahrheit.txt,3,71,G,von Johann Wolfgang von G,2021-05-17 15:09:27.275540,,,27.326637417218155
-key_pressed,1,normal,wahrheit.txt,3,79,o,von Johann Wolfgang von Go,2021-05-17 15:09:27.620074,,,27.524232028052698
-key_pressed,1,normal,wahrheit.txt,3,69,e,von Johann Wolfgang von Goe,2021-05-17 15:09:27.811655,,,28.031150746555447
-sentence_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,von Johann Wolfgang von Goethe,2021-05-17 15:09:29.035967,1.7604009999999999,11.503311,28.14714776949031
-sentence_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,von Johann Wolfgang von Goethe,2021-05-17 15:09:29.340911,,,27.56720248839948
-key_pressed,1,normal,wahrheit.txt,3,87,W,W,2021-05-17 15:09:29.955747,,,27.246126914405323
-key_pressed,1,normal,wahrheit.txt,3,65,a,Wa,2021-05-17 15:09:30.139939,,,27.693662196426658
-key_pressed,1,normal,wahrheit.txt,3,83,s,Was,2021-05-17 15:09:30.297100,,,28.179059645739716
-word_finished,1,normal,wahrheit.txt,3,32, ,Was,2021-05-17 15:09:30.572109,0.6164729999999999,,27.695655930129604
-key_pressed,1,normal,wahrheit.txt,3,65,a,Was a,2021-05-17 15:09:30.931341,,,27.820774907418127
-key_pressed,1,normal,wahrheit.txt,3,85,u,Was au,2021-05-17 15:09:31.124321,,,28.220622798994928
-key_pressed,1,normal,wahrheit.txt,3,83,s,Was aus,2021-05-17 15:09:31.339962,,,28.57267522446068
-key_pressed,1,normal,wahrheit.txt,3,16777219,Was au,2021-05-17 15:09:31.820570,,,27.083540221487798,
-key_pressed,1,normal,wahrheit.txt,3,67,c,Was auc,2021-05-17 15:09:32.099544,,,27.336656217799334
-word_finished,1,normal,wahrheit.txt,3,32, ,Was auch,2021-05-17 15:09:32.923655,1.9922950000000001,,26.76394526664396
-key_pressed,1,normal,wahrheit.txt,3,65,a,Was auch a,2021-05-17 15:09:33.500135,,,26.58307485160948
-key_pressed,1,normal,wahrheit.txt,3,76,l,Was auch al,2021-05-17 15:09:33.657443,,,26.992078138927603
-key_pressed,1,normal,wahrheit.txt,3,83,s,Was auch als,2021-05-17 15:09:33.795733,,,27.421404826613887
-word_finished,1,normal,wahrheit.txt,3,32, ,Was auch als,2021-05-17 15:09:34.084106,0.584128,,27.016800305167042
-key_pressed,1,normal,wahrheit.txt,3,87,W,Was auch als W,2021-05-17 15:09:34.411466,,,27.17561698967236
-key_pressed,1,normal,wahrheit.txt,3,65,a,Was auch als Wa,2021-05-17 15:09:34.674470,,,27.41665659236985
-key_pressed,1,normal,wahrheit.txt,3,72,h,Was auch als Wah,2021-05-17 15:09:34.788067,,,27.85547512698689
-word_finished,1,normal,wahrheit.txt,3,35,#,Was auch als Wah#,2021-05-17 15:09:35.115701,0.704217,,27.411926307021552
-key_pressed,1,normal,wahrheit.txt,3,16777219,Was auch als Wah,2021-05-17 15:09:35.651600,,,26.716073085891647,
-word_finished,1,normal,wahrheit.txt,3,32, ,Was auch als Wahrheit,2021-05-17 15:09:36.892032,1.240341,,27.917798012315416
-key_pressed,1,normal,wahrheit.txt,3,79,o,Was auch als Wahrheit o,2021-05-17 15:09:37.688385,,,27.475782970172748
-key_pressed,1,normal,wahrheit.txt,3,68,d,Was auch als Wahrheit od,2021-05-17 15:09:37.867865,,,27.778774469917327
-sentence_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,Was auch als Wahrheit od,2021-05-17 15:09:39.603942,1.9154189999999998,9.648267,25.854610587271523
-key_pressed,1,normal,wahrheit.txt,3,16777219,Was auch als Wahrheit od,2021-05-17 15:09:40.267748,,,25.18750405944438,
-key_pressed,1,normal,wahrheit.txt,3,69,e,Was auch als Wahrheit ode,2021-05-17 15:09:40.907603,,,25.031385944603723
-word_finished,1,normal,wahrheit.txt,3,32, ,Was auch als Wahrheit oder,2021-05-17 15:09:41.676282,1.4085379999999998,,24.764545190283094
-key_pressed,1,normal,wahrheit.txt,3,70,F,Was auch als Wahrheit oder F,2021-05-17 15:09:42.235858,,,24.697468646671876
-key_pressed,1,normal,wahrheit.txt,3,65,a,Was auch als Wahrheit oder Fa,2021-05-17 15:09:42.361700,,,25.017091418059326
-key_pressed,1,normal,wahrheit.txt,3,66,b,Was auch als Wahrheit oder Fab,2021-05-17 15:09:42.540380,,,25.2859969470373
-sentence_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,Was auch als Wahrheit oder Fabel,2021-05-17 15:09:43.696857,1.461109,3.42924,25.10621437798599
-key_pressed,1,normal,wahrheit.txt,3,73,I,I,2021-05-17 15:09:44.460210,,,24.866725713999234
-key_pressed,1,normal,wahrheit.txt,3,78,n,In,2021-05-17 15:09:45.603555,,,24.337752373800058
-word_finished,1,normal,wahrheit.txt,3,32, ,In,2021-05-17 15:09:45.988603,1.528362,,24.039757179373318
-key_pressed,1,normal,wahrheit.txt,3,84,t,In t,2021-05-17 15:09:46.443659,,,24.073012695222967
-key_pressed,1,normal,wahrheit.txt,3,65,a,In ta,2021-05-17 15:09:46.544882,,,24.37183318492554
-key_pressed,1,normal,wahrheit.txt,3,85,u,In tau,2021-05-17 15:09:47.595939,,,23.959896940980663
-word_finished,1,normal,wahrheit.txt,3,32, ,In tausend,2021-05-17 15:09:48.508012,2.06414,,24.72966283312732
-key_pressed,1,normal,wahrheit.txt,3,66,B,In tausend B,2021-05-17 15:09:49.291760,,,24.51724621369692
-key_pressed,1,normal,wahrheit.txt,3,220,ü,In tausend Bü,2021-05-17 15:09:49.804595,,,24.500979698896572
-key_pressed,1,normal,wahrheit.txt,3,67,c,In tausend Büc,2021-05-17 15:09:49.972274,,,24.723713210458552
-word_finished,1,normal,wahrheit.txt,3,32, ,In tausend Büchern,2021-05-17 15:09:51.507564,2.2158279999999997,,24.99536814728245
-key_pressed,1,normal,wahrheit.txt,3,68,d,In tausend Büchern d,2021-05-17 15:09:52.083574,,,24.931504287859145
-key_pressed,1,normal,wahrheit.txt,3,73,i,In tausend Büchern di,2021-05-17 15:09:52.324591,,,25.090060215350533
-key_pressed,1,normal,wahrheit.txt,3,69,e,In tausend Büchern die,2021-05-17 15:09:52.899859,,,25.02661945951053
-sentence_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,In tausend Büchern die,2021-05-17 15:09:53.228727,1.144995,8.768425,24.81388551948489
-key_pressed,1,normal,wahrheit.txt,3,16777219,In tausend Büchern die,2021-05-17 15:09:53.660103,,,24.54025368487247,
-key_pressed,1,normal,wahrheit.txt,3,16777219,In tausend Büchern di,2021-05-17 15:09:53.843641,,,24.120333596426462,
-key_pressed,1,normal,wahrheit.txt,3,69,e,In tausend Büchern die,2021-05-17 15:09:54.147361,,,24.23834962895253
-key_pressed,1,normal,wahrheit.txt,3,16777219,In tausend Büchern di,2021-05-17 15:09:54.771745,,,23.563887328527045,
-key_pressed,1,normal,wahrheit.txt,3,82,r,In tausend Büchern dir,2021-05-17 15:09:54.987689,,,23.734772814339557
-word_finished,1,normal,wahrheit.txt,3,32, ,In tausend Büchern dir,2021-05-17 15:09:55.252595,1.5924,,23.580332568167915
-key_pressed,1,normal,wahrheit.txt,3,69,e,In tausend Büchern dir e,2021-05-17 15:09:55.547701,,,23.703276531715122
-key_pressed,1,normal,wahrheit.txt,3,82,r,In tausend Büchern dir er,2021-05-17 15:09:55.764023,,,23.869984850079643
-key_pressed,1,normal,wahrheit.txt,3,83,s,In tausend Büchern dir ers,2021-05-17 15:09:56.421034,,,23.782045859090953
-sentence_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,"In tausend Büchern dir erscheint,",2021-05-17 15:09:57.309500,1.76173,3.6493860000000002,24.971483290909482
-key_pressed,1,normal,wahrheit.txt,3,68,D,D,2021-05-17 15:09:58.243908,,,24.71215148658693
-key_pressed,1,normal,wahrheit.txt,3,65,a,Da,2021-05-17 15:09:58.516251,,,24.83192911275585
-key_pressed,1,normal,wahrheit.txt,3,83,s,Das,2021-05-17 15:09:58.688521,,,25.006910310836126
-word_finished,1,normal,wahrheit.txt,3,32, ,Das,2021-05-17 15:09:58.884726,0.6406229999999999,,24.896254892909003
-key_pressed,1,normal,wahrheit.txt,3,65,a,Das a,2021-05-17 15:09:59.475783,,,24.835835350874053
-key_pressed,1,normal,wahrheit.txt,3,76,l,Das al,2021-05-17 15:09:59.875387,,,24.88161271319825
-key_pressed,1,normal,wahrheit.txt,3,76,l,Das all,2021-05-17 15:10:00.044946,,,25.052609380901238
-word_finished,1,normal,wahrheit.txt,3,32, ,Das alles,2021-05-17 15:10:00.843736,1.3679430000000001,,25.1387447058538
-key_pressed,1,normal,wahrheit.txt,3,73,i,Das alles i,2021-05-17 15:10:01.619766,,,24.979260947357588
-key_pressed,1,normal,wahrheit.txt,3,83,s,Das alles is,2021-05-17 15:10:01.772006,,,25.15280860537712
-key_pressed,1,normal,wahrheit.txt,3,84,t,Das alles ist,2021-05-17 15:10:01.972363,,,25.299507161383914
-word_finished,1,normal,wahrheit.txt,3,32, ,Das alles ist,2021-05-17 15:10:02.228124,0.608414,,25.163875017827028
-key_pressed,1,normal,wahrheit.txt,3,69,e,Das alles ist e,2021-05-17 15:10:02.435934,,,25.305232359972035
-key_pressed,1,normal,wahrheit.txt,3,73,i,Das alles ist ei,2021-05-17 15:10:02.611704,,,25.462336959913458
-key_pressed,1,normal,wahrheit.txt,3,78,n,Das alles ist ein,2021-05-17 15:10:02.852373,,,25.583809174589934
-word_finished,1,normal,wahrheit.txt,3,32, ,Das alles ist ein,2021-05-17 15:10:03.123960,0.688021,,25.440868012776757
-key_pressed,1,normal,wahrheit.txt,3,84,T,Das alles ist ein T,2021-05-17 15:10:03.796751,,,25.336962826188778
-key_pressed,1,normal,wahrheit.txt,3,85,u,Das alles ist ein Tu,2021-05-17 15:10:04.161286,,,25.39269756400396
-key_pressed,1,normal,wahrheit.txt,3,82,r,Das alles ist ein Tur,2021-05-17 15:10:04.373270,,,25.525476653158893
-word_finished,1,normal,wahrheit.txt,3,32, ,Das alles ist ein Turm,2021-05-17 15:10:04.939907,1.1434739999999999,,25.476598910553964
-key_pressed,1,normal,wahrheit.txt,3,90,z,Das alles ist ein Turm z,2021-05-17 15:10:06.316081,,,25.03101595891437
-key_pressed,1,normal,wahrheit.txt,3,85,u,Das alles ist ein Turm zu,2021-05-17 15:10:06.499996,,,25.173552688640324
-word_finished,1,normal,wahrheit.txt,3,32, ,Das alles ist ein Turm zu,2021-05-17 15:10:06.780073,0.46403900000000003,,25.038592549318853
-key_pressed,1,normal,wahrheit.txt,3,66,B,Das alles ist ein Turm zu B,2021-05-17 15:10:07.060460,,,25.133404110522548
-key_pressed,1,normal,wahrheit.txt,3,65,a,Das alles ist ein Turm zu Ba,2021-05-17 15:10:07.208772,,,25.29047592574534
-key_pressed,1,normal,wahrheit.txt,3,66,b,Das alles ist ein Turm zu Bab,2021-05-17 15:10:07.720874,,,25.27258761022675
-sentence_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,"Das alles ist ein Turm zu Babel,",2021-05-17 15:10:08.781784,1.72127,10.537847,25.22074233494075
-key_pressed,1,normal,wahrheit.txt,3,87,W,W,2021-05-17 15:10:09.451812,,,25.131531241070228
-key_pressed,1,normal,wahrheit.txt,3,69,e,We,2021-05-17 15:10:09.730089,,,25.222247043828524
-key_pressed,1,normal,wahrheit.txt,3,78,n,Wen,2021-05-17 15:10:09.940509,,,25.343048577768503
-key_pressed,1,normal,wahrheit.txt,3,78,n,Wenn,2021-05-17 15:10:10.098229,,,25.487097858684198
-word_finished,1,normal,wahrheit.txt,3,32, ,Wenn,2021-05-17 15:10:10.405393,0.953573,,25.34696386602347
-key_pressed,1,normal,wahrheit.txt,3,69,e,Wenn e,2021-05-17 15:10:10.867927,,,25.351866328769606
-key_pressed,1,normal,wahrheit.txt,3,83,s,Wenn es,2021-05-17 15:10:11.236020,,,25.398923159738217
-word_finished,1,normal,wahrheit.txt,3,32, ,Wenn es,2021-05-17 15:10:11.603706,0.735766,,25.235269822514734
-key_pressed,1,normal,wahrheit.txt,3,68,d,Wenn es d,2021-05-17 15:10:11.932315,,,25.29986922650929
-key_pressed,1,normal,wahrheit.txt,3,73,i,Wenn es di,2021-05-17 15:10:12.115648,,,25.427727286582734
-key_pressed,1,normal,wahrheit.txt,3,69,e,Wenn es die,2021-05-17 15:10:12.276041,,,25.56493305936593
-word_finished,1,normal,wahrheit.txt,3,32, ,Wenn es die,2021-05-17 15:10:12.619782,0.687416,,25.413630511191567
-key_pressed,1,normal,wahrheit.txt,3,76,L,Wenn es die L,2021-05-17 15:10:13.380889,,,25.288843889400397
-key_pressed,1,normal,wahrheit.txt,3,73,i,Wenn es die Li,2021-05-17 15:10:13.602276,,,25.39722831243055
-key_pressed,1,normal,wahrheit.txt,3,69,e,Wenn es die Lie,2021-05-17 15:10:13.764423,,,25.530311165863942
-word_finished,1,normal,wahrheit.txt,3,32, ,Wenn es die Liebe,2021-05-17 15:10:14.780246,1.39935,,25.49820648504053
-key_pressed,1,normal,wahrheit.txt,3,78,n,Wenn es die Liebe n,2021-05-17 15:10:15.660354,,,25.327339501729426
-key_pressed,1,normal,wahrheit.txt,3,73,i,Wenn es die Liebe ni,2021-05-17 15:10:15.883758,,,25.430750038076845
-key_pressed,1,normal,wahrheit.txt,3,67,c,Wenn es die Liebe nic,2021-05-17 15:10:16.076194,,,25.54623356375321
-word_finished,1,normal,wahrheit.txt,3,35,#,Wenn es die Liebe nic#,2021-05-17 15:10:16.356720,0.696375,,25.430306836711512
-key_pressed,1,normal,wahrheit.txt,3,16777219,Wenn es die Liebe nic,2021-05-17 15:10:16.964037,,,25.182889937186307,
-word_finished,1,normal,wahrheit.txt,3,32, ,Wenn es die Liebe nicht,2021-05-17 15:10:17.763729,0.7997770000000001,,25.243971277801737
-key_pressed,1,normal,wahrheit.txt,3,86,v,Wenn es die Liebe nicht v,2021-05-17 15:10:18.435955,,,25.16619312592947
-key_pressed,1,normal,wahrheit.txt,3,69,e,Wenn es die Liebe nicht ve,2021-05-17 15:10:18.569641,,,25.301061153055247
-key_pressed,1,normal,wahrheit.txt,3,82,r,Wenn es die Liebe nicht ver,2021-05-17 15:10:18.747764,,,25.417765981151696
-test_finished,1,normal,wahrheit.txt,3,16777220,<RETURN>,Wenn es die Liebe nicht vereint.,2021-05-17 15:10:19.870860,1.4348670000000001,10.419016000000001,25.715541052534643
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,G,G,2021-05-18 16:05:00.764843,,,90909.09090909091
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,76,l,Gl,2021-05-18 16:05:00.965212,,,119.69298748709562
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,220,ü,Glü,2021-05-18 16:05:01.428062,,,54.269256918199645
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,Glüc,2021-05-18 16:05:01.652044,,,54.09413732247543
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,75,k,Glück,2021-05-18 16:05:02.011900,,,48.10776138550352
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,76,l,Glückl,2021-05-18 16:05:02.228888,,,49.17421468096179
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Glückli,2021-05-18 16:05:02.483783,,,48.86328866220459
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,Glücklic,2021-05-18 16:05:02.632672,,,51.39296344675475
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Glücklich,2021-05-18 16:05:02.796291,,,53.16028021374372
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich,2021-05-18 16:05:03.195759,2.430893,,44.425303171843254
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,Glücklich s,2021-05-18 16:05:03.757363,,,40.098200493007376
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich se,2021-05-18 16:05:03.963312,,,41.26792575524994
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Glücklich sei,2021-05-18 16:05:04.049114,,,43.84358435916664
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Glücklich sein,2021-05-18 16:05:04.251918,,,44.73477440482677
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich sein,2021-05-18 16:05:04.427600,0.6702319999999999,,42.58933317389635
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Glücklich sein h,2021-05-18 16:05:04.667932,,,43.041342234009626
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein he,2021-05-18 16:05:04.832978,,,44.244894507881234
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Glücklich sein hei,2021-05-18 16:05:04.841111,,,47.1003942450187
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,223,ß,Glücklich sein heiß,2021-05-18 16:05:05.331719,,,44.668115898871385
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Glücklich sein heißt,2021-05-18 16:05:05.635666,,,44.34440492682763
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich sein heißt,2021-05-18 16:05:05.849436,1.181658,,42.48019852412777
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein heißt e,2021-05-18 16:05:06.788470,,,37.850107266871966
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Glücklich sein heißt ei,2021-05-18 16:05:06.976810,,,38.63429070178867
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Glücklich sein heißt ein,2021-05-18 16:05:07.161015,,,39.397752201896594
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein heißt eine,2021-05-18 16:05:07.193161,,,41.067442385022844
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Glücklich sein heißt einen,2021-05-18 16:05:07.360907,,,41.84230454072386
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein heißt einene,2021-05-18 16:05:07.392726,,,43.45192994462595
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich sein heißt einene,2021-05-18 16:05:07.563375,0.7749229999999999,,42.361232764825
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,g,Glücklich sein heißt einene g,2021-05-18 16:05:07.681199,,,43.37463948445483
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,Glücklich sein heißt einene gu,2021-05-18 16:05:08.088952,,,42.59827640820072
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Glücklich sein heißt einene gut,2021-05-18 16:05:08.259162,,,43.231945525613725
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein heißt einene gute,2021-05-18 16:05:08.466933,,,43.623735414774075
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Glücklich sein heißt einene guten,2021-05-18 16:05:08.657036,,,44.09347055525463
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich sein heißt einene guten,2021-05-18 16:05:08.857183,1.175977,,43.002950397826716
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,G,Glücklich sein heißt einene guten G,2021-05-18 16:05:09.091621,,,43.23327232638239
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein heißt einene guten Ge,2021-05-18 16:05:09.152640,,,44.34945078212402
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Glücklich sein heißt einene guten Gen,2021-05-18 16:05:09.388322,,,44.5288379306846
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Glücklich sein heißt einene guten Geni,2021-05-18 16:05:09.619418,,,44.721936279146185
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,Glücklich sein heißt einene guten Geniu,2021-05-18 16:05:09.876125,,,44.778950030203845
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,Glücklich sein heißt einene guten Genius,2021-05-18 16:05:10.108035,,,44.951834109751395
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich sein heißt einene guten Genius,2021-05-18 16:05:10.282169,1.190542,,44.129444268452026
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Glücklich sein heißt einene guten Genius h,2021-05-18 16:05:10.491541,,,44.41323181208762
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,65,a,Glücklich sein heißt einene guten Genius ha,2021-05-18 16:05:10.600859,,,45.139617140813954
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,66,b,Glücklich sein heißt einene guten Genius hab,2021-05-18 16:05:10.713686,,,45.83386730793874
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein heißt einene guten Genius habe,2021-05-18 16:05:10.931789,,,46.03086113512103
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Glücklich sein heißt einene guten Genius haben,2021-05-18 16:05:11.468461,,,44.844046420314655
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich sein heißt einene guten Genius haben,2021-05-18 16:05:11.716230,1.224677,,43.82953634103178
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,79,o,Glücklich sein heißt einene guten Genius haben o,2021-05-18 16:05:12.128663,,,43.29480887321828
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,Glücklich sein heißt einene guten Genius haben od,2021-05-18 16:05:12.323715,,,43.602338711791404
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein heißt einene guten Genius haben ode,2021-05-18 16:05:12.465009,,,44.1014446043549
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,Glücklich sein heißt einene guten Genius haben oder,2021-05-18 16:05:12.593823,,,44.63563374230733
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich sein heißt einene guten Genius haben oder,2021-05-18 16:05:12.656789,0.528127,,44.39932008495744
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,g,Glücklich sein heißt einene guten Genius haben oder g,2021-05-18 16:05:12.883825,,,44.5577127172828
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,Glücklich sein heißt einene guten Genius haben oder gu,2021-05-18 16:05:13.108981,,,44.717078205552255
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Glücklich sein heißt einene guten Genius haben oder gut,2021-05-18 16:05:13.265124,,,45.11844431603997
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Glücklich sein heißt einene guten Genius haben oder gut,2021-05-18 16:05:13.467847,0.584018,,44.3984855393188
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,Glücklich sein heißt einene guten Genius haben oder gut s,2021-05-18 16:05:13.699601,,,44.530722719713886
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Glücklich sein heißt einene guten Genius haben oder gut se,2021-05-18 16:05:13.939872,,,44.629391611829945
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Glücklich sein heißt einene guten Genius haben oder gut sei,2021-05-18 16:05:14.056944,,,45.13914253534377
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Glücklich sein heißt einene guten Genius haben oder gut sein,2021-05-18 16:05:14.275787,,,45.29614016934983
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,46,.,Glücklich sein heißt einene guten Genius haben oder gut sein.,2021-05-18 16:05:14.739914,1.0403069999999999,,43.791853598967656
+sentence_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,16777220,<RETURN>,Glücklich sein heißt einene guten Genius haben oder gut sein.,2021-05-18 16:05:15.396498,,14.631611999999999,41.826746235900394
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,87,W,W,2021-05-18 16:05:16.137062,,,40.592370182640295
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,65,a,Wa,2021-05-18 16:05:16.332091,,,40.85461166985002
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,Was,2021-05-18 16:05:16.465169,,,41.27267871595346
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Was,2021-05-18 16:05:16.601345,0.464257,,40.91779368983214
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,65,a,Was a,2021-05-18 16:05:16.828666,,,41.0857647909687
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,77,m,Was am,2021-05-18 16:05:16.838950,,,41.80599405882078
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,Was amc,2021-05-18 16:05:17.128907,,,41.79855771754453
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Was amch,2021-05-18 16:05:17.315741,,,42.05174067924073
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,Was amchs,2021-05-18 16:05:17.433690,,,42.47410459428232
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Was amchst,2021-05-18 16:05:17.657066,,,42.62283145245291
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Was amchst,2021-05-18 16:05:18.083354,1.254679,,41.57369604535413
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,Was amchst d,2021-05-18 16:05:18.467366,,,41.34972740813582
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,Was amchst du,2021-05-18 16:05:18.843269,,,41.15370427313183
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Was amchst du,2021-05-18 16:05:19.116157,0.648756,,40.54175776528601
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,65,a,Was amchst du a,2021-05-18 16:05:19.323539,,,40.735328721440354
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,76,l,Was amchst du al,2021-05-18 16:05:19.456891,,,41.086702625734546
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,Was amchst du als,2021-05-18 16:05:19.587964,,,41.4380886798473
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,79,o,Was amchst du also,2021-05-18 16:05:19.713050,,,41.797858904677604
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Was amchst du also,2021-05-18 16:05:19.979981,0.656365,,41.21720870505367
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Was amchst du also h,2021-05-18 16:05:20.348243,,,41.05490266005131
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Was amchst du also hi,2021-05-18 16:05:20.595657,,,41.14778312032212
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Was amchst du also hie,2021-05-18 16:05:20.681220,,,41.57352790547747
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,Was amchst du also hier,2021-05-18 16:05:20.899676,,,41.7184546650023
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,44,",","Was amchst du also hier,",2021-05-18 16:05:21.939663,1.5914139999999999,,39.66951141140722
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"Was amchst du also hier,",2021-05-18 16:05:22.136682,,,39.303822619602585
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,E,"Was amchst du also hier, E",2021-05-18 16:05:22.339388,,,39.49074002402261
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,"Was amchst du also hier, Ei",2021-05-18 16:05:22.472902,,,39.80064483493811
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,"Was amchst du also hier, Ein",2021-05-18 16:05:22.683259,,,39.966134631946794
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,66,b,"Was amchst du also hier, Einb",2021-05-18 16:05:23.052105,,,39.843136494778534
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,"Was amchst du also hier, Einbi",2021-05-18 16:05:23.323621,,,39.895498617487995
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,76,l,"Was amchst du also hier, Einbil",2021-05-18 16:05:23.523764,,,40.071943198372026
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,"Was amchst du also hier, Einbils",2021-05-18 16:05:23.747991,,,40.203117986753156
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,16777219,<BACKSPACE>,"Was amchst du also hier, Einbil",2021-05-18 16:05:24.291903,,,38.76363060164215
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,"Was amchst du also hier, Einbild",2021-05-18 16:05:24.579888,,,38.79876341118728
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,"Was amchst du also hier, Einbildu",2021-05-18 16:05:25.507473,,,37.829224894944076
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,"Was amchst du also hier, Einbildun",2021-05-18 16:05:25.715941,,,37.99410522259035
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,g,"Was amchst du also hier, Einbildung",2021-05-18 16:05:25.888766,,,38.210377182195636
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,63,?,"Was amchst du also hier, Einbildung?",2021-05-18 16:05:26.891844,4.55245,,36.743412939468435
+sentence_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,16777220,<RETURN>,"Was amchst du also hier, Einbildung?",2021-05-18 16:05:27.524422,,11.387144000000001,35.874822877404455
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,G,G,2021-05-18 16:05:28.788389,,,34.68495215474913
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,E,GE,2021-05-18 16:05:28.896596,,,34.97810402680091
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,GEh,2021-05-18 16:05:29.099098,,,35.151622783841944
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,GEh,2021-05-18 16:05:29.323337,0.534946,,34.87562864108479
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,16777219,<BACKSPACE>,GEh,2021-05-18 16:05:29.691665,,,34.43155473611221
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,44,",","GEh,",2021-05-18 16:05:29.981300,0.289383,,34.09022182568951
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh,",2021-05-18 16:05:30.169398,,,33.872154517967275
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,"GEh, u",2021-05-18 16:05:30.411927,,,33.99981630654801
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,77,m,"GEh, um",2021-05-18 16:05:30.611496,,,34.17452588624848
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um",2021-05-18 16:05:30.797340,0.385454,,33.9630606431425
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,"GEh, um d",2021-05-18 16:05:30.842097,,,34.31149692483209
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,"GEh, um de",2021-05-18 16:05:30.976774,,,34.55573358231114
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,"GEh, um der",2021-05-18 16:05:31.121223,,,34.786606405459445
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der",2021-05-18 16:05:31.192670,0.350568,,34.704929552608114
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,G,"GEh, um der G",2021-05-18 16:05:31.524053,,,34.721155473239115
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,214,ö,"GEh, um der Gö",2021-05-18 16:05:31.939425,,,34.64345025155635
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,"GEh, um der Göt",2021-05-18 16:05:32.236245,,,34.698012741224666
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,"GEh, um der Gött",2021-05-18 16:05:32.452567,,,34.839834275997
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,"GEh, um der Götte",2021-05-18 16:05:32.609862,,,35.04457742472913
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,"GEh, um der Götter",2021-05-18 16:05:32.788999,,,35.223253442643674
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter",2021-05-18 16:05:32.939443,1.415405,,35.05856707679803
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,87,w,"GEh, um der Götter w",2021-05-18 16:05:33.072779,,,35.28530833664314
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,"GEh, um der Götter wi",2021-05-18 16:05:33.251809,,,35.46022118867033
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,76,l,"GEh, um der Götter wil",2021-05-18 16:05:33.475325,,,35.584770121926454
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,76,l,"GEh, um der Götter will",2021-05-18 16:05:33.618964,,,35.794441652822954
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,"GEh, um der Götter wille",2021-05-18 16:05:33.803621,,,35.957592922456094
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,"GEh, um der Götter willen",2021-05-18 16:05:33.993428,,,36.113341360727226
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,44,",","GEh, um der Götter willen,",2021-05-18 16:05:35.051906,1.9790709999999998,,34.99848850277779
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen,",2021-05-18 16:05:35.243751,,,34.80375222733138
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,87,w,"GEh, um der Götter willen, w",2021-05-18 16:05:35.451240,,,34.94151764388078
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,"GEh, um der Götter willen, wi",2021-05-18 16:05:35.600747,,,35.13602982842249
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,"GEh, um der Götter willen, wie",2021-05-18 16:05:35.744959,,,35.33422633252915
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen, wie",2021-05-18 16:05:35.898240,0.447024,,35.180071730344636
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,"GEh, um der Götter willen, wie d",2021-05-18 16:05:36.000928,,,35.418108069672535
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,"GEh, um der Götter willen, wie du",2021-05-18 16:05:36.161100,,,35.59685141893994
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen, wie du",2021-05-18 16:05:36.403261,0.40228600000000003,,35.35497375734983
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,g,"GEh, um der Götter willen, wie du g",2021-05-18 16:05:36.643327,,,35.452871552992136
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,"GEh, um der Götter willen, wie du ge",2021-05-18 16:05:36.736518,,,35.694621504408204
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,75,k,"GEh, um der Götter willen, wie du gek",2021-05-18 16:05:37.027731,,,35.7388788454489
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,79,o,"GEh, um der Götter willen, wie du geko",2021-05-18 16:05:37.187629,,,35.91144468364969
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,77,m,"GEh, um der Götter willen, wie du gekom",2021-05-18 16:05:37.394616,,,36.03612162551409
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,77,m,"GEh, um der Götter willen, wie du gekomm",2021-05-18 16:05:37.552962,,,36.20719912198086
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,"GEh, um der Götter willen, wie du gekomme",2021-05-18 16:05:37.664462,,,36.423011983089644
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,"GEh, um der Götter willen, wie du gekommen",2021-05-18 16:05:37.859707,,,36.554785838287785
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen, wie du gekommen",2021-05-18 16:05:38.275838,1.632487,,36.149271860092526
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,66,b,"GEh, um der Götter willen, wie du gekommen b",2021-05-18 16:05:38.883961,,,35.88737973596018
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,"GEh, um der Götter willen, wie du gekommen bi",2021-05-18 16:05:39.122657,,,35.97689938932341
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,"GEh, um der Götter willen, wie du gekommen bis",2021-05-18 16:05:39.265912,,,36.15471537745757
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,"GEh, um der Götter willen, wie du gekommen bist",2021-05-18 16:05:39.417689,,,36.323196350212115
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,44,",","GEh, um der Götter willen, wie du gekommen bist,",2021-05-18 16:05:39.923960,1.039976,,35.853597808946795
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen, wie du gekommen bist,",2021-05-18 16:05:40.507831,,,35.326870042585234
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,"GEh, um der Götter willen, wie du gekommen bist, d",2021-05-18 16:05:40.947206,,,35.23922456185897
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,"GEh, um der Götter willen, wie du gekommen bist, de",2021-05-18 16:05:41.096698,,,35.40614229624452
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,"GEh, um der Götter willen, wie du gekommen bist, den",2021-05-18 16:05:41.240724,,,35.576627460234974
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,"GEh, um der Götter willen, wie du gekommen bist, denn",2021-05-18 16:05:41.425438,,,35.710132004765576
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen, wie du gekommen bist, denn",2021-05-18 16:05:41.643570,0.696365,,35.51958325254585
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,"GEh, um der Götter willen, wie du gekommen bist, denn i",2021-05-18 16:05:41.851684,,,35.631730874120834
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,"GEh, um der Götter willen, wie du gekommen bist, denn ic",2021-05-18 16:05:41.986066,,,35.806683210680475
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,"GEh, um der Götter willen, wie du gekommen bist, denn ich",2021-05-18 16:05:42.107994,,,35.99132841187393
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen, wie du gekommen bist, denn ich",2021-05-18 16:05:42.322822,0.47113299999999997,,35.80528565904465
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,66,b,"GEh, um der Götter willen, wie du gekommen bist, denn ich b",2021-05-18 16:05:42.530400,,,35.91464754717682
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,"GEh, um der Götter willen, wie du gekommen bist, denn ich br",2021-05-18 16:05:42.621947,,,36.12278737475133
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,65,a,"GEh, um der Götter willen, wie du gekommen bist, denn ich bra",2021-05-18 16:05:43.219672,,,35.89685307787839
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,"GEh, um der Götter willen, wie du gekommen bist, denn ich brau",2021-05-18 16:05:43.668250,,,35.80122238332514
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauc",2021-05-18 16:05:43.840537,,,35.93662951466097
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauch",2021-05-18 16:05:43.971702,,,36.10523732389092
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche",2021-05-18 16:05:44.112559,,,36.26477688730422
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche",2021-05-18 16:05:44.508837,1.9784169999999999,,35.93625347549521
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche d",2021-05-18 16:05:44.804585,,,35.967399639431356
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche di",2021-05-18 16:05:45.003926,,,36.07658217513038
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dic",2021-05-18 16:05:45.212238,,,36.17748430818492
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich",2021-05-18 16:05:45.916173,,,35.87922971546154
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich",2021-05-18 16:05:46.136871,1.332417,,35.70471722789634
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich n",2021-05-18 16:05:46.436048,,,35.73356945515503
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich ni",2021-05-18 16:05:46.652331,,,35.826648706851934
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nic",2021-05-18 16:05:46.824773,,,35.95305703134002
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nich",2021-05-18 16:05:46.961714,,,36.106237538694074
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht",2021-05-18 16:05:47.144702,,,36.22251673140686
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,46,.,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht.",2021-05-18 16:05:47.626400,1.190389,,35.850183364085176
+sentence_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,16777220,<RETURN>,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht.",2021-05-18 16:05:48.507588,,19.71919,35.18849523877667
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,D,D,2021-05-18 16:05:49.117759,,,34.99262197524251
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,Du,2021-05-18 16:05:49.331193,,,35.08591963129475
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Du,2021-05-18 16:05:49.571786,0.45434399999999997,,34.91297112150237
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,66,b,Du b,2021-05-18 16:05:49.827598,,,34.97551958213304
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Du bi,2021-05-18 16:05:50.027262,,,35.077349514059954
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,Du bis,2021-05-18 16:05:50.137006,,,35.242437793147715
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Du bist,2021-05-18 16:05:50.307879,,,35.363092061573205
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Du bist,2021-05-18 16:05:50.555842,0.728229,,35.186990132579844
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,g,Du bist g,2021-05-18 16:05:50.796128,,,35.25784397084872
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Du bist ge,2021-05-18 16:05:50.881360,,,35.43731977174775
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,75,k,Du bist gek,2021-05-18 16:05:51.152677,,,35.48466384780572
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,79,o,Du bist geko,2021-05-18 16:05:51.323578,,,35.60205799674142
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,77,m,Du bist gekom,2021-05-18 16:05:51.547939,,,35.681062577317576
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,77,m,Du bist gekomm,2021-05-18 16:05:51.755197,,,35.77137268426203
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Du bist gekomme,2021-05-18 16:05:51.930599,,,35.8832773276027
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Du bist gekommen,2021-05-18 16:05:52.136629,,,35.972961647508704
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Du bist gekommen,2021-05-18 16:05:52.795690,1.999565,,35.51730210573204
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Du bist gekommen n,2021-05-18 16:05:53.035930,,,35.58363474202439
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,65,a,Du bist gekommen na,2021-05-18 16:05:53.128935,,,35.7495988100578
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,Du bist gekommen nac,2021-05-18 16:05:53.459225,,,35.75324137576879
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Du bist gekommen nach,2021-05-18 16:05:53.633569,,,35.86231978782369
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Du bist gekommen nach,2021-05-18 16:05:53.840978,0.805089,,35.72218203372072
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,Du bist gekommen nach d,2021-05-18 16:05:53.912577,,,35.89984485170824
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Du bist gekommen nach de,2021-05-18 16:05:54.089563,,,36.00572378490293
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Du bist gekommen nach dei,2021-05-18 16:05:54.240881,,,36.12824179442919
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Du bist gekommen nach dein,2021-05-18 16:05:54.443705,,,36.215274321015755
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Du bist gekommen nach deine,2021-05-18 16:05:54.512922,,,36.39190960964096
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,Du bist gekommen nach deiner,2021-05-18 16:05:54.673153,,,36.50634026832605
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Du bist gekommen nach deiner,2021-05-18 16:05:54.873574,0.960987,,36.37112295472497
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,65,a,Du bist gekommen nach deiner a,2021-05-18 16:05:55.107593,,,36.435314564288284
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,76,l,Du bist gekommen nach deiner al,2021-05-18 16:05:55.249337,,,36.56077153652901
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Du bist gekommen nach deiner alt,2021-05-18 16:05:55.475937,,,36.62867483486115
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Du bist gekommen nach deiner alte,2021-05-18 16:05:56.844372,,,35.94885633242849
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Du bist gekommen nach deiner alten,2021-05-18 16:05:56.992668,,,36.06746793356671
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Du bist gekommen nach deiner alten,2021-05-18 16:05:57.283251,2.175638,,35.88203155782212
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,G,Du bist gekommen nach deiner alten G,2021-05-18 16:05:58.051728,,,35.610162148778635
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Du bist gekommen nach deiner alten Ge,2021-05-18 16:05:58.259165,,,35.69039397220553
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,87,w,Du bist gekommen nach deiner alten Gew,2021-05-18 16:05:58.587183,,,35.69545838589219
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,79,o,Du bist gekommen nach deiner alten Gewo,2021-05-18 16:05:58.811290,,,35.76437355702123
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Du bist gekommen nach deiner alten Gewoh,2021-05-18 16:05:59.136449,,,35.77073548846533
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Du bist gekommen nach deiner alten Gewohn,2021-05-18 16:05:59.331638,,,35.85641003505493
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Du bist gekommen nach deiner alten Gewohnh,2021-05-18 16:05:59.819531,,,35.763373871986865
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Du bist gekommen nach deiner alten Gewohnhe,2021-05-18 16:05:59.988935,,,35.863697888666614
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Du bist gekommen nach deiner alten Gewohnhei,2021-05-18 16:06:00.056848,,,36.02501350263381
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Du bist gekommen nach deiner alten Gewohnheit,2021-05-18 16:06:00.267696,,,36.099023857522184
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,46,.,Du bist gekommen nach deiner alten Gewohnheit.,2021-05-18 16:06:00.739868,2.688125,,35.81482913000127
+sentence_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,16777220,<RETURN>,Du bist gekommen nach deiner alten Gewohnheit.,2021-05-18 16:06:01.619828,,12.502374,35.29695021861432
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,I,I,2021-05-18 16:06:02.169628,,,35.17633726876749
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,Ic,2021-05-18 16:06:02.372024,,,35.255549656906034
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Ich,2021-05-18 16:06:02.523580,,,35.36333331411882
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Ich,2021-05-18 16:06:04.027097,1.857423,,34.52288378753213
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,90,z,Ich z,2021-05-18 16:06:04.499202,,,34.45544054858082
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,220,ü,Ich zü,2021-05-18 16:06:04.947400,,,34.40179470174345
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,Ich zür,2021-05-18 16:06:05.388125,,,34.352868705935485
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Ich zürn,2021-05-18 16:06:05.555327,,,34.4494263205872
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Ich zürne,2021-05-18 16:06:05.680593,,,34.56781192620937
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Ich zürne,2021-05-18 16:06:05.851119,1.351912,,34.477243935826905
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,Ich zürne d,2021-05-18 16:06:06.931410,,,34.09570122275558
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Ich zürne di,2021-05-18 16:06:07.169679,,,34.154069065792235
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Ich zürne die,2021-05-18 16:06:07.338715,,,34.24759851107665
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,16777219,<BACKSPACE>,Ich zürne di,2021-05-18 16:06:08.275517,,,33.59461441003657
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,Ich zürne dir,2021-05-18 16:06:09.035699,,,33.396319573248945
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Ich zürne dir,2021-05-18 16:06:09.160613,2.229247,,33.33533247856472
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,Ich zürne dir d,2021-05-18 16:06:09.403121,,,33.392381417454445
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Ich zürne dir de,2021-05-18 16:06:09.571469,,,33.485078095805925
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,83,s,Ich zürne dir des,2021-05-18 16:06:09.851468,,,33.52306238327812
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,87,w,Ich zürne dir desw,2021-05-18 16:06:10.315176,,,33.472093468808076
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Ich zürne dir deswe,2021-05-18 16:06:10.427828,,,33.59022438341662
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,g,Ich zürne dir desweg,2021-05-18 16:06:10.803986,,,33.58115377676971
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Ich zürne dir deswege,2021-05-18 16:06:10.928540,,,33.69257447013866
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Ich zürne dir deswegen,2021-05-18 16:06:11.064521,,,33.798099881066534
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Ich zürne dir deswegen,2021-05-18 16:06:11.307385,1.9042150000000002,,33.68173802531285
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Ich zürne dir deswegen n,2021-05-18 16:06:11.547333,,,33.73709439585326
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,73,i,Ich zürne dir deswegen ni,2021-05-18 16:06:11.723317,,,33.82252924309971
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,67,c,Ich zürne dir deswegen nic,2021-05-18 16:06:11.888725,,,33.91259571169323
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Ich zürne dir deswegen nich,2021-05-18 16:06:12.040683,,,34.00865582022508
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Ich zürne dir deswegen nicht,2021-05-18 16:06:12.235390,,,34.083903040082674
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,59,<SEMICOLON>,Ich zürne dir deswegen nicht;,2021-05-18 16:06:13.779592,2.2322580000000003,,33.36306197636616
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Ich zürne dir deswegen nicht;,2021-05-18 16:06:14.011273,,,33.25753364369511
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,78,n,Ich zürne dir deswegen nicht; n,2021-05-18 16:06:14.243236,,,33.31585339783326
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,85,u,Ich zürne dir deswegen nicht; nu,2021-05-18 16:06:14.475785,,,33.373543478848944
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,Ich zürne dir deswegen nicht; nur,2021-05-18 16:06:14.931377,,,33.33033288427272
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Ich zürne dir deswegen nicht; nur,2021-05-18 16:06:15.099910,0.8566389999999999,,33.254770731157926
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,71,g,Ich zürne dir deswegen nicht; nur g,2021-05-18 16:06:15.347809,,,33.30513302088899
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,69,e,Ich zürne dir deswegen nicht; nur ge,2021-05-18 16:06:15.472406,,,33.41021341121839
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,72,h,Ich zürne dir deswegen nicht; nur geh,2021-05-18 16:06:15.584963,,,33.520337074521926
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Ich zürne dir deswegen nicht; nur geh,2021-05-18 16:06:15.844532,0.49648400000000004,,33.404447423910405
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,66,b,Ich zürne dir deswegen nicht; nur geh b,2021-05-18 16:06:16.185392,,,33.41258701741468
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,65,a,Ich zürne dir deswegen nicht; nur geh ba,2021-05-18 16:06:16.483394,,,33.43956293593182
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,76,l,Ich zürne dir deswegen nicht; nur geh bal,2021-05-18 16:06:17.363640,,,33.21194697441122
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,68,d,Ich zürne dir deswegen nicht; nur geh bald,2021-05-18 16:06:17.587938,,,33.27118416713381
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,32, ,Ich zürne dir deswegen nicht; nur geh bald,2021-05-18 16:06:17.787547,1.602125,,33.1849639136238
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,70,f,Ich zürne dir deswegen nicht; nur geh bald f,2021-05-18 16:06:17.946012,,,33.272308619734424
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,79,o,Ich zürne dir deswegen nicht; nur geh bald fo,2021-05-18 16:06:18.203937,,,33.31644396238047
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,82,r,Ich zürne dir deswegen nicht; nur geh bald for,2021-05-18 16:06:18.419510,,,33.37848442982556
+key_pressed,1,normal,marc_aurel_selbstbetrachtungen.txt,2,84,t,Ich zürne dir deswegen nicht; nur geh bald fort,2021-05-18 16:06:18.635186,,,33.440141453339365
+word_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,46,.,Ich zürne dir deswegen nicht; nur geh bald fort.,2021-05-18 16:06:19.136642,1.1906510000000001,,33.22618314591142
+test_finished,1,normal,marc_aurel_selbstbetrachtungen.txt,2,16777220,<RETURN>,Ich zürne dir deswegen nicht; nur geh bald fort.,2021-05-18 16:06:19.779849,,17.610172,32.95571033489811
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,87,W,W,2021-05-18 16:06:44.426965,,,90225.56390977443
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,196,ä,Wä,2021-05-18 16:06:44.851506,,,56.513006232913646
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Wär,2021-05-18 16:06:45.016517,,,61.04964692954192
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre,2021-05-18 16:06:45.153150,,,66.08675538813577
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Wäre,2021-05-18 16:06:45.384858,0.9579139999999999,,50.103285836114246
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre e,2021-05-18 16:06:46.306947,,,31.91295846953961
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Wäre ei,2021-05-18 16:06:46.578890,,,33.456238542980806
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Wäre ein,2021-05-18 16:06:46.811388,,,35.226521209091615
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Wäre ein,2021-05-18 16:06:47.034823,0.727871,,32.208749506803514
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,80,P,Wäre ein P,2021-05-18 16:06:47.434955,,,31.91360985811409
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Wäre ein Pi,2021-05-18 16:06:48.019909,,,30.057735901043248
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Wäre ein Pin,2021-05-18 16:06:48.250788,,,31.381048566356803
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,71,g,Wäre ein Ping,2021-05-18 16:06:48.587300,,,31.727108410568018
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,Wäre ein Pingu,2021-05-18 16:06:48.979410,,,31.630388368451854
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Wäre ein Pingui,2021-05-18 16:06:49.363004,,,31.6033856139768
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Wäre ein Pinguin,2021-05-18 16:06:50.264418,,,28.77902420264544
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Wäre ein Pinguin,2021-05-18 16:06:50.490484,3.055536,,27.706089188209933
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,86,v,Wäre ein Pinguin v,2021-05-18 16:06:50.920227,,,27.720501574755488
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Wäre ein Pinguin vi,2021-05-18 16:06:51.419378,,,27.457786513421713
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre ein Pinguin vie,2021-05-18 16:06:52.258955,,,26.046551059986097
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,76,l,Wäre ein Pinguin viel,2021-05-18 16:06:52.562731,,,26.54897603918039
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,76,l,Wäre ein Pinguin viell,2021-05-18 16:06:52.771123,,,27.32404156130532
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre ein Pinguin vielle,2021-05-18 16:06:53.091608,,,27.698315030709928
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Wäre ein Pinguin viellei,2021-05-18 16:06:53.347094,,,28.25026913426041
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,67,c,Wäre ein Pinguin vielleic,2021-05-18 16:06:53.512465,,,29.05687012822775
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,Wäre ein Pinguin vielleich,2021-05-18 16:06:53.731439,,,29.662706014747734
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,Wäre ein Pinguin vielleicht,2021-05-18 16:06:53.921876,,,30.33159702493373
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Wäre ein Pinguin vielleicht,2021-05-18 16:06:54.331194,3.4108940000000003,,29.078105912760233
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,Wäre ein Pinguin vielleicht d,2021-05-18 16:06:54.795451,,,28.933460563403923
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Wäre ein Pinguin vielleicht di,2021-05-18 16:06:55.043658,,,29.38729468571277
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre ein Pinguin vielleicht die,2021-05-18 16:06:55.168413,,,30.163165970586448
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Wäre ein Pinguin vielleicht die,2021-05-18 16:06:55.320428,0.5250279999999999,,29.742261274749644
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,b,Wäre ein Pinguin vielleicht die b,2021-05-18 16:06:55.531205,,,30.25835229583447
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre ein Pinguin vielleicht die be,2021-05-18 16:06:55.632777,,,31.05494449597959
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Wäre ein Pinguin vielleicht die bes,2021-05-18 16:06:55.851309,,,31.511261731051913
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Wäre ein Pinguin vielleicht die bess,2021-05-18 16:06:56.051782,,,32.0001128606131
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre ein Pinguin vielleicht die besse,2021-05-18 16:06:56.283091,,,32.387934583456996
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Wäre ein Pinguin vielleicht die besser,2021-05-18 16:06:56.465206,,,32.894805154350145
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre ein Pinguin vielleicht die bessere,2021-05-18 16:06:56.683183,,,33.28884485913352
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Wäre ein Pinguin vielleicht die bessere,2021-05-18 16:06:56.939148,1.407891,,32.60786690363848
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,E,Wäre ein Pinguin vielleicht die bessere E,2021-05-18 16:06:57.355569,,,32.48577683740908
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Wäre ein Pinguin vielleicht die bessere En,2021-05-18 16:06:57.544069,,,32.9337724706291
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,Wäre ein Pinguin vielleicht die bessere Ent,2021-05-18 16:06:57.788798,,,33.22861579540213
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Wäre ein Pinguin vielleicht die bessere Ente,2021-05-18 16:06:58.011901,,,33.56622601671068
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,63,?,Wäre ein Pinguin vielleicht die bessere Ente?,2021-05-18 16:06:58.539064,1.1834870000000002,,32.312398536588475
+sentence_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777220,<RETURN>,Wäre ein Pinguin vielleicht die bessere Ente?,2021-05-18 16:06:59.184782,,14.757848000000001,30.898610883832408
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,A,A,2021-05-18 16:06:59.611667,,,30.820226998874467
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,76,l,Al,2021-05-18 16:06:59.907060,,,31.00727721416668
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Als,2021-05-18 16:07:00.024039,,,31.54411521449613
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Als,2021-05-18 16:07:00.210863,0.599195,,31.17074860924292
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Als i,2021-05-18 16:07:00.451564,,,31.451387948502088
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,Als ih,2021-05-18 16:07:00.707974,,,31.693096825850358
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Als ihr,2021-05-18 16:07:00.963286,,,31.929445600811786
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Als ihr,2021-05-18 16:07:01.136152,0.6846399999999999,,31.59914284931147
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,77,M,Als ihr M,2021-05-18 16:07:01.540049,,,31.55455993776973
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,Als ihr Ma,2021-05-18 16:07:01.691282,,,31.973203675041734
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Als ihr Man,2021-05-18 16:07:01.897135,,,32.283353512337285
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Als ihr Mann,2021-05-18 16:07:02.298995,,,32.228876950651376
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Als ihr Mann,2021-05-18 16:07:02.587502,1.047447,,31.7168949952722
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,70,f,Als ihr Mann f,2021-05-18 16:07:02.755610,,,32.080701951947034
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,220,ü,Als ihr Mann fü,2021-05-18 16:07:03.371307,,,31.671491466486124
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Als ihr Mann für,2021-05-18 16:07:03.520350,,,32.052767654358036
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Als ihr Mann für,2021-05-18 16:07:03.723072,0.9674299999999999,,31.71602178890697
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Als ihr Mann für s,2021-05-18 16:07:03.906752,,,32.032989050569924
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Als ihr Mann für si,2021-05-18 16:07:04.067162,,,32.38233311553329
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Als ihr Mann für sie,2021-05-18 16:07:04.184370,,,32.797610349913555
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Als ihr Mann für sie,2021-05-18 16:07:04.371345,0.464591,,32.49014390426237
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,Als ihr Mann für sie d,2021-05-18 16:07:04.512488,,,32.85928013283115
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,Als ihr Mann für sie da,2021-05-18 16:07:04.704172,,,33.140444766467866
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Als ihr Mann für sie das,2021-05-18 16:07:04.800438,,,33.572854050410236
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Als ihr Mann für sie das,2021-05-18 16:07:04.987343,0.47479799999999994,,33.267655653110964
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,B,Als ihr Mann für sie das B,2021-05-18 16:07:05.228103,,,33.45949550195733
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Als ihr Mann für sie das Br,2021-05-18 16:07:05.442949,,,33.688416219050076
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,220,ü,Als ihr Mann für sie das Brü,2021-05-18 16:07:05.859092,,,33.5942016407968
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,Als ihr Mann für sie das Brüt,2021-05-18 16:07:06.128067,,,33.730802300496016
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Als ihr Mann für sie das Brüte,2021-05-18 16:07:06.354820,,,33.929229100552554
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Als ihr Mann für sie das Brüten,2021-05-18 16:07:06.538884,,,34.18949063899886
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Als ihr Mann für sie das Brüten,2021-05-18 16:07:07.411141,2.1830439999999998,,32.89200900823371
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,220,ü,Als ihr Mann für sie das Brüten ü,2021-05-18 16:07:08.475173,,,31.935672241534487
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,b,Als ihr Mann für sie das Brüten üb,2021-05-18 16:07:08.787182,,,32.01923387168612
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Als ihr Mann für sie das Brüten übe,2021-05-18 16:07:08.888295,,,32.377461019192594
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Als ihr Mann für sie das Brüten über,2021-05-18 16:07:08.991989,,,32.72928666641834
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Als ihr Mann für sie das Brüten übern,2021-05-18 16:07:09.144421,,,33.01293257359355
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Als ihr Mann für sie das Brüten überni,2021-05-18 16:07:09.402882,,,33.15174743941789
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,77,m,Als ihr Mann für sie das Brüten übernim,2021-05-18 16:07:09.723323,,,33.206172141903245
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,77,m,Als ihr Mann für sie das Brüten übernimm,2021-05-18 16:07:09.880146,,,33.47305057982238
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,Als ihr Mann für sie das Brüten übernimmt,2021-05-18 16:07:10.115317,,,33.6337284634653
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,44,",","Als ihr Mann für sie das Brüten übernimmt,",2021-05-18 16:07:11.136292,2.661212,,32.348097881300674
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Als ihr Mann für sie das Brüten übernimmt,",2021-05-18 16:07:11.346873,,,32.09505008518004
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,b,"Als ihr Mann für sie das Brüten übernimmt, b",2021-05-18 16:07:11.872236,,,31.91791935391135
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"Als ihr Mann für sie das Brüten übernimmt, be",2021-05-18 16:07:11.976487,,,32.23271205022844
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,"Als ihr Mann für sie das Brüten übernimmt, bes",2021-05-18 16:07:12.170020,,,32.440389972415936
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,67,c,"Als ihr Mann für sie das Brüten übernimmt, besc",2021-05-18 16:07:12.371326,,,32.636115683865114
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,"Als ihr Mann für sie das Brüten übernimmt, besch",2021-05-18 16:07:12.405434,,,33.02522891594686
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,76,l,"Als ihr Mann für sie das Brüten übernimmt, beschl",2021-05-18 16:07:12.707361,,,33.09696817627502
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"Als ihr Mann für sie das Brüten übernimmt, beschli",2021-05-18 16:07:12.963612,,,33.22027809227437
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"Als ihr Mann für sie das Brüten übernimmt, beschlie",2021-05-18 16:07:13.491495,,,33.029790703634674
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,223,ß,"Als ihr Mann für sie das Brüten übernimmt, beschließ",2021-05-18 16:07:13.623852,,,33.291071026500035
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,"Als ihr Mann für sie das Brüten übernimmt, beschließt",2021-05-18 16:07:14.035037,,,33.234021924930076
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Als ihr Mann für sie das Brüten übernimmt, beschließt",2021-05-18 16:07:15.027259,3.154953,,32.15641507735873
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,"Als ihr Mann für sie das Brüten übernimmt, beschließt d",2021-05-18 16:07:15.363730,,,32.194566895315965
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"Als ihr Mann für sie das Brüten übernimmt, beschließt di",2021-05-18 16:07:15.579639,,,32.356626519946914
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"Als ihr Mann für sie das Brüten übernimmt, beschließt die",2021-05-18 16:07:15.712121,,,32.60318604726835
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Als ihr Mann für sie das Brüten übernimmt, beschließt die",2021-05-18 16:07:15.867280,0.503559,,32.44228890526199
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,E,"Als ihr Mann für sie das Brüten übernimmt, beschließt die E",2021-05-18 16:07:16.251395,,,32.42778329517936
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"Als ihr Mann für sie das Brüten übernimmt, beschließt die En",2021-05-18 16:07:16.345346,,,32.708275268834456
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Ent",2021-05-18 16:07:16.587403,,,32.83522769691257
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Ente",2021-05-18 16:07:16.745114,,,33.0463090181397
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Enten",2021-05-18 16:07:16.864407,,,33.29472378512177
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,77,m,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenm",2021-05-18 16:07:17.354828,,,33.163250198956725
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmu",2021-05-18 16:07:17.652214,,,33.227593939660075
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmut",2021-05-18 16:07:17.896402,,,33.343721874637815
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutt",2021-05-18 16:07:18.115305,,,33.483254009486096
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutte",2021-05-18 16:07:18.322738,,,33.63237232664681
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter",2021-05-18 16:07:18.473123,,,33.83628483936767
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,44,",","Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter,",2021-05-18 16:07:18.659042,2.407643,,33.652519102843705
+sentence_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777220,<RETURN>,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter,",2021-05-18 16:07:19.699037,,20.087362,32.66028018324457
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,i,2021-05-18 16:07:20.169809,,,32.565841683063134
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,in,2021-05-18 16:07:20.403087,,,32.688220007731196
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,in,2021-05-18 16:07:20.703989,0.5342140000000001,,32.41709912666516
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,in d,2021-05-18 16:07:21.003076,,,32.480100060580305
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,in di,2021-05-18 16:07:21.144148,,,32.682130089421314
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,in die,2021-05-18 16:07:21.288503,,,32.87968055274324
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,in die,2021-05-18 16:07:21.424164,0.42116800000000004,,32.759124267521386
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,87,W,in die W,2021-05-18 16:07:22.152652,,,32.44462710745944
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,in die We,2021-05-18 16:07:22.370722,,,32.57440847470148
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,76,l,in die Wel,2021-05-18 16:07:22.479947,,,32.796266439391346
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,in die Welt,2021-05-18 16:07:22.648269,,,32.96579437779366
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,in die Welt,2021-05-18 16:07:23.066930,0.914225,,32.608615480888446
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,in die Welt a,2021-05-18 16:07:23.827417,,,32.28378298018757
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,in die Welt au,2021-05-18 16:07:24.034514,,,32.41794875782701
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,in die Welt aus,2021-05-18 16:07:24.144133,,,32.63061852797741
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,90,z,in die Welt ausz,2021-05-18 16:07:24.610946,,,32.550168320205266
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,in die Welt auszu,2021-05-18 16:07:24.752356,,,32.733611415281594
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,90,z,in die Welt auszuz,2021-05-18 16:07:25.300275,,,32.588392528362355
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,in die Welt auszuzi,2021-05-18 16:07:25.464376,,,32.75049953040559
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,in die Welt auszuzie,2021-05-18 16:07:25.624608,,,32.91439889654235
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,in die Welt auszuzieh,2021-05-18 16:07:25.845111,,,33.02888731111032
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,in die Welt auszuziehe,2021-05-18 16:07:25.976079,,,33.21360070955804
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,in die Welt auszuziehen,2021-05-18 16:07:26.144939,,,33.366806408545806
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,in die Welt auszuziehen,2021-05-18 16:07:26.906649,3.0792509999999997,,32.76850428844852
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,in die Welt auszuziehen u,2021-05-18 16:07:27.177916,,,32.84127405243217
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,in die Welt auszuziehen un,2021-05-18 16:07:27.402719,,,32.9487029880355
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,in die Welt auszuziehen und,2021-05-18 16:07:27.497160,,,33.1550752723528
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,in die Welt auszuziehen und,2021-05-18 16:07:27.648169,0.470289,,33.03924166518611
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,in die Welt auszuziehen und e,2021-05-18 16:07:27.819108,,,33.18563039158468
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,in die Welt auszuziehen und et,2021-05-18 16:07:28.122734,,,33.2296607585764
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,87,w,in die Welt auszuziehen und etw,2021-05-18 16:07:28.265072,,,33.395498993880764
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,in die Welt auszuziehen und etwa,2021-05-18 16:07:28.539049,,,33.460113764840195
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,in die Welt auszuziehen und etwas,2021-05-18 16:07:28.728446,,,33.58794257870345
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,in die Welt auszuziehen und etwas,2021-05-18 16:07:29.403254,1.5841040000000002,,33.08400047731675
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,90,z,in die Welt auszuziehen und etwas z,2021-05-18 16:07:29.810959,,,33.051204578693536
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,in die Welt auszuziehen und etwas zu,2021-05-18 16:07:29.928085,,,33.2298563226285
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,in die Welt auszuziehen und etwas zu,2021-05-18 16:07:30.187246,0.376241,,33.041656941194404
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,87,w,in die Welt auszuziehen und etwas zu w,2021-05-18 16:07:30.279988,,,33.23653882012468
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,in die Welt auszuziehen und etwas zu we,2021-05-18 16:07:30.424500,,,33.392997953570124
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,in die Welt auszuziehen und etwas zu wer,2021-05-18 16:07:30.658833,,,33.483295091069905
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,in die Welt auszuziehen und etwas zu werd,2021-05-18 16:07:30.874173,,,33.586245657336114
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,in die Welt auszuziehen und etwas zu werde,2021-05-18 16:07:31.008252,,,33.747362521252576
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,in die Welt auszuziehen und etwas zu werden,2021-05-18 16:07:31.160766,,,33.89400160264705
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,44,",","in die Welt auszuziehen und etwas zu werden,",2021-05-18 16:07:32.210879,1.930843,,33.149140052919336
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"in die Welt auszuziehen und etwas zu werden,",2021-05-18 16:07:32.336221,,,33.062417021734554
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,87,w,"in die Welt auszuziehen und etwas zu werden, w",2021-05-18 16:07:32.706673,,,33.05727676515243
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,79,o,"in die Welt auszuziehen und etwas zu werden, wo",2021-05-18 16:07:32.954964,,,33.13541380320779
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,77,m,"in die Welt auszuziehen und etwas zu werden, wom",2021-05-18 16:07:33.152669,,,33.247247589666905
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"in die Welt auszuziehen und etwas zu werden, womi",2021-05-18 16:07:33.362762,,,33.3497241505767
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,"in die Welt auszuziehen und etwas zu werden, womit",2021-05-18 16:07:33.579029,,,33.44712748683919
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"in die Welt auszuziehen und etwas zu werden, womit",2021-05-18 16:07:33.736268,1.0296319999999999,,33.340478687342355
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,"in die Welt auszuziehen und etwas zu werden, womit s",2021-05-18 16:07:34.227066,,,33.2528564675591
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"in die Welt auszuziehen und etwas zu werden, womit si",2021-05-18 16:07:34.343936,,,33.415402068321235
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"in die Welt auszuziehen und etwas zu werden, womit sie",2021-05-18 16:07:34.498655,,,33.551799484860055
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"in die Welt auszuziehen und etwas zu werden, womit sie",2021-05-18 16:07:34.656689,0.42966499999999996,,33.44624693391983
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"in die Welt auszuziehen und etwas zu werden, womit sie i",2021-05-18 16:07:34.995938,,,33.45916510602996
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,"in die Welt auszuziehen und etwas zu werden, womit sie ih",2021-05-18 16:07:35.218747,,,33.54864184899323
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,"in die Welt auszuziehen und etwas zu werden, womit sie ihr",2021-05-18 16:07:35.418089,,,33.652824674156925
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"in die Welt auszuziehen und etwas zu werden, womit sie ihre",2021-05-18 16:07:35.602745,,,33.765879855879874
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"in die Welt auszuziehen und etwas zu werden, womit sie ihre",2021-05-18 16:07:35.778224,0.782303,,33.65050164465853
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,75,K,"in die Welt auszuziehen und etwas zu werden, womit sie ihre K",2021-05-18 16:07:36.115026,,,33.663394533126635
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Ki",2021-05-18 16:07:36.298821,,,33.77544855704228
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kin",2021-05-18 16:07:36.530600,,,33.855511738726946
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kind",2021-05-18 16:07:36.730618,,,33.955471757937865
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinde",2021-05-18 16:07:36.979045,,,34.02330101373453
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder",2021-05-18 16:07:37.315324,,,34.033860476865435
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder",2021-05-18 16:07:37.762723,1.647693,,33.748382819680764
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,b,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder b",2021-05-18 16:07:38.194833,,,33.70034283775373
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder be",2021-05-18 16:07:38.336284,,,33.83451324396743
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder bee",2021-05-18 16:07:38.652158,,,33.85871260839076
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beei",2021-05-18 16:07:38.803145,,,33.98538187210904
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beein",2021-05-18 16:07:38.994468,,,34.08613415829597
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeind",2021-05-18 16:07:39.219116,,,34.16538704638331
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindr",2021-05-18 16:07:39.603247,,,34.14501816935437
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,67,c,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrc",2021-05-18 16:07:39.844284,,,34.21304466522004
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcu",2021-05-18 16:07:40.001596,,,34.33212589093936
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,75,k,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuk",2021-05-18 16:07:40.363330,,,34.324629834789484
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuke",2021-05-18 16:07:40.523113,,,34.44078215016263
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken",2021-05-18 16:07:40.714665,,,34.53676673327667
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken",2021-05-18 16:07:41.346742,3.151898,,34.1532532721812
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,75,k,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken k",2021-05-18 16:07:41.698816,,,34.15282477647055
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken ka",2021-05-18 16:07:41.752177,,,34.33036289635782
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken kan",2021-05-18 16:07:41.954570,,,34.418174492704786
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken kann",2021-05-18 16:07:42.122530,,,34.525971668216435
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,46,.,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken kann.",2021-05-18 16:07:42.739136,1.040268,,34.160885939940115
+sentence_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777220,<RETURN>,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken kann.",2021-05-18 16:07:43.458686,,23.288856,33.74449498458044
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,D,D,2021-05-18 16:07:44.168211,,,33.544592287827065
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,De,2021-05-18 16:07:44.362823,,,33.63587883135143
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Den,2021-05-18 16:07:44.497071,,,33.760478296082695
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Denn,2021-05-18 16:07:44.683045,,,33.855426045643085
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Denns,2021-05-18 16:07:44.816422,,,33.97936799932081
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Denns,2021-05-18 16:07:44.895818,0.7276060000000001,,33.93475520729397
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,67,c,Denns c,2021-05-18 16:07:45.032364,,,34.05630041062592
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,Denns ch,2021-05-18 16:07:45.159930,,,34.18235148398086
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,76,l,Denns chl,2021-05-18 16:07:45.426490,,,34.22969225145997
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Denns chli,2021-05-18 16:07:45.642860,,,34.30473675231111
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Denns chlie,2021-05-18 16:07:45.800065,,,34.412397718027876
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,223,ß,Denns chließ,2021-05-18 16:07:46.020480,,,34.48407145184029
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,76,l,Denns chließl,2021-05-18 16:07:46.546862,,,34.38503792383141
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Denns chließli,2021-05-18 16:07:46.906804,,,34.379012285215204
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,67,c,Denns chließlic,2021-05-18 16:07:47.072225,,,34.47978457413707
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,Denns chließlich,2021-05-18 16:07:47.275013,,,34.55946837227084
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Denns chließlich,2021-05-18 16:07:47.834783,2.8023569999999998,,34.25438031436721
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Denns chließlich i,2021-05-18 16:07:49.362458,,,33.633309912701996
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Denns chließlich is,2021-05-18 16:07:49.503997,,,33.744556442941445
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,Denns chließlich ist,2021-05-18 16:07:49.706594,,,33.82364910022889
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Denns chließlich ist,2021-05-18 16:07:49.970774,0.608287,,33.687324869392945
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Denns chließlich ist s,2021-05-18 16:07:50.127719,,,33.78950072542405
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Denns chließlich ist si,2021-05-18 16:07:50.378740,,,33.842833758724005
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Denns chließlich ist sie,2021-05-18 16:07:50.682952,,,33.868565334817035
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Denns chließlich ist sie,2021-05-18 16:07:50.970936,0.8431549999999999,,33.72199738636487
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Denns chließlich ist sie n,2021-05-18 16:07:51.994370,,,33.38881510509996
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,Denns chließlich ist sie nu,2021-05-18 16:07:52.202748,,,33.46320983446555
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Denns chließlich ist sie nur,2021-05-18 16:07:52.409476,,,33.53796690549916
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Denns chließlich ist sie nur,2021-05-18 16:07:52.603222,0.6088020000000001,,33.442662481835725
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Denns chließlich ist sie nur e,2021-05-18 16:07:52.762846,,,33.540146677558724
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Denns chließlich ist sie nur ei,2021-05-18 16:07:52.888064,,,33.65408470829526
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Denns chließlich ist sie nur ein,2021-05-18 16:07:53.090975,,,33.72939153837919
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Denns chließlich ist sie nur eine,2021-05-18 16:07:53.168203,,,33.8660702824535
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Denns chließlich ist sie nur eine,2021-05-18 16:07:53.338298,0.575476,,33.78247776015903
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,E,Denns chließlich ist sie nur eine E,2021-05-18 16:07:53.690830,,,33.783785247045444
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Denns chließlich ist sie nur eine En,2021-05-18 16:07:53.785020,,,33.910921976980795
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,Denns chließlich ist sie nur eine Ent,2021-05-18 16:07:53.992543,,,33.98225887463437
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Denns chließlich ist sie nur eine Ente,2021-05-18 16:07:54.187455,,,34.05932495077345
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,44,",","Denns chließlich ist sie nur eine Ente,",2021-05-18 16:07:55.147694,1.456718,,33.59687555844554
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Denns chließlich ist sie nur eine Ente,",2021-05-18 16:07:55.388539,,,33.48284824892525
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,"Denns chließlich ist sie nur eine Ente, u",2021-05-18 16:07:55.783919,,,33.46549447559381
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"Denns chließlich ist sie nur eine Ente, un",2021-05-18 16:07:56.003356,,,33.53054322330118
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,"Denns chließlich ist sie nur eine Ente, und",2021-05-18 16:07:56.175953,,,33.61713751495681
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Denns chließlich ist sie nur eine Ente, und",2021-05-18 16:07:56.320402,0.536452,,33.54959468834805
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,87,w,"Denns chließlich ist sie nur eine Ente, und w",2021-05-18 16:07:56.523091,,,33.62171723253653
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,"Denns chließlich ist sie nur eine Ente, und wa",2021-05-18 16:07:56.762515,,,33.67632215853613
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,"Denns chließlich ist sie nur eine Ente, und was",2021-05-18 16:07:56.939511,,,33.759605817988145
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Denns chließlich ist sie nur eine Ente, und was",2021-05-18 16:07:57.202935,0.67984,,33.63741667937688
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,"Denns chließlich ist sie nur eine Ente, und was h",2021-05-18 16:07:57.907067,,,33.47838911463515
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,"Denns chließlich ist sie nur eine Ente, und was ha",2021-05-18 16:07:58.031798,,,33.5846918366089
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,"Denns chließlich ist sie nur eine Ente, und was hat",2021-05-18 16:07:58.291320,,,33.629146625069424
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Denns chließlich ist sie nur eine Ente, und was hat",2021-05-18 16:07:58.499178,0.5921069999999999,,33.53478142747682
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,"Denns chließlich ist sie nur eine Ente, und was hat d",2021-05-18 16:07:58.656141,,,33.62553419603665
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"Denns chließlich ist sie nur eine Ente, und was hat di",2021-05-18 16:07:58.851480,,,33.69850980567515
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"Denns chließlich ist sie nur eine Ente, und was hat die",2021-05-18 16:07:58.951875,,,33.814137720501215
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Denns chließlich ist sie nur eine Ente, und was hat die",2021-05-18 16:07:59.227934,0.5716939999999999,,33.68934278950405
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,"Denns chließlich ist sie nur eine Ente, und was hat die s",2021-05-18 16:07:59.474945,,,33.738357518419086
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,67,c,"Denns chließlich ist sie nur eine Ente, und was hat die sc",2021-05-18 16:07:59.696229,,,33.7985972413011
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,"Denns chließlich ist sie nur eine Ente, und was hat die sch",2021-05-18 16:07:59.784093,,,33.91843158624482
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,79,o,"Denns chließlich ist sie nur eine Ente, und was hat die scho",2021-05-18 16:08:00.266963,,,33.860697880059234
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"Denns chließlich ist sie nur eine Ente, und was hat die schon",2021-05-18 16:08:00.619045,,,33.861719212245696
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Denns chließlich ist sie nur eine Ente, und was hat die schon",2021-05-18 16:08:01.791782,2.316871,,33.348437073147274
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,"Denns chließlich ist sie nur eine Ente, und was hat die schon u",2021-05-18 16:08:02.522467,,,33.19007394497501
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777219,<BACKSPACE>,"Denns chließlich ist sie nur eine Ente, und was hat die schon",2021-05-18 16:08:02.978925,,,32.84444211506342
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,90,z,"Denns chließlich ist sie nur eine Ente, und was hat die schon z",2021-05-18 16:08:03.147124,,,32.92670294887843
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu",2021-05-18 16:08:03.346613,,,32.99552663527776
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu",2021-05-18 16:08:03.602870,1.080378,,32.888739213971256
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,b,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu b",2021-05-18 16:08:03.818699,,,32.95047800109704
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bi",2021-05-18 16:08:04.003463,,,33.02476789733187
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bie",2021-05-18 16:08:04.111953,,,33.13040209088979
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu biet",2021-05-18 16:08:04.650952,,,33.0573868382513
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu biete",2021-05-18 16:08:04.861021,,,33.120241545026445
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bieten",2021-05-18 16:08:05.426882,,,33.037013380904
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,33,!,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bieten!",2021-05-18 16:08:07.003031,3.1843529999999998,,32.40643344723703
+sentence_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777220,<RETURN>,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bieten!",2021-05-18 16:08:07.578803,,23.410542,32.18204047798364
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,S,S,2021-05-18 16:08:09.658507,,,31.537570979333683
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777219,<BACKSPACE>,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bieten!",2021-05-18 16:08:10.034644,,,31.25882695364544
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,D,D,2021-05-18 16:08:10.562391,,,31.20661962059786
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,Da,2021-05-18 16:08:10.770283,,,31.27046369546071
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Da,2021-05-18 16:08:10.919945,1.2614889999999999,,31.216360397366696
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,87,w,Da w,2021-05-18 16:08:11.106452,,,31.287631394784608
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,196,ä,Da wä,2021-05-18 16:08:11.522992,,,31.27577323493727
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Da wär,2021-05-18 16:08:11.754768,,,31.330176940151556
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Da wäre,2021-05-18 16:08:12.474791,,,31.210260652582694
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Da wäre,2021-05-18 16:08:12.656244,1.549994,,31.146078087094025
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,83,s,Da wäre s,2021-05-18 16:08:12.978329,,,31.16830459871621
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Da wäre si,2021-05-18 16:08:13.202578,,,31.22474183660552
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,67,c,Da wäre sic,2021-05-18 16:08:13.418308,,,31.283892639478765
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777219,<BACKSPACE>,Da wäre si,2021-05-18 16:08:14.135806,,,30.89991969699441
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Da wäre sie,2021-05-18 16:08:14.411161,,,30.938717701503982
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Da wäre sie,2021-05-18 16:08:14.635043,1.6566419999999997,,30.86193561692516
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,Da wäre sie d,2021-05-18 16:08:14.946505,,,30.888313767733425
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,79,o,Da wäre sie do,2021-05-18 16:08:15.203103,,,30.93319193956368
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,67,c,Da wäre sie doc,2021-05-18 16:08:15.303923,,,31.030923878194688
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,72,h,Da wäre sie doch,2021-05-18 16:08:15.496728,,,31.096992871376738
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Da wäre sie doch,2021-05-18 16:08:15.738961,0.792381,,31.014499387978358
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,76,l,Da wäre sie doch l,2021-05-18 16:08:16.082935,,,31.029029992372354
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Da wäre sie doch li,2021-05-18 16:08:16.314797,,,31.08132484147137
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Da wäre sie doch lie,2021-05-18 16:08:16.391857,,,31.18576973754217
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,b,Da wäre sie doch lieb,2021-05-18 16:08:16.602615,,,31.244646777640853
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Da wäre sie doch liebe,2021-05-18 16:08:16.663556,,,31.354106787902843
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Da wäre sie doch lieber,2021-05-18 16:08:16.888717,,,31.40753653689341
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Da wäre sie doch lieber,2021-05-18 16:08:17.746843,1.663859,,31.11872691230765
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Da wäre sie doch lieber e,2021-05-18 16:08:17.937881,,,31.18348145540494
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Da wäre sie doch lieber ei,2021-05-18 16:08:18.152842,,,31.239994439537053
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Da wäre sie doch lieber ein,2021-05-18 16:08:18.354278,,,31.300752599979983
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Da wäre sie doch lieber ein,2021-05-18 16:08:18.546976,0.609047,,31.23667162299148
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,R,Da wäre sie doch lieber ein R,2021-05-18 16:08:18.851516,,,31.2630120240912
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,Da wäre sie doch lieber ein Ra,2021-05-18 16:08:18.936510,,,31.36186850711316
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,b,Da wäre sie doch lieber ein Rab,2021-05-18 16:08:19.087746,,,31.438531158864514
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Da wäre sie doch lieber ein Rabe,2021-05-18 16:08:19.215936,,,31.522611444537283
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,33,!,Da wäre sie doch lieber ein Rabe!,2021-05-18 16:08:20.595755,1.744247,,31.07032787431416
+sentence_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777220,<RETURN>,Da wäre sie doch lieber ein Rabe!,2021-05-18 16:08:21.203233,,11.54472,30.875296681325132
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,79,O,O,2021-05-18 16:08:21.699035,,,30.8412883553442
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,Od,2021-05-18 16:08:22.050936,,,30.853033837101982
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Ode,2021-05-18 16:08:22.250321,,,30.912818420302433
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Oder,2021-05-18 16:08:22.351468,,,31.003435060103826
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Oder,2021-05-18 16:08:22.495939,0.797005,,30.957763138870824
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Oder i,2021-05-18 16:08:22.754797,,,30.99830278190241
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Oder ie,2021-05-18 16:08:22.919779,,,31.06821508890814
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Oder ien,2021-05-18 16:08:23.039578,,,31.15216052756996
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Oder ien,2021-05-18 16:08:23.250838,0.496007,,31.085564057324657
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,75,K,Oder ien K,2021-05-18 16:08:23.498867,,,31.128813442406784
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,65,a,Oder ien Ka,2021-05-18 16:08:23.608564,,,31.215425840718325
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,84,t,Oder ien Kat,2021-05-18 16:08:23.859385,,,31.257365230395088
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,90,z,Oder ien Katz,2021-05-18 16:08:24.051419,,,31.31756802943659
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Oder ien Katze,2021-05-18 16:08:24.314888,,,31.35509795599901
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,33,!,Oder ien Katze!,2021-05-18 16:08:25.394664,1.895734,,31.01978002221975
+sentence_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777220,<RETURN>,Oder ien Katze!,2021-05-18 16:08:25.739895,,4.040901,30.914079281446252
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,79,O,O,2021-05-18 16:08:26.514538,,,30.797048780722896
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,68,d,Od,2021-05-18 16:08:26.762075,,,30.83981295946594
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Ode,2021-05-18 16:08:26.927764,,,30.90703664835041
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,82,r,Oder,2021-05-18 16:08:27.047626,,,30.987872321234864
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Oder,2021-05-18 16:08:27.191763,0.6772630000000001,,30.944410264494422
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Oder e,2021-05-18 16:08:27.370466,,,31.007260060464354
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,66,b,Oder eb,2021-05-18 16:08:27.495720,,,31.08600591647027
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Oder ebe,2021-05-18 16:08:27.655958,,,31.153998749422694
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Oder eben,2021-05-18 16:08:27.816815,,,31.221592992992434
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Oder eben,2021-05-18 16:08:28.160490,0.7900520000000001,,31.118156033702963
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,69,e,Oder eben e,2021-05-18 16:08:28.410394,,,31.158771636593322
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Oder eben ei,2021-05-18 16:08:28.682485,,,31.19255108067993
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Oder eben ein,2021-05-18 16:08:28.897945,,,31.243084213129908
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,32, ,Oder eben ein,2021-05-18 16:08:29.106665,0.696246,,31.18079194435069
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,80,P,Oder eben ein P,2021-05-18 16:08:29.410402,,,31.204883118423986
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Oder eben ein Pi,2021-05-18 16:08:29.698847,,,31.233368682388612
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Oder eben ein Pin,2021-05-18 16:08:29.946913,,,31.273663738895763
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,71,g,Oder eben ein Ping,2021-05-18 16:08:30.347048,,,31.26881604782105
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,85,u,Oder eben ein Pingu,2021-05-18 16:08:31.059026,,,31.172566206113572
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,73,i,Oder eben ein Pingui,2021-05-18 16:08:31.666100,,,31.10800358484307
+key_pressed,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,78,n,Oder eben ein Pinguin,2021-05-18 16:08:32.114232,,,31.08998477927949
+word_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,33,!,Oder eben ein Pinguin!,2021-05-18 16:08:32.842675,3.432211,,30.881095487123588
+test_finished,1,normal,paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt,2,16777220,<RETURN>,Oder eben ein Pinguin!,2021-05-18 16:08:33.739438,,7.2248660000000005,30.62775816775895

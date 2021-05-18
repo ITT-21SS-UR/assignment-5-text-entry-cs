@@ -1,0 +1,234 @@
+log_type;participant_id;keyboard_type;txt_file;key_limit;key_code;key_value;content;timestamp;word_time_in_s;sentence_time_in_s;words_per_minute
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;87;W;"W";2021-05-18 16:10:51.594541;NaN;NaN;82758.62068965517
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;196;ä;"Wä";2021-05-18 16:10:51.994412;NaN;NaN;59.99625023436035
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Wäre";2021-05-18 16:10:53.770152;2.175529;NaN;22.061297314588586
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Wäre e";2021-05-18 16:10:53.970387;NaN;NaN;25.252620906392323
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Wäre ei";2021-05-18 16:10:54.089741;NaN;NaN;28.853737200161586
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Wäre ein";2021-05-18 16:10:55.785533;1.815139;NaN;20.042294012340804
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;80;P;"Wäre ein P";2021-05-18 16:10:56.066090;NaN;NaN;21.468359774823742
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Wäre ein Pi";2021-05-18 16:10:56.314752;NaN;NaN;22.879596336129232
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Wäre ein Pinguin";2021-05-18 16:10:56.986640;0.920573;NaN;31.155865935567075
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;86;v;"Wäre ein Pinguin v";2021-05-18 16:10:57.993753;NaN;NaN;28.12782157210145
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Wäre ein Pinguin vi";2021-05-18 16:10:58.225909;NaN;NaN;28.95264267507942
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Wäre ein Pinguin vielleicht";2021-05-18 16:10:58.946588;0.952822;NaN;39.17199115583489
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"Wäre ein Pinguin vielleicht d";2021-05-18 16:10:59.561566;NaN;NaN;37.654524755967294
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Wäre ein Pinguin vielleicht di";2021-05-18 16:10:59.746157;NaN;NaN;38.273896343984184
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Wäre ein Pinguin vielleicht die";2021-05-18 16:10:59.856074;NaN;NaN;39.21721945798655
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Wäre ein Pinguin vielleicht die";2021-05-18 16:11:00.097958;0.536374;NaN;38.10168469421223
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;66;B;"Wäre ein Pinguin vielleicht die B";2021-05-18 16:11:00.569861;NaN;NaN;37.43538635602724
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777219;<BACKSPACE>;"Wäre ein Pinguin vielleicht die";2021-05-18 16:11:01.497856;NaN;NaN;32.71581227909254
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;66;b;"Wäre ein Pinguin vielleicht die b";2021-05-18 16:11:02.009611;NaN;NaN;32.26046794576861
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Wäre ein Pinguin vielleicht die be";2021-05-18 16:11:02.126474;NaN;NaN;33.0419156639284
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Wäre ein Pinguin vielleicht die bes";2021-05-18 16:11:03.014818;NaN;NaN;31.522480651107347
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Wäre ein Pinguin vielleicht die bessere";2021-05-18 16:11:04.465839;3.895964;NaN;31.69808013740807
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;E;"Wäre ein Pinguin vielleicht die bessere E";2021-05-18 16:11:04.953803;NaN;NaN;31.438521185858026
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;78;n;"Wäre ein Pinguin vielleicht die bessere En";2021-05-18 16:11:05.103778;NaN;NaN;31.9777718954469
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;84;t;"Wäre ein Pinguin vielleicht die bessere Ent";2021-05-18 16:11:05.398828;NaN;NaN;32.16358806557026
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;63;?;"Wäre ein Pinguin vielleicht die bessere Ente?";2021-05-18 16:11:06.754425;1.800621;NaN;30.079102101863015
+sentence_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777220;<RETURN>;"Wäre ein Pinguin vielleicht die bessere Ente?";2021-05-18 16:11:07.194189;NaN;15.59965;29.23116085337297
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;A;"A";2021-05-18 16:11:07.672541;NaN;NaN;29.10783913291479
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;76;l;"Al";2021-05-18 16:11:07.930531;NaN;NaN;29.3826934833532
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Als";2021-05-18 16:11:08.080630;NaN;NaN;29.843063698624356
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als";2021-05-18 16:11:08.688170;1.015644;NaN;28.78241268223303
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Als i";2021-05-18 16:11:09.393757;NaN;NaN;28.315623240632064
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;72;h;"Als ih";2021-05-18 16:11:09.696257;NaN;NaN;28.50533281743837
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;82;r;"Als ihr";2021-05-18 16:11:09.926913;NaN;NaN;28.801284013607305
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr";2021-05-18 16:11:10.512516;1.118786;NaN;27.90975739390526
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;77;M;"Als ihr M";2021-05-18 16:11:11.282166;NaN;NaN;27.428185518354866
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"Als ihr Ma";2021-05-18 16:11:11.537975;NaN;NaN;27.678071536382674
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann";2021-05-18 16:11:12.529550;1.247375;NaN;27.513531904925653
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;70;f;"Als ihr Mann f";2021-05-18 16:11:13.433565;NaN;NaN;26.924092740495343
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;220;ü;"Als ihr Mann fü";2021-05-18 16:11:14.001728;NaN;NaN;26.776937666234577
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;82;r;"Als ihr Mann für";2021-05-18 16:11:14.118914;NaN;NaN;27.170393931199502
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann für";2021-05-18 16:11:14.329777;0.896185;NaN;26.918397669183445
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Als ihr Mann für s";2021-05-18 16:11:14.658099;NaN;NaN;27.055499283874752
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Als ihr Mann für si";2021-05-18 16:11:14.898011;NaN;NaN;27.29189362529594
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann für sie";2021-05-18 16:11:15.586215;0.928074;NaN;27.009204511820922
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"Als ihr Mann für sie d";2021-05-18 16:11:16.273455;NaN;NaN;26.743321129059257
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"Als ihr Mann für sie da";2021-05-18 16:11:16.505895;NaN;NaN;26.975485666122083
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777234;;"Als ihr Mann für sie da";2021-05-18 16:11:17.554711;1.281251;NaN;25.885664330344216
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777237;;"Als ihr Mann für sie da";2021-05-18 16:11:17.967851;NaN;NaN;25.48017039863954
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777236;;"Als ihr Mann für sie da";2021-05-18 16:11:19.578747;NaN;NaN;24.01342092943302
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Als ihr Mann für sie das";2021-05-18 16:11:20.058104;NaN;NaN;24.030600651187118
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann für sie das";2021-05-18 16:11:20.353839;0.295707;NaN;23.783492607975752
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;66;B;"Als ihr Mann für sie das B";2021-05-18 16:11:21.425723;NaN;NaN;23.331175646543414
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;82;r;"Als ihr Mann für sie das Br";2021-05-18 16:11:21.673566;NaN;NaN;23.537877265130053
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann für sie das Brüten";2021-05-18 16:11:22.257842;0.832132;NaN;24.6547631991525
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;220;ü;"Als ihr Mann für sie das Brüten ü";2021-05-18 16:11:23.126888;NaN;NaN;24.3558333981078
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;66;b;"Als ihr Mann für sie das Brüten üb";2021-05-18 16:11:23.393898;NaN;NaN;24.528679073083865
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Als ihr Mann für sie das Brüten übe";2021-05-18 16:11:23.503078;NaN;NaN;24.820829339122852
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;82;r;"Als ihr Mann für sie das Brüten über";2021-05-18 16:11:23.646939;NaN;NaN;25.083813945240287
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann für sie das Brüten übernimmt";2021-05-18 16:11:24.586060;1.459107;NaN;26.188434332637307
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777219;<BACKSPACE>;"Als ihr Mann für sie das Brüten übernimmt";2021-05-18 16:11:25.201937;NaN;NaN;25.708516600739003
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;44;,;"Als ihr Mann für sie das Brüten übernimmt,";2021-05-18 16:11:25.681693;0.479742;NaN;25.346685599623815
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann für sie das Brüten übernimmt,";2021-05-18 16:11:25.881703;NaN;NaN;25.198830144310552
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;66;b;"Als ihr Mann für sie das Brüten übernimmt, b";2021-05-18 16:11:26.258062;NaN;NaN;25.27141893391827
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Als ihr Mann für sie das Brüten übernimmt, be";2021-05-18 16:11:26.426443;NaN;NaN;25.493757818947003
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann für sie das Brüten übernimmt, beschließt";2021-05-18 16:11:29.017569;2.759507;NaN;26.29386877483638
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"Als ihr Mann für sie das Brüten übernimmt, beschließt d";2021-05-18 16:11:29.273922;NaN;NaN;26.43345354185188
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Als ihr Mann für sie das Brüten übernimmt, beschließt di";2021-05-18 16:11:29.423990;NaN;NaN;26.64580328466095
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Als ihr Mann für sie das Brüten übernimmt, beschließt die";2021-05-18 16:11:29.550797;NaN;NaN;26.87293771609168
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Als ihr Mann für sie das Brüten übernimmt, beschließt die";2021-05-18 16:11:29.994118;0.720143;NaN;26.56269022759929
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;A;"Als ihr Mann für sie das Brüten übernimmt, beschließt die A";2021-05-18 16:11:30.258827;NaN;NaN;26.691196358906996
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;78;n;"Als ihr Mann für sie das Brüten übernimmt, beschließt die An";2021-05-18 16:11:30.409859;NaN;NaN;26.896491865318335
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777219;<BACKSPACE>;"Als ihr Mann für sie das Brüten übernimmt, beschließt die A";2021-05-18 16:11:31.151189;NaN;NaN;26.08907147755886
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777219;<BACKSPACE>;"Als ihr Mann für sie das Brüten übernimmt, beschließt die";2021-05-18 16:11:31.329583;NaN;NaN;25.669936907573405
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;E;"Als ihr Mann für sie das Brüten übernimmt, beschließt die E";2021-05-18 16:11:31.578356;NaN;NaN;25.810345431707663
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;78;n;"Als ihr Mann für sie das Brüten übernimmt, beschließt die En";2021-05-18 16:11:31.794234;NaN;NaN;25.970248741748907
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;84;t;"Als ihr Mann für sie das Brüten übernimmt, beschließt die Ent";2021-05-18 16:11:31.982668;NaN;NaN;26.146204674124327
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;44;,;"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter,";2021-05-18 16:11:34.377674;4.118841;NaN;26.92640613514424
+sentence_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777220;<RETURN>;"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter,";2021-05-18 16:11:34.729642;NaN;27.057086;26.70669951467065
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"i";2021-05-18 16:11:35.594012;NaN;NaN;26.454776332593443
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;78;n;"in";2021-05-18 16:11:35.810109;NaN;NaN;26.59687610191299
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in";2021-05-18 16:11:35.994006;0.400082;NaN;26.48671973665354
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"in d";2021-05-18 16:11:36.110954;NaN;NaN;26.686701760428267
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"in di";2021-05-18 16:11:36.273685;NaN;NaN;26.858064996830638
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"in die";2021-05-18 16:11:36.398693;NaN;NaN;27.050976829298317
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die";2021-05-18 16:11:36.609869;0.498843;NaN;26.92406307925889
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;E;"in die E";2021-05-18 16:11:37.134756;NaN;NaN;26.877260838217005
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777219;<BACKSPACE>;"in die";2021-05-18 16:11:37.513417;NaN;NaN;26.394285767796056
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;87;W;"in die W";2021-05-18 16:11:37.809951;NaN;NaN;26.48458256500456
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"in die We";2021-05-18 16:11:38.159560;NaN;NaN;26.543446661394917
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;76;l;"in die Wel";2021-05-18 16:11:38.350887;NaN;NaN;26.69148176007224
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt";2021-05-18 16:11:39.185829;2.051026;NaN;26.475353798977935
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"in die Welt a";2021-05-18 16:11:40.097805;NaN;NaN;26.224960806363118
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;85;u;"in die Welt au";2021-05-18 16:11:40.338127;NaN;NaN;26.341844641831848
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"in die Welt aus";2021-05-18 16:11:40.526757;NaN;NaN;26.485539906811365
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen";2021-05-18 16:11:41.058039;0.960231;NaN;28.141882476021475
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;85;u;"in die Welt auszuziehen u";2021-05-18 16:11:41.985882;NaN;NaN;27.861849519579554
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;78;n;"in die Welt auszuziehen un";2021-05-18 16:11:42.194540;NaN;NaN;27.98410510735017
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"in die Welt auszuziehen und";2021-05-18 16:11:42.302903;NaN;NaN;28.160955875923463
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und";2021-05-18 16:11:42.474084;0.488161;NaN;28.066208736727763
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"in die Welt auszuziehen und e";2021-05-18 16:11:42.681769;NaN;NaN;28.187004252498948
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;84;t;"in die Welt auszuziehen und et";2021-05-18 16:11:43.919071;NaN;NaN;27.749812961100552
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;87;w;"in die Welt auszuziehen und etw";2021-05-18 16:11:44.167374;NaN;NaN;27.84700588669346
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und etwas";2021-05-18 16:11:45.415301;2.733572;NaN;27.647251761913093
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;90;z;"in die Welt auszuziehen und etwas z";2021-05-18 16:11:45.862681;NaN;NaN;27.64045589799419
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;85;u;"in die Welt auszuziehen und etwas zu";2021-05-18 16:11:46.000237;NaN;NaN;27.791132143818963
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und etwas zu";2021-05-18 16:11:46.289470;0.42671;NaN;27.644171898262204
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;87;w;"in die Welt auszuziehen und etwas zu w";2021-05-18 16:11:46.439649;NaN;NaN;27.787273687561388
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"in die Welt auszuziehen und etwas zu we";2021-05-18 16:11:46.575549;NaN;NaN;27.93684490622287
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;44;,;"in die Welt auszuziehen und etwas zu werden,";2021-05-18 16:11:49.098607;2.658924;NaN;27.545809254661528
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und etwas zu werden,";2021-05-18 16:11:49.313888;NaN;NaN;27.443067545895886
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;87;w;"in die Welt auszuziehen und etwas zu werden, w";2021-05-18 16:11:49.431444;NaN;NaN;27.594771268047516
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;79;o;"in die Welt auszuziehen und etwas zu werden, wo";2021-05-18 16:11:49.649640;NaN;NaN;27.69775152478017
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und etwas zu werden, womit";2021-05-18 16:11:50.521460;1.089973;NaN;27.898895962284765
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"in die Welt auszuziehen und etwas zu werden, womit s";2021-05-18 16:11:51.577699;NaN;NaN;27.607682757983504
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"in die Welt auszuziehen und etwas zu werden, womit si";2021-05-18 16:11:51.753860;NaN;NaN;27.726307172376778
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und etwas zu werden, womit sie";2021-05-18 16:11:52.481809;0.904117;NaN;27.591901520693163
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"in die Welt auszuziehen und etwas zu werden, womit sie i";2021-05-18 16:11:52.794327;NaN;NaN;27.647089542517794
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;72;h;"in die Welt auszuziehen und etwas zu werden, womit sie ih";2021-05-18 16:11:53.119037;NaN;NaN;27.696219670810926
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"in die Welt auszuziehen und etwas zu werden, womit sie ihre";2021-05-18 16:11:54.769209;NaN;NaN;27.352669507365913
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und etwas zu werden, womit sie ihre";2021-05-18 16:11:55.185692;2.39136;NaN;27.17353059094016
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;75;K;"in die Welt auszuziehen und etwas zu werden, womit sie ihre K";2021-05-18 16:11:56.073481;NaN;NaN;26.98549376172153
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Ki";2021-05-18 16:11:56.273874;NaN;NaN;27.087413774438467
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder";2021-05-18 16:11:56.922415;0.848822;NaN;27.553260797537398
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;66;b;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder b";2021-05-18 16:11:57.737285;NaN;NaN;27.395235185448282
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder be";2021-05-18 16:11:57.890198;NaN;NaN;27.513049730606667
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken";2021-05-18 16:11:58.993699;1.256405;NaN;28.84302824318524
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;75;k;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken k";2021-05-18 16:11:59.529773;NaN;NaN;28.792066814081267
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken ka";2021-05-18 16:11:59.665343;NaN;NaN;28.9110061350389
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;46;.;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken kann.";2021-05-18 16:12:01.142796;1.613091;NaN;28.641926656135297
+sentence_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777220;<RETURN>;"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken kann.";2021-05-18 16:12:01.881949;NaN;26.288016;28.340721602006525
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;D;"D";2021-05-18 16:12:03.097596;NaN;NaN;28.02671768536233
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"De";2021-05-18 16:12:03.354070;NaN;NaN;28.093769589255295
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn";2021-05-18 16:12:04.010232;0.912628;NaN;28.170601938651114
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Denn s";2021-05-18 16:12:04.641739;NaN;NaN;28.09137082508258
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;67;c;"Denn sc";2021-05-18 16:12:04.865688;NaN;NaN;28.169282813744502
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;72;h;"Denn sch";2021-05-18 16:12:04.990847;NaN;NaN;28.284746741838333
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich";2021-05-18 16:12:05.689385;1.047642;NaN;29.31372322627648
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Denn schließlich i";2021-05-18 16:12:06.897706;NaN;NaN;29.00270917706008
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Denn schließlich is";2021-05-18 16:12:07.016783;NaN;NaN;29.116020513535805
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist";2021-05-18 16:12:07.561673;0.663969;NaN;29.065146419097612
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Denn schließlich ist s";2021-05-18 16:12:07.921993;NaN;NaN;29.08515513726968
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Denn schließlich ist si";2021-05-18 16:12:08.098651;NaN;NaN;29.17484442435784
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie";2021-05-18 16:12:09.055262;1.133306;NaN;28.969468852147152
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;78;n;"Denn schließlich ist sie n";2021-05-18 16:12:09.950471;NaN;NaN;28.79164270500495
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;85;u;"Denn schließlich ist sie nu";2021-05-18 16:12:10.217647;NaN;NaN;28.84642534537489
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur";2021-05-18 16:12:10.962089;1.011562;NaN;28.727054328353155
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Denn schließlich ist sie nur e";2021-05-18 16:12:11.275829;NaN;NaN;28.764542926832153
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Denn schließlich ist sie nur ei";2021-05-18 16:12:11.442653;NaN;NaN;28.854728402677253
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Denn schließlich ist sie nur eine";2021-05-18 16:12:12.646480;NaN;NaN;28.722267712854702
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine";2021-05-18 16:12:12.922544;1.646689;NaN;28.62477471054272
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;E;"Denn schließlich ist sie nur eine E";2021-05-18 16:12:14.095123;NaN;NaN;28.363387797219673
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;78;n;"Denn schließlich ist sie nur eine En";2021-05-18 16:12:14.305796;NaN;NaN;28.4362224857785
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;44;,;"Denn schließlich ist sie nur eine Ente,";2021-05-18 16:12:16.377751;2.282587;NaN;28.024369028854416
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine Ente,";2021-05-18 16:12:16.577409;NaN;NaN;27.958527290223174
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;85;u;"Denn schließlich ist sie nur eine Ente, u";2021-05-18 16:12:16.937586;NaN;NaN;27.981142631519365
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;78;n;"Denn schließlich ist sie nur eine Ente, un";2021-05-18 16:12:17.150667;NaN;NaN;28.05171380192241
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine Ente, und";2021-05-18 16:12:17.817746;0.880129;NaN;27.973859935602366
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;87;w;"Denn schließlich ist sie nur eine Ente, und w";2021-05-18 16:12:18.257995;NaN;NaN;27.97022048472484
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"Denn schließlich ist sie nur eine Ente, und wa";2021-05-18 16:12:18.569892;NaN;NaN;28.007885668499426
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine Ente, und was";2021-05-18 16:12:19.514134;1.256166;NaN;27.843577058885227
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;72;h;"Denn schließlich ist sie nur eine Ente, und was h";2021-05-18 16:12:20.057436;NaN;NaN;27.808223637803987
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"Denn schließlich ist sie nur eine Ente, und was ha";2021-05-18 16:12:20.209098;NaN;NaN;27.896045701667365
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;84;t;"Denn schließlich ist sie nur eine Ente, und was hat";2021-05-18 16:12:20.583152;NaN;NaN;27.913639200818125
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine Ente, und was hat";2021-05-18 16:12:21.200724;1.143297;NaN;27.721256781343133
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"Denn schließlich ist sie nur eine Ente, und was hat d";2021-05-18 16:12:22.105236;NaN;NaN;27.576807069995077
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Denn schließlich ist sie nur eine Ente, und was hat di";2021-05-18 16:12:22.305177;NaN;NaN;27.648309838866023
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Denn schließlich ist sie nur eine Ente, und was hat die";2021-05-18 16:12:22.486903;NaN;NaN;27.725057993229935
+sentence_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777220;<RETURN>;"Denn schließlich ist sie nur eine Ente, und was hat die";2021-05-18 16:12:22.858053;0.75279;19.760436;27.612305437066745
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine Ente, und was hat die";2021-05-18 16:12:23.025093;NaN;NaN;27.561859832739977
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;" s";2021-05-18 16:12:23.481147;NaN;NaN;27.555659248415477
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777219;<BACKSPACE>;"Denn schließlich ist sie nur eine Ente, und was hat die";2021-05-18 16:12:24.105252;NaN;NaN;27.240043642441353
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777219;<BACKSPACE>;"Denn schließlich ist sie nur eine Ente, und was hat die";2021-05-18 16:12:24.272997;NaN;NaN;27.190738074997387
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777219;<BACKSPACE>;"Denn schließlich ist sie nur eine Ente, und was hat die";2021-05-18 16:12:24.594126;NaN;NaN;27.096850530912253
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine Ente, und was hat die";2021-05-18 16:12:25.313624;1.832449;NaN;26.888825844788222
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Denn schließlich ist sie nur eine Ente, und was hat die s";2021-05-18 16:12:25.433879;NaN;NaN;26.982245842083337
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;67;c;"Denn schließlich ist sie nur eine Ente, und was hat die sc";2021-05-18 16:12:25.689980;NaN;NaN;27.036334985036596
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine Ente, und was hat die schon";2021-05-18 16:12:27.801472;2.367583;NaN;26.81715455957891
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;90;z;"Denn schließlich ist sie nur eine Ente, und was hat die schon z";2021-05-18 16:12:28.761848;NaN;NaN;26.675599150217508
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;85;u;"Denn schließlich ist sie nur eine Ente, und was hat die schon zu";2021-05-18 16:12:28.892599;NaN;NaN;26.76308145556589
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Denn schließlich ist sie nur eine Ente, und was hat die schon zu";2021-05-18 16:12:29.159396;0.39757;NaN;26.6899001359053
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;66;b;"Denn schließlich ist sie nur eine Ente, und was hat die schon zu b";2021-05-18 16:12:29.361789;NaN;NaN;26.757387301919774
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Denn schließlich ist sie nur eine Ente, und was hat die schon zu bi";2021-05-18 16:12:29.577739;NaN;NaN;26.82088279649792
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Denn schließlich ist sie nur eine Ente, und was hat die schon zu bie";2021-05-18 16:12:29.734670;NaN;NaN;26.900271888384413
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;33;!;"Denn schließlich ist sie nur eine Ente, und was hat die schon zu bieten!";2021-05-18 16:12:31.394448;2.032523;NaN;26.8136127461414
+sentence_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777220;<RETURN>;"Denn schließlich ist sie nur eine Ente, und was hat die schon zu bieten!";2021-05-18 16:12:32.167529;NaN;8.686395;26.607504674533896
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;D;"D";2021-05-18 16:12:32.865430;NaN;NaN;26.542633834047415
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"Da";2021-05-18 16:12:33.118674;NaN;NaN;26.594624259180886
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Da";2021-05-18 16:12:33.303479;0.438084;NaN;26.54630271502114
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;87;w;"Da w";2021-05-18 16:12:33.801289;NaN;NaN;26.534413877545425
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;196;ä;"Da wä";2021-05-18 16:12:34.282846;NaN;NaN;26.526823175702457
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Da wäre";2021-05-18 16:12:35.595467;1.793703;NaN;26.422804819000373
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;83;s;"Da wäre s";2021-05-18 16:12:36.417401;NaN;NaN;26.3300973007758
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Da wäre si";2021-05-18 16:12:36.649563;NaN;NaN;26.386133960955263
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Da wäre sie";2021-05-18 16:12:37.529128;1.111746;NaN;26.28033293443677
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"Da wäre sie d";2021-05-18 16:12:37.729239;NaN;NaN;26.343846135958895
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;79;o;"Da wäre sie do";2021-05-18 16:12:37.897891;NaN;NaN;26.414933603693814
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Da wäre sie doch";2021-05-18 16:12:38.649260;0.920013;NaN;26.453725633615303
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;76;l;"Da wäre sie doch l";2021-05-18 16:12:39.081203;NaN;NaN;26.459061157152057
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Da wäre sie doch li";2021-05-18 16:12:39.296995;NaN;NaN;26.517463718241626
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Da wäre sie doch lie";2021-05-18 16:12:39.438340;NaN;NaN;26.593982875848827
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Da wäre sie doch lieber";2021-05-18 16:12:40.025492;0.944283;NaN;26.78198512352951
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Da wäre sie doch lieber e";2021-05-18 16:12:40.889127;NaN;NaN;26.680151671721486
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Da wäre sie doch lieber ei";2021-05-18 16:12:41.282456;NaN;NaN;26.69387886383412
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Da wäre sie doch lieber ein";2021-05-18 16:12:42.258161;1.369026;NaN;26.5669618828436
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;82;R;"Da wäre sie doch lieber ein R";2021-05-18 16:12:42.833217;NaN;NaN;26.537498091605986
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"Da wäre sie doch lieber ein Ra";2021-05-18 16:12:42.966973;NaN;NaN;26.613374073464676
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;33;!;"Da wäre sie doch lieber ein Rabe!";2021-05-18 16:12:45.361219;2.527998;NaN;26.26424776109154
+sentence_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777220;<RETURN>;"Da wäre sie doch lieber ein Rabe!";2021-05-18 16:12:45.658003;NaN;12.792555;26.195910376531494
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;79;O;"O";2021-05-18 16:12:46.761087;NaN;NaN;26.049198548215646
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"Od";2021-05-18 16:12:47.033761;NaN;NaN;26.091617805304608
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Oder";2021-05-18 16:12:47.638153;0.877115;NaN;26.162546002476724
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Oder e";2021-05-18 16:12:47.953214;NaN;NaN;26.194834670802514
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Oder ei";2021-05-18 16:12:48.142891;NaN;NaN;26.255165510761554
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Oder eine";2021-05-18 16:12:49.361484;NaN;NaN;26.187280920871828
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Oder eine";2021-05-18 16:12:49.721232;1.768013;NaN;26.107530722316138
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;75;K;"Oder eine K";2021-05-18 16:12:50.536972;NaN;NaN;26.02936753303012
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;65;a;"Oder eine Ka";2021-05-18 16:12:50.647215;NaN;NaN;26.106059697754823
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;33;!;"Oder eine Katze!";2021-05-18 16:12:54.115144;3.578161;NaN;25.66095967957232
+sentence_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777220;<RETURN>;"Oder eine Katze!";2021-05-18 16:12:54.457846;NaN;7.696724;25.58938398685695
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;79;O;"O";2021-05-18 16:12:55.681024;NaN;NaN;25.433844696254017
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;68;d;"Od";2021-05-18 16:12:55.929035;NaN;NaN;25.47961801870329
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Oder";2021-05-18 16:12:56.561679;0.880587;NaN;25.54268503152645
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Oder e";2021-05-18 16:12:56.937160;NaN;NaN;25.561906185809768
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;66;b;"Oder eb";2021-05-18 16:12:57.257072;NaN;NaN;25.59232281245622
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Oder eben";2021-05-18 16:12:58.158661;1.22153;NaN;25.599643602393854
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;69;e;"Oder eben e";2021-05-18 16:12:58.529320;NaN;NaN;25.619426647157983
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Oder eben ei";2021-05-18 16:12:58.662437;NaN;NaN;25.687025628159528
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;32; ;"Oder eben ein";2021-05-18 16:12:59.630126;1.10088;NaN;25.58660853768268
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;80;P;"Oder eben ein P";2021-05-18 16:13:00.150331;NaN;NaN;25.57641642824256
+key_pressed;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;73;i;"Oder eben ein Pi";2021-05-18 16:13:00.433506;NaN;NaN;25.613338955021405
+word_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;33;!;"Oder eben ein Pinguin!";2021-05-18 16:13:02.088923;1.938534;NaN;25.748206283011392
+test_finished;1;auto_complete;paola_mastrocola_ich_waer_so_gern_ein_pinguin.txt;2;16777220;<RETURN>;"Oder eben ein Pinguin!";2021-05-18 16:13:02.446815;NaN;6.76584;25.677783827511195

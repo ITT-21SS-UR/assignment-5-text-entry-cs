@@ -1,277 +1,1042 @@
 log_type,participant_id,keyboard_type,content,sentence_time_in_s,words_per_minute
-key_pressed,1,normal,W,,18237.082066869298
-key_pressed,1,normal,Wa,,105.8429731291152
-key_pressed,1,normal,Wah,,30.019687911988946
-sentence_finished,1,normal,Wahrheit,2.486902,38.596145612000186
-key_pressed,1,normal,v,,36.09677545499485
-key_pressed,1,normal,vo,,37.89099959298751
-key_pressed,1,normal,von,,35.73476359017424
-word_finished,1,normal,von,,31.885767787548037
-key_pressed,1,normal,von J,,27.794656168522092
-key_pressed,1,normal,von JK,,30.035968071765943
-key_pressed,1,normal,von JKo,,28.307513959985307
-key_pressed,1,normal,2021-05-17 15:09:20.931570,24.409833595347862,
-key_pressed,1,normal,2021-05-17 15:09:21.115818,21.90075762933424,
-key_pressed,1,normal,von Jo,,21.724039250882715
-key_pressed,1,normal,von Joh,,22.366349082260765
-key_pressed,1,normal,von Joha,,23.29578398078357
-word_finished,1,normal,von Johann,,24.058246429797503
-key_pressed,1,normal,von Johann W,,22.279677200484294
-key_pressed,1,normal,von Johann Wo,,23.02185238267085
-key_pressed,1,normal,von Johann Wol,,23.67999797930684
-word_finished,1,normal,von Johann Wolfgang,,27.15578704757667
-key_pressed,1,normal,von Johann Wolfgang v,,26.641669039084526
-key_pressed,1,normal,von Johann Wolfgang vo,,27.2383285653648
-key_pressed,1,normal,von Johann Wolfgang von,,27.67705033812953
-word_finished,1,normal,von Johann Wolfgang von,,27.150602452475127
-key_pressed,1,normal,von Johann Wolfgang von G,,27.326637417218155
-key_pressed,1,normal,von Johann Wolfgang von Go,,27.524232028052698
-key_pressed,1,normal,von Johann Wolfgang von Goe,,28.031150746555447
-sentence_finished,1,normal,von Johann Wolfgang von Goethe,11.503311,28.14714776949031
-sentence_finished,1,normal,von Johann Wolfgang von Goethe,,27.56720248839948
-key_pressed,1,normal,W,,27.246126914405323
-key_pressed,1,normal,Wa,,27.693662196426658
-key_pressed,1,normal,Was,,28.179059645739716
-word_finished,1,normal,Was,,27.695655930129604
-key_pressed,1,normal,Was a,,27.820774907418127
-key_pressed,1,normal,Was au,,28.220622798994928
-key_pressed,1,normal,Was aus,,28.57267522446068
-key_pressed,1,normal,2021-05-17 15:09:31.820570,27.083540221487798,
-key_pressed,1,normal,Was auc,,27.336656217799334
-word_finished,1,normal,Was auch,,26.76394526664396
-key_pressed,1,normal,Was auch a,,26.58307485160948
-key_pressed,1,normal,Was auch al,,26.992078138927603
-key_pressed,1,normal,Was auch als,,27.421404826613887
-word_finished,1,normal,Was auch als,,27.016800305167042
-key_pressed,1,normal,Was auch als W,,27.17561698967236
-key_pressed,1,normal,Was auch als Wa,,27.41665659236985
-key_pressed,1,normal,Was auch als Wah,,27.85547512698689
-word_finished,1,normal,Was auch als Wah#,,27.411926307021552
-key_pressed,1,normal,2021-05-17 15:09:35.651600,26.716073085891647,
-word_finished,1,normal,Was auch als Wahrheit,,27.917798012315416
-key_pressed,1,normal,Was auch als Wahrheit o,,27.475782970172748
-key_pressed,1,normal,Was auch als Wahrheit od,,27.778774469917327
-sentence_finished,1,normal,Was auch als Wahrheit od,9.648267,25.854610587271523
-key_pressed,1,normal,2021-05-17 15:09:40.267748,25.18750405944438,
-key_pressed,1,normal,Was auch als Wahrheit ode,,25.031385944603723
-word_finished,1,normal,Was auch als Wahrheit oder,,24.764545190283094
-key_pressed,1,normal,Was auch als Wahrheit oder F,,24.697468646671876
-key_pressed,1,normal,Was auch als Wahrheit oder Fa,,25.017091418059326
-key_pressed,1,normal,Was auch als Wahrheit oder Fab,,25.2859969470373
-sentence_finished,1,normal,Was auch als Wahrheit oder Fabel,3.42924,25.10621437798599
-key_pressed,1,normal,I,,24.866725713999234
-key_pressed,1,normal,In,,24.337752373800058
-word_finished,1,normal,In,,24.039757179373318
-key_pressed,1,normal,In t,,24.073012695222967
-key_pressed,1,normal,In ta,,24.37183318492554
-key_pressed,1,normal,In tau,,23.959896940980663
-word_finished,1,normal,In tausend,,24.72966283312732
-key_pressed,1,normal,In tausend B,,24.51724621369692
-key_pressed,1,normal,In tausend Bü,,24.500979698896572
-key_pressed,1,normal,In tausend Büc,,24.723713210458552
-word_finished,1,normal,In tausend Büchern,,24.99536814728245
-key_pressed,1,normal,In tausend Büchern d,,24.931504287859145
-key_pressed,1,normal,In tausend Büchern di,,25.090060215350533
-key_pressed,1,normal,In tausend Büchern die,,25.02661945951053
-sentence_finished,1,normal,In tausend Büchern die,8.768425,24.81388551948489
-key_pressed,1,normal,2021-05-17 15:09:53.660103,24.54025368487247,
-key_pressed,1,normal,2021-05-17 15:09:53.843641,24.120333596426462,
-key_pressed,1,normal,In tausend Büchern die,,24.23834962895253
-key_pressed,1,normal,2021-05-17 15:09:54.771745,23.563887328527045,
-key_pressed,1,normal,In tausend Büchern dir,,23.734772814339557
-word_finished,1,normal,In tausend Büchern dir,,23.580332568167915
-key_pressed,1,normal,In tausend Büchern dir e,,23.703276531715122
-key_pressed,1,normal,In tausend Büchern dir er,,23.869984850079643
-key_pressed,1,normal,In tausend Büchern dir ers,,23.782045859090953
-sentence_finished,1,normal,"In tausend Büchern dir erscheint,",3.6493860000000002,24.971483290909482
-key_pressed,1,normal,D,,24.71215148658693
-key_pressed,1,normal,Da,,24.83192911275585
-key_pressed,1,normal,Das,,25.006910310836126
-word_finished,1,normal,Das,,24.896254892909003
-key_pressed,1,normal,Das a,,24.835835350874053
-key_pressed,1,normal,Das al,,24.88161271319825
-key_pressed,1,normal,Das all,,25.052609380901238
-word_finished,1,normal,Das alles,,25.1387447058538
-key_pressed,1,normal,Das alles i,,24.979260947357588
-key_pressed,1,normal,Das alles is,,25.15280860537712
-key_pressed,1,normal,Das alles ist,,25.299507161383914
-word_finished,1,normal,Das alles ist,,25.163875017827028
-key_pressed,1,normal,Das alles ist e,,25.305232359972035
-key_pressed,1,normal,Das alles ist ei,,25.462336959913458
-key_pressed,1,normal,Das alles ist ein,,25.583809174589934
-word_finished,1,normal,Das alles ist ein,,25.440868012776757
-key_pressed,1,normal,Das alles ist ein T,,25.336962826188778
-key_pressed,1,normal,Das alles ist ein Tu,,25.39269756400396
-key_pressed,1,normal,Das alles ist ein Tur,,25.525476653158893
-word_finished,1,normal,Das alles ist ein Turm,,25.476598910553964
-key_pressed,1,normal,Das alles ist ein Turm z,,25.03101595891437
-key_pressed,1,normal,Das alles ist ein Turm zu,,25.173552688640324
-word_finished,1,normal,Das alles ist ein Turm zu,,25.038592549318853
-key_pressed,1,normal,Das alles ist ein Turm zu B,,25.133404110522548
-key_pressed,1,normal,Das alles ist ein Turm zu Ba,,25.29047592574534
-key_pressed,1,normal,Das alles ist ein Turm zu Bab,,25.27258761022675
-sentence_finished,1,normal,"Das alles ist ein Turm zu Babel,",10.537847,25.22074233494075
-key_pressed,1,normal,W,,25.131531241070228
-key_pressed,1,normal,We,,25.222247043828524
-key_pressed,1,normal,Wen,,25.343048577768503
-key_pressed,1,normal,Wenn,,25.487097858684198
-word_finished,1,normal,Wenn,,25.34696386602347
-key_pressed,1,normal,Wenn e,,25.351866328769606
-key_pressed,1,normal,Wenn es,,25.398923159738217
-word_finished,1,normal,Wenn es,,25.235269822514734
-key_pressed,1,normal,Wenn es d,,25.29986922650929
-key_pressed,1,normal,Wenn es di,,25.427727286582734
-key_pressed,1,normal,Wenn es die,,25.56493305936593
-word_finished,1,normal,Wenn es die,,25.413630511191567
-key_pressed,1,normal,Wenn es die L,,25.288843889400397
-key_pressed,1,normal,Wenn es die Li,,25.39722831243055
-key_pressed,1,normal,Wenn es die Lie,,25.530311165863942
-word_finished,1,normal,Wenn es die Liebe,,25.49820648504053
-key_pressed,1,normal,Wenn es die Liebe n,,25.327339501729426
-key_pressed,1,normal,Wenn es die Liebe ni,,25.430750038076845
-key_pressed,1,normal,Wenn es die Liebe nic,,25.54623356375321
-word_finished,1,normal,Wenn es die Liebe nic#,,25.430306836711512
-key_pressed,1,normal,2021-05-17 15:10:16.964037,25.182889937186307,
-word_finished,1,normal,Wenn es die Liebe nicht,,25.243971277801737
-key_pressed,1,normal,Wenn es die Liebe nicht v,,25.16619312592947
-key_pressed,1,normal,Wenn es die Liebe nicht ve,,25.301061153055247
-key_pressed,1,normal,Wenn es die Liebe nicht ver,,25.417765981151696
-test_finished,1,normal,Wenn es die Liebe nicht vereint.,10.419016000000001,25.715541052534643
-key_pressed,1,auto_complete,W,,18237.082066869298
-key_pressed,1,auto_complete,Wa,,105.8429731291152
-key_pressed,1,auto_complete,Wah,,30.019687911988946
-sentence_finished,1,auto_complete,Wahrheit,2.486902,38.596145612000186
-key_pressed,1,auto_complete,v,,36.09677545499485
-key_pressed,1,auto_complete,vo,,37.89099959298751
-key_pressed,1,auto_complete,von,,35.73476359017424
-word_finished,1,auto_complete,von,,31.885767787548037
-key_pressed,1,auto_complete,von J,,27.794656168522092
-key_pressed,1,auto_complete,von JK,,30.035968071765943
-key_pressed,1,auto_complete,von JKo,,28.307513959985307
-key_pressed,1,auto_complete,2021-05-17 15:09:20.931570,24.409833595347862,
-key_pressed,1,auto_complete,2021-05-17 15:09:21.115818,21.90075762933424,
-key_pressed,1,auto_complete,von Jo,,21.724039250882715
-key_pressed,1,auto_complete,von Joh,,22.366349082260765
-key_pressed,1,auto_complete,von Joha,,23.29578398078357
-word_finished,1,auto_complete,von Johann,,24.058246429797503
-key_pressed,1,auto_complete,von Johann W,,22.279677200484294
-key_pressed,1,auto_complete,von Johann Wo,,23.02185238267085
-key_pressed,1,auto_complete,von Johann Wol,,23.67999797930684
-word_finished,1,auto_complete,von Johann Wolfgang,,27.15578704757667
-key_pressed,1,auto_complete,von Johann Wolfgang v,,26.641669039084526
-key_pressed,1,auto_complete,von Johann Wolfgang vo,,27.2383285653648
-key_pressed,1,auto_complete,von Johann Wolfgang von,,27.67705033812953
-word_finished,1,auto_complete,von Johann Wolfgang von,,27.150602452475127
-key_pressed,1,auto_complete,von Johann Wolfgang von G,,27.326637417218155
-key_pressed,1,auto_complete,von Johann Wolfgang von Go,,27.524232028052698
-key_pressed,1,auto_complete,von Johann Wolfgang von Goe,,28.031150746555447
-sentence_finished,1,auto_complete,von Johann Wolfgang von Goethe,11.503311,28.14714776949031
-sentence_finished,1,auto_complete,von Johann Wolfgang von Goethe,,27.56720248839948
-key_pressed,1,auto_complete,W,,27.246126914405323
-key_pressed,1,auto_complete,Wa,,27.693662196426658
-key_pressed,1,auto_complete,Was,,28.179059645739716
-word_finished,1,auto_complete,Was,,27.695655930129604
-key_pressed,1,auto_complete,Was a,,27.820774907418127
-key_pressed,1,auto_complete,Was au,,28.220622798994928
-key_pressed,1,auto_complete,Was aus,,28.57267522446068
-key_pressed,1,auto_complete,2021-05-17 15:09:31.820570,27.083540221487798,
-key_pressed,1,auto_complete,Was auc,,27.336656217799334
-word_finished,1,auto_complete,Was auch,,26.76394526664396
-key_pressed,1,auto_complete,Was auch a,,26.58307485160948
-key_pressed,1,auto_complete,Was auch al,,26.992078138927603
-key_pressed,1,auto_complete,Was auch als,,27.421404826613887
-word_finished,1,auto_complete,Was auch als,,27.016800305167042
-key_pressed,1,auto_complete,Was auch als W,,27.17561698967236
-key_pressed,1,auto_complete,Was auch als Wa,,27.41665659236985
-key_pressed,1,auto_complete,Was auch als Wah,,27.85547512698689
-word_finished,1,auto_complete,Was auch als Wah#,,27.411926307021552
-key_pressed,1,auto_complete,2021-05-17 15:09:35.651600,26.716073085891647,
-word_finished,1,auto_complete,Was auch als Wahrheit,,27.917798012315416
-key_pressed,1,auto_complete,Was auch als Wahrheit o,,27.475782970172748
-key_pressed,1,auto_complete,Was auch als Wahrheit od,,27.778774469917327
-sentence_finished,1,auto_complete,Was auch als Wahrheit od,9.648267,25.854610587271523
-key_pressed,1,auto_complete,2021-05-17 15:09:40.267748,25.18750405944438,
-key_pressed,1,auto_complete,Was auch als Wahrheit ode,,25.031385944603723
-word_finished,1,auto_complete,Was auch als Wahrheit oder,,24.764545190283094
-key_pressed,1,auto_complete,Was auch als Wahrheit oder F,,24.697468646671876
-key_pressed,1,auto_complete,Was auch als Wahrheit oder Fa,,25.017091418059326
-key_pressed,1,auto_complete,Was auch als Wahrheit oder Fab,,25.2859969470373
-sentence_finished,1,auto_complete,Was auch als Wahrheit oder Fabel,3.42924,25.10621437798599
-key_pressed,1,auto_complete,I,,24.866725713999234
-key_pressed,1,auto_complete,In,,24.337752373800058
-word_finished,1,auto_complete,In,,24.039757179373318
-key_pressed,1,auto_complete,In t,,24.073012695222967
-key_pressed,1,auto_complete,In ta,,24.37183318492554
-key_pressed,1,auto_complete,In tau,,23.959896940980663
-word_finished,1,auto_complete,In tausend,,24.72966283312732
-key_pressed,1,auto_complete,In tausend B,,24.51724621369692
-key_pressed,1,auto_complete,In tausend Bü,,24.500979698896572
-key_pressed,1,auto_complete,In tausend Büc,,24.723713210458552
-word_finished,1,auto_complete,In tausend Büchern,,24.99536814728245
-key_pressed,1,auto_complete,In tausend Büchern d,,24.931504287859145
-key_pressed,1,auto_complete,In tausend Büchern di,,25.090060215350533
-key_pressed,1,auto_complete,In tausend Büchern die,,25.02661945951053
-sentence_finished,1,auto_complete,In tausend Büchern die,8.768425,24.81388551948489
-key_pressed,1,auto_complete,2021-05-17 15:09:53.660103,24.54025368487247,
-key_pressed,1,auto_complete,2021-05-17 15:09:53.843641,24.120333596426462,
-key_pressed,1,auto_complete,In tausend Büchern die,,24.23834962895253
-key_pressed,1,auto_complete,2021-05-17 15:09:54.771745,23.563887328527045,
-key_pressed,1,auto_complete,In tausend Büchern dir,,23.734772814339557
-word_finished,1,auto_complete,In tausend Büchern dir,,23.580332568167915
-key_pressed,1,auto_complete,In tausend Büchern dir e,,23.703276531715122
-key_pressed,1,auto_complete,In tausend Büchern dir er,,23.869984850079643
-key_pressed,1,auto_complete,In tausend Büchern dir ers,,23.782045859090953
-sentence_finished,1,auto_complete,"In tausend Büchern dir erscheint,",3.6493860000000002,24.971483290909482
-key_pressed,1,auto_complete,D,,24.71215148658693
-key_pressed,1,auto_complete,Da,,24.83192911275585
-key_pressed,1,auto_complete,Das,,25.006910310836126
-word_finished,1,auto_complete,Das,,24.896254892909003
-key_pressed,1,auto_complete,Das a,,24.835835350874053
-key_pressed,1,auto_complete,Das al,,24.88161271319825
-key_pressed,1,auto_complete,Das all,,25.052609380901238
-word_finished,1,auto_complete,Das alles,,25.1387447058538
-key_pressed,1,auto_complete,Das alles i,,24.979260947357588
-key_pressed,1,auto_complete,Das alles is,,25.15280860537712
-key_pressed,1,auto_complete,Das alles ist,,25.299507161383914
-word_finished,1,auto_complete,Das alles ist,,25.163875017827028
-key_pressed,1,auto_complete,Das alles ist e,,25.305232359972035
-key_pressed,1,auto_complete,Das alles ist ei,,25.462336959913458
-key_pressed,1,auto_complete,Das alles ist ein,,25.583809174589934
-word_finished,1,auto_complete,Das alles ist ein,,25.440868012776757
-key_pressed,1,auto_complete,Das alles ist ein T,,25.336962826188778
-key_pressed,1,auto_complete,Das alles ist ein Tu,,25.39269756400396
-key_pressed,1,auto_complete,Das alles ist ein Tur,,25.525476653158893
-word_finished,1,auto_complete,Das alles ist ein Turm,,25.476598910553964
-key_pressed,1,auto_complete,Das alles ist ein Turm z,,25.03101595891437
-key_pressed,1,auto_complete,Das alles ist ein Turm zu,,25.173552688640324
-word_finished,1,auto_complete,Das alles ist ein Turm zu,,25.038592549318853
-key_pressed,1,auto_complete,Das alles ist ein Turm zu B,,25.133404110522548
-key_pressed,1,auto_complete,Das alles ist ein Turm zu Ba,,25.29047592574534
-key_pressed,1,auto_complete,Das alles ist ein Turm zu Bab,,25.27258761022675
-sentence_finished,1,auto_complete,"Das alles ist ein Turm zu Babel,",10.537847,25.22074233494075
-key_pressed,1,auto_complete,W,,25.131531241070228
-key_pressed,1,auto_complete,We,,25.222247043828524
-key_pressed,1,auto_complete,Wen,,25.343048577768503
-key_pressed,1,auto_complete,Wenn,,25.487097858684198
-word_finished,1,auto_complete,Wenn,,25.34696386602347
-key_pressed,1,auto_complete,Wenn e,,25.351866328769606
-key_pressed,1,auto_complete,Wenn es,,25.398923159738217
-word_finished,1,auto_complete,Wenn es,,25.235269822514734
-key_pressed,1,auto_complete,Wenn es d,,25.29986922650929
-key_pressed,1,auto_complete,Wenn es di,,25.427727286582734
-key_pressed,1,auto_complete,Wenn es die,,25.56493305936593
-word_finished,1,auto_complete,Wenn es die,,25.413630511191567
-key_pressed,1,auto_complete,Wenn es die L,,25.288843889400397
-key_pressed,1,auto_complete,Wenn es die Li,,25.39722831243055
-key_pressed,1,auto_complete,Wenn es die Lie,,25.530311165863942
-word_finished,1,auto_complete,Wenn es die Liebe,,25.49820648504053
-key_pressed,1,auto_complete,Wenn es die Liebe n,,25.327339501729426
-key_pressed,1,auto_complete,Wenn es die Liebe ni,,25.430750038076845
-key_pressed,1,auto_complete,Wenn es die Liebe nic,,25.54623356375321
-word_finished,1,auto_complete,Wenn es die Liebe nic#,,25.430306836711512
-key_pressed,1,auto_complete,2021-05-17 15:10:16.964037,25.182889937186307,
-word_finished,1,auto_complete,Wenn es die Liebe nicht,,25.243971277801737
-key_pressed,1,auto_complete,Wenn es die Liebe nicht v,,25.16619312592947
-key_pressed,1,auto_complete,Wenn es die Liebe nicht ve,,25.301061153055247
-key_pressed,1,auto_complete,Wenn es die Liebe nicht ver,,25.417765981151696
-test_finished,1,auto_complete,Wenn es die Liebe nicht vereint.,10.419016000000001,25.715541052534643
+key_pressed,1,normal,G,,90909.09090909091
+key_pressed,1,normal,Gl,,119.69298748709562
+key_pressed,1,normal,Glü,,54.269256918199645
+key_pressed,1,normal,Glüc,,54.09413732247543
+key_pressed,1,normal,Glück,,48.10776138550352
+key_pressed,1,normal,Glückl,,49.17421468096179
+key_pressed,1,normal,Glückli,,48.86328866220459
+key_pressed,1,normal,Glücklic,,51.39296344675475
+key_pressed,1,normal,Glücklich,,53.16028021374372
+word_finished,1,normal,Glücklich,,44.425303171843254
+key_pressed,1,normal,Glücklich s,,40.098200493007376
+key_pressed,1,normal,Glücklich se,,41.26792575524994
+key_pressed,1,normal,Glücklich sei,,43.84358435916664
+key_pressed,1,normal,Glücklich sein,,44.73477440482677
+word_finished,1,normal,Glücklich sein,,42.58933317389635
+key_pressed,1,normal,Glücklich sein h,,43.041342234009626
+key_pressed,1,normal,Glücklich sein he,,44.244894507881234
+key_pressed,1,normal,Glücklich sein hei,,47.1003942450187
+key_pressed,1,normal,Glücklich sein heiß,,44.668115898871385
+key_pressed,1,normal,Glücklich sein heißt,,44.34440492682763
+word_finished,1,normal,Glücklich sein heißt,,42.48019852412777
+key_pressed,1,normal,Glücklich sein heißt e,,37.850107266871966
+key_pressed,1,normal,Glücklich sein heißt ei,,38.63429070178867
+key_pressed,1,normal,Glücklich sein heißt ein,,39.397752201896594
+key_pressed,1,normal,Glücklich sein heißt eine,,41.067442385022844
+key_pressed,1,normal,Glücklich sein heißt einen,,41.84230454072386
+key_pressed,1,normal,Glücklich sein heißt einene,,43.45192994462595
+word_finished,1,normal,Glücklich sein heißt einene,,42.361232764825
+key_pressed,1,normal,Glücklich sein heißt einene g,,43.37463948445483
+key_pressed,1,normal,Glücklich sein heißt einene gu,,42.59827640820072
+key_pressed,1,normal,Glücklich sein heißt einene gut,,43.231945525613725
+key_pressed,1,normal,Glücklich sein heißt einene gute,,43.623735414774075
+key_pressed,1,normal,Glücklich sein heißt einene guten,,44.09347055525463
+word_finished,1,normal,Glücklich sein heißt einene guten,,43.002950397826716
+key_pressed,1,normal,Glücklich sein heißt einene guten G,,43.23327232638239
+key_pressed,1,normal,Glücklich sein heißt einene guten Ge,,44.34945078212402
+key_pressed,1,normal,Glücklich sein heißt einene guten Gen,,44.5288379306846
+key_pressed,1,normal,Glücklich sein heißt einene guten Geni,,44.721936279146185
+key_pressed,1,normal,Glücklich sein heißt einene guten Geniu,,44.778950030203845
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius,,44.951834109751395
+word_finished,1,normal,Glücklich sein heißt einene guten Genius,,44.129444268452026
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius h,,44.41323181208762
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius ha,,45.139617140813954
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius hab,,45.83386730793874
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius habe,,46.03086113512103
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben,,44.844046420314655
+word_finished,1,normal,Glücklich sein heißt einene guten Genius haben,,43.82953634103178
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben o,,43.29480887321828
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben od,,43.602338711791404
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben ode,,44.1014446043549
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben oder,,44.63563374230733
+word_finished,1,normal,Glücklich sein heißt einene guten Genius haben oder,,44.39932008495744
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben oder g,,44.5577127172828
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben oder gu,,44.717078205552255
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben oder gut,,45.11844431603997
+word_finished,1,normal,Glücklich sein heißt einene guten Genius haben oder gut,,44.3984855393188
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben oder gut s,,44.530722719713886
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben oder gut se,,44.629391611829945
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben oder gut sei,,45.13914253534377
+key_pressed,1,normal,Glücklich sein heißt einene guten Genius haben oder gut sein,,45.29614016934983
+word_finished,1,normal,Glücklich sein heißt einene guten Genius haben oder gut sein.,,43.791853598967656
+sentence_finished,1,normal,Glücklich sein heißt einene guten Genius haben oder gut sein.,14.631611999999999,41.826746235900394
+key_pressed,1,normal,W,,40.592370182640295
+key_pressed,1,normal,Wa,,40.85461166985002
+key_pressed,1,normal,Was,,41.27267871595346
+word_finished,1,normal,Was,,40.91779368983214
+key_pressed,1,normal,Was a,,41.0857647909687
+key_pressed,1,normal,Was am,,41.80599405882078
+key_pressed,1,normal,Was amc,,41.79855771754453
+key_pressed,1,normal,Was amch,,42.05174067924073
+key_pressed,1,normal,Was amchs,,42.47410459428232
+key_pressed,1,normal,Was amchst,,42.62283145245291
+word_finished,1,normal,Was amchst,,41.57369604535413
+key_pressed,1,normal,Was amchst d,,41.34972740813582
+key_pressed,1,normal,Was amchst du,,41.15370427313183
+word_finished,1,normal,Was amchst du,,40.54175776528601
+key_pressed,1,normal,Was amchst du a,,40.735328721440354
+key_pressed,1,normal,Was amchst du al,,41.086702625734546
+key_pressed,1,normal,Was amchst du als,,41.4380886798473
+key_pressed,1,normal,Was amchst du also,,41.797858904677604
+word_finished,1,normal,Was amchst du also,,41.21720870505367
+key_pressed,1,normal,Was amchst du also h,,41.05490266005131
+key_pressed,1,normal,Was amchst du also hi,,41.14778312032212
+key_pressed,1,normal,Was amchst du also hie,,41.57352790547747
+key_pressed,1,normal,Was amchst du also hier,,41.7184546650023
+word_finished,1,normal,"Was amchst du also hier,",,39.66951141140722
+word_finished,1,normal,"Was amchst du also hier,",,39.303822619602585
+key_pressed,1,normal,"Was amchst du also hier, E",,39.49074002402261
+key_pressed,1,normal,"Was amchst du also hier, Ei",,39.80064483493811
+key_pressed,1,normal,"Was amchst du also hier, Ein",,39.966134631946794
+key_pressed,1,normal,"Was amchst du also hier, Einb",,39.843136494778534
+key_pressed,1,normal,"Was amchst du also hier, Einbi",,39.895498617487995
+key_pressed,1,normal,"Was amchst du also hier, Einbil",,40.071943198372026
+key_pressed,1,normal,"Was amchst du also hier, Einbils",,40.203117986753156
+key_pressed,1,normal,"Was amchst du also hier, Einbil",,38.76363060164215
+key_pressed,1,normal,"Was amchst du also hier, Einbild",,38.79876341118728
+key_pressed,1,normal,"Was amchst du also hier, Einbildu",,37.829224894944076
+key_pressed,1,normal,"Was amchst du also hier, Einbildun",,37.99410522259035
+key_pressed,1,normal,"Was amchst du also hier, Einbildung",,38.210377182195636
+word_finished,1,normal,"Was amchst du also hier, Einbildung?",,36.743412939468435
+sentence_finished,1,normal,"Was amchst du also hier, Einbildung?",11.387144000000001,35.874822877404455
+key_pressed,1,normal,G,,34.68495215474913
+key_pressed,1,normal,GE,,34.97810402680091
+key_pressed,1,normal,GEh,,35.151622783841944
+word_finished,1,normal,GEh,,34.87562864108479
+key_pressed,1,normal,GEh,,34.43155473611221
+word_finished,1,normal,"GEh,",,34.09022182568951
+word_finished,1,normal,"GEh,",,33.872154517967275
+key_pressed,1,normal,"GEh, u",,33.99981630654801
+key_pressed,1,normal,"GEh, um",,34.17452588624848
+word_finished,1,normal,"GEh, um",,33.9630606431425
+key_pressed,1,normal,"GEh, um d",,34.31149692483209
+key_pressed,1,normal,"GEh, um de",,34.55573358231114
+key_pressed,1,normal,"GEh, um der",,34.786606405459445
+word_finished,1,normal,"GEh, um der",,34.704929552608114
+key_pressed,1,normal,"GEh, um der G",,34.721155473239115
+key_pressed,1,normal,"GEh, um der Gö",,34.64345025155635
+key_pressed,1,normal,"GEh, um der Göt",,34.698012741224666
+key_pressed,1,normal,"GEh, um der Gött",,34.839834275997
+key_pressed,1,normal,"GEh, um der Götte",,35.04457742472913
+key_pressed,1,normal,"GEh, um der Götter",,35.223253442643674
+word_finished,1,normal,"GEh, um der Götter",,35.05856707679803
+key_pressed,1,normal,"GEh, um der Götter w",,35.28530833664314
+key_pressed,1,normal,"GEh, um der Götter wi",,35.46022118867033
+key_pressed,1,normal,"GEh, um der Götter wil",,35.584770121926454
+key_pressed,1,normal,"GEh, um der Götter will",,35.794441652822954
+key_pressed,1,normal,"GEh, um der Götter wille",,35.957592922456094
+key_pressed,1,normal,"GEh, um der Götter willen",,36.113341360727226
+word_finished,1,normal,"GEh, um der Götter willen,",,34.99848850277779
+word_finished,1,normal,"GEh, um der Götter willen,",,34.80375222733138
+key_pressed,1,normal,"GEh, um der Götter willen, w",,34.94151764388078
+key_pressed,1,normal,"GEh, um der Götter willen, wi",,35.13602982842249
+key_pressed,1,normal,"GEh, um der Götter willen, wie",,35.33422633252915
+word_finished,1,normal,"GEh, um der Götter willen, wie",,35.180071730344636
+key_pressed,1,normal,"GEh, um der Götter willen, wie d",,35.418108069672535
+key_pressed,1,normal,"GEh, um der Götter willen, wie du",,35.59685141893994
+word_finished,1,normal,"GEh, um der Götter willen, wie du",,35.35497375734983
+key_pressed,1,normal,"GEh, um der Götter willen, wie du g",,35.452871552992136
+key_pressed,1,normal,"GEh, um der Götter willen, wie du ge",,35.694621504408204
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gek",,35.7388788454489
+key_pressed,1,normal,"GEh, um der Götter willen, wie du geko",,35.91144468364969
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekom",,36.03612162551409
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekomm",,36.20719912198086
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekomme",,36.423011983089644
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen",,36.554785838287785
+word_finished,1,normal,"GEh, um der Götter willen, wie du gekommen",,36.149271860092526
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen b",,35.88737973596018
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bi",,35.97689938932341
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bis",,36.15471537745757
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist",,36.323196350212115
+word_finished,1,normal,"GEh, um der Götter willen, wie du gekommen bist,",,35.853597808946795
+word_finished,1,normal,"GEh, um der Götter willen, wie du gekommen bist,",,35.326870042585234
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, d",,35.23922456185897
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, de",,35.40614229624452
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, den",,35.576627460234974
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn",,35.710132004765576
+word_finished,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn",,35.51958325254585
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn i",,35.631730874120834
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ic",,35.806683210680475
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich",,35.99132841187393
+word_finished,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich",,35.80528565904465
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich b",,35.91464754717682
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich br",,36.12278737475133
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich bra",,35.89685307787839
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brau",,35.80122238332514
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauc",,35.93662951466097
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauch",,36.10523732389092
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche",,36.26477688730422
+word_finished,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche",,35.93625347549521
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche d",,35.967399639431356
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche di",,36.07658217513038
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dic",,36.17748430818492
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich",,35.87922971546154
+word_finished,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich",,35.70471722789634
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich n",,35.73356945515503
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich ni",,35.826648706851934
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nic",,35.95305703134002
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nich",,36.106237538694074
+key_pressed,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht",,36.22251673140686
+word_finished,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht.",,35.850183364085176
+sentence_finished,1,normal,"GEh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht.",19.71919,35.18849523877667
+key_pressed,1,normal,D,,34.99262197524251
+key_pressed,1,normal,Du,,35.08591963129475
+word_finished,1,normal,Du,,34.91297112150237
+key_pressed,1,normal,Du b,,34.97551958213304
+key_pressed,1,normal,Du bi,,35.077349514059954
+key_pressed,1,normal,Du bis,,35.242437793147715
+key_pressed,1,normal,Du bist,,35.363092061573205
+word_finished,1,normal,Du bist,,35.186990132579844
+key_pressed,1,normal,Du bist g,,35.25784397084872
+key_pressed,1,normal,Du bist ge,,35.43731977174775
+key_pressed,1,normal,Du bist gek,,35.48466384780572
+key_pressed,1,normal,Du bist geko,,35.60205799674142
+key_pressed,1,normal,Du bist gekom,,35.681062577317576
+key_pressed,1,normal,Du bist gekomm,,35.77137268426203
+key_pressed,1,normal,Du bist gekomme,,35.8832773276027
+key_pressed,1,normal,Du bist gekommen,,35.972961647508704
+word_finished,1,normal,Du bist gekommen,,35.51730210573204
+key_pressed,1,normal,Du bist gekommen n,,35.58363474202439
+key_pressed,1,normal,Du bist gekommen na,,35.7495988100578
+key_pressed,1,normal,Du bist gekommen nac,,35.75324137576879
+key_pressed,1,normal,Du bist gekommen nach,,35.86231978782369
+word_finished,1,normal,Du bist gekommen nach,,35.72218203372072
+key_pressed,1,normal,Du bist gekommen nach d,,35.89984485170824
+key_pressed,1,normal,Du bist gekommen nach de,,36.00572378490293
+key_pressed,1,normal,Du bist gekommen nach dei,,36.12824179442919
+key_pressed,1,normal,Du bist gekommen nach dein,,36.215274321015755
+key_pressed,1,normal,Du bist gekommen nach deine,,36.39190960964096
+key_pressed,1,normal,Du bist gekommen nach deiner,,36.50634026832605
+word_finished,1,normal,Du bist gekommen nach deiner,,36.37112295472497
+key_pressed,1,normal,Du bist gekommen nach deiner a,,36.435314564288284
+key_pressed,1,normal,Du bist gekommen nach deiner al,,36.56077153652901
+key_pressed,1,normal,Du bist gekommen nach deiner alt,,36.62867483486115
+key_pressed,1,normal,Du bist gekommen nach deiner alte,,35.94885633242849
+key_pressed,1,normal,Du bist gekommen nach deiner alten,,36.06746793356671
+word_finished,1,normal,Du bist gekommen nach deiner alten,,35.88203155782212
+key_pressed,1,normal,Du bist gekommen nach deiner alten G,,35.610162148778635
+key_pressed,1,normal,Du bist gekommen nach deiner alten Ge,,35.69039397220553
+key_pressed,1,normal,Du bist gekommen nach deiner alten Gew,,35.69545838589219
+key_pressed,1,normal,Du bist gekommen nach deiner alten Gewo,,35.76437355702123
+key_pressed,1,normal,Du bist gekommen nach deiner alten Gewoh,,35.77073548846533
+key_pressed,1,normal,Du bist gekommen nach deiner alten Gewohn,,35.85641003505493
+key_pressed,1,normal,Du bist gekommen nach deiner alten Gewohnh,,35.763373871986865
+key_pressed,1,normal,Du bist gekommen nach deiner alten Gewohnhe,,35.863697888666614
+key_pressed,1,normal,Du bist gekommen nach deiner alten Gewohnhei,,36.02501350263381
+key_pressed,1,normal,Du bist gekommen nach deiner alten Gewohnheit,,36.099023857522184
+word_finished,1,normal,Du bist gekommen nach deiner alten Gewohnheit.,,35.81482913000127
+sentence_finished,1,normal,Du bist gekommen nach deiner alten Gewohnheit.,12.502374,35.29695021861432
+key_pressed,1,normal,I,,35.17633726876749
+key_pressed,1,normal,Ic,,35.255549656906034
+key_pressed,1,normal,Ich,,35.36333331411882
+word_finished,1,normal,Ich,,34.52288378753213
+key_pressed,1,normal,Ich z,,34.45544054858082
+key_pressed,1,normal,Ich zü,,34.40179470174345
+key_pressed,1,normal,Ich zür,,34.352868705935485
+key_pressed,1,normal,Ich zürn,,34.4494263205872
+key_pressed,1,normal,Ich zürne,,34.56781192620937
+word_finished,1,normal,Ich zürne,,34.477243935826905
+key_pressed,1,normal,Ich zürne d,,34.09570122275558
+key_pressed,1,normal,Ich zürne di,,34.154069065792235
+key_pressed,1,normal,Ich zürne die,,34.24759851107665
+key_pressed,1,normal,Ich zürne di,,33.59461441003657
+key_pressed,1,normal,Ich zürne dir,,33.396319573248945
+word_finished,1,normal,Ich zürne dir,,33.33533247856472
+key_pressed,1,normal,Ich zürne dir d,,33.392381417454445
+key_pressed,1,normal,Ich zürne dir de,,33.485078095805925
+key_pressed,1,normal,Ich zürne dir des,,33.52306238327812
+key_pressed,1,normal,Ich zürne dir desw,,33.472093468808076
+key_pressed,1,normal,Ich zürne dir deswe,,33.59022438341662
+key_pressed,1,normal,Ich zürne dir desweg,,33.58115377676971
+key_pressed,1,normal,Ich zürne dir deswege,,33.69257447013866
+key_pressed,1,normal,Ich zürne dir deswegen,,33.798099881066534
+word_finished,1,normal,Ich zürne dir deswegen,,33.68173802531285
+key_pressed,1,normal,Ich zürne dir deswegen n,,33.73709439585326
+key_pressed,1,normal,Ich zürne dir deswegen ni,,33.82252924309971
+key_pressed,1,normal,Ich zürne dir deswegen nic,,33.91259571169323
+key_pressed,1,normal,Ich zürne dir deswegen nich,,34.00865582022508
+key_pressed,1,normal,Ich zürne dir deswegen nicht,,34.083903040082674
+word_finished,1,normal,Ich zürne dir deswegen nicht;,,33.36306197636616
+word_finished,1,normal,Ich zürne dir deswegen nicht;,,33.25753364369511
+key_pressed,1,normal,Ich zürne dir deswegen nicht; n,,33.31585339783326
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nu,,33.373543478848944
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur,,33.33033288427272
+word_finished,1,normal,Ich zürne dir deswegen nicht; nur,,33.254770731157926
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur g,,33.30513302088899
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur ge,,33.41021341121839
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh,,33.520337074521926
+word_finished,1,normal,Ich zürne dir deswegen nicht; nur geh,,33.404447423910405
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh b,,33.41258701741468
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh ba,,33.43956293593182
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh bal,,33.21194697441122
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh bald,,33.27118416713381
+word_finished,1,normal,Ich zürne dir deswegen nicht; nur geh bald,,33.1849639136238
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh bald f,,33.272308619734424
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh bald fo,,33.31644396238047
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh bald for,,33.37848442982556
+key_pressed,1,normal,Ich zürne dir deswegen nicht; nur geh bald fort,,33.440141453339365
+word_finished,1,normal,Ich zürne dir deswegen nicht; nur geh bald fort.,,33.22618314591142
+test_finished,1,normal,Ich zürne dir deswegen nicht; nur geh bald fort.,17.610172,32.95571033489811
+key_pressed,1,normal,W,,90225.56390977443
+key_pressed,1,normal,Wä,,56.513006232913646
+key_pressed,1,normal,Wär,,61.04964692954192
+key_pressed,1,normal,Wäre,,66.08675538813577
+word_finished,1,normal,Wäre,,50.103285836114246
+key_pressed,1,normal,Wäre e,,31.91295846953961
+key_pressed,1,normal,Wäre ei,,33.456238542980806
+key_pressed,1,normal,Wäre ein,,35.226521209091615
+word_finished,1,normal,Wäre ein,,32.208749506803514
+key_pressed,1,normal,Wäre ein P,,31.91360985811409
+key_pressed,1,normal,Wäre ein Pi,,30.057735901043248
+key_pressed,1,normal,Wäre ein Pin,,31.381048566356803
+key_pressed,1,normal,Wäre ein Ping,,31.727108410568018
+key_pressed,1,normal,Wäre ein Pingu,,31.630388368451854
+key_pressed,1,normal,Wäre ein Pingui,,31.6033856139768
+key_pressed,1,normal,Wäre ein Pinguin,,28.77902420264544
+word_finished,1,normal,Wäre ein Pinguin,,27.706089188209933
+key_pressed,1,normal,Wäre ein Pinguin v,,27.720501574755488
+key_pressed,1,normal,Wäre ein Pinguin vi,,27.457786513421713
+key_pressed,1,normal,Wäre ein Pinguin vie,,26.046551059986097
+key_pressed,1,normal,Wäre ein Pinguin viel,,26.54897603918039
+key_pressed,1,normal,Wäre ein Pinguin viell,,27.32404156130532
+key_pressed,1,normal,Wäre ein Pinguin vielle,,27.698315030709928
+key_pressed,1,normal,Wäre ein Pinguin viellei,,28.25026913426041
+key_pressed,1,normal,Wäre ein Pinguin vielleic,,29.05687012822775
+key_pressed,1,normal,Wäre ein Pinguin vielleich,,29.662706014747734
+key_pressed,1,normal,Wäre ein Pinguin vielleicht,,30.33159702493373
+word_finished,1,normal,Wäre ein Pinguin vielleicht,,29.078105912760233
+key_pressed,1,normal,Wäre ein Pinguin vielleicht d,,28.933460563403923
+key_pressed,1,normal,Wäre ein Pinguin vielleicht di,,29.38729468571277
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die,,30.163165970586448
+word_finished,1,normal,Wäre ein Pinguin vielleicht die,,29.742261274749644
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die b,,30.25835229583447
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die be,,31.05494449597959
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die bes,,31.511261731051913
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die bess,,32.0001128606131
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die besse,,32.387934583456996
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die besser,,32.894805154350145
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die bessere,,33.28884485913352
+word_finished,1,normal,Wäre ein Pinguin vielleicht die bessere,,32.60786690363848
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die bessere E,,32.48577683740908
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die bessere En,,32.9337724706291
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die bessere Ent,,33.22861579540213
+key_pressed,1,normal,Wäre ein Pinguin vielleicht die bessere Ente,,33.56622601671068
+word_finished,1,normal,Wäre ein Pinguin vielleicht die bessere Ente?,,32.312398536588475
+sentence_finished,1,normal,Wäre ein Pinguin vielleicht die bessere Ente?,14.757848000000001,30.898610883832408
+key_pressed,1,normal,A,,30.820226998874467
+key_pressed,1,normal,Al,,31.00727721416668
+key_pressed,1,normal,Als,,31.54411521449613
+word_finished,1,normal,Als,,31.17074860924292
+key_pressed,1,normal,Als i,,31.451387948502088
+key_pressed,1,normal,Als ih,,31.693096825850358
+key_pressed,1,normal,Als ihr,,31.929445600811786
+word_finished,1,normal,Als ihr,,31.59914284931147
+key_pressed,1,normal,Als ihr M,,31.55455993776973
+key_pressed,1,normal,Als ihr Ma,,31.973203675041734
+key_pressed,1,normal,Als ihr Man,,32.283353512337285
+key_pressed,1,normal,Als ihr Mann,,32.228876950651376
+word_finished,1,normal,Als ihr Mann,,31.7168949952722
+key_pressed,1,normal,Als ihr Mann f,,32.080701951947034
+key_pressed,1,normal,Als ihr Mann fü,,31.671491466486124
+key_pressed,1,normal,Als ihr Mann für,,32.052767654358036
+word_finished,1,normal,Als ihr Mann für,,31.71602178890697
+key_pressed,1,normal,Als ihr Mann für s,,32.032989050569924
+key_pressed,1,normal,Als ihr Mann für si,,32.38233311553329
+key_pressed,1,normal,Als ihr Mann für sie,,32.797610349913555
+word_finished,1,normal,Als ihr Mann für sie,,32.49014390426237
+key_pressed,1,normal,Als ihr Mann für sie d,,32.85928013283115
+key_pressed,1,normal,Als ihr Mann für sie da,,33.140444766467866
+key_pressed,1,normal,Als ihr Mann für sie das,,33.572854050410236
+word_finished,1,normal,Als ihr Mann für sie das,,33.267655653110964
+key_pressed,1,normal,Als ihr Mann für sie das B,,33.45949550195733
+key_pressed,1,normal,Als ihr Mann für sie das Br,,33.688416219050076
+key_pressed,1,normal,Als ihr Mann für sie das Brü,,33.5942016407968
+key_pressed,1,normal,Als ihr Mann für sie das Brüt,,33.730802300496016
+key_pressed,1,normal,Als ihr Mann für sie das Brüte,,33.929229100552554
+key_pressed,1,normal,Als ihr Mann für sie das Brüten,,34.18949063899886
+word_finished,1,normal,Als ihr Mann für sie das Brüten,,32.89200900823371
+key_pressed,1,normal,Als ihr Mann für sie das Brüten ü,,31.935672241534487
+key_pressed,1,normal,Als ihr Mann für sie das Brüten üb,,32.01923387168612
+key_pressed,1,normal,Als ihr Mann für sie das Brüten übe,,32.377461019192594
+key_pressed,1,normal,Als ihr Mann für sie das Brüten über,,32.72928666641834
+key_pressed,1,normal,Als ihr Mann für sie das Brüten übern,,33.01293257359355
+key_pressed,1,normal,Als ihr Mann für sie das Brüten überni,,33.15174743941789
+key_pressed,1,normal,Als ihr Mann für sie das Brüten übernim,,33.206172141903245
+key_pressed,1,normal,Als ihr Mann für sie das Brüten übernimm,,33.47305057982238
+key_pressed,1,normal,Als ihr Mann für sie das Brüten übernimmt,,33.6337284634653
+word_finished,1,normal,"Als ihr Mann für sie das Brüten übernimmt,",,32.348097881300674
+word_finished,1,normal,"Als ihr Mann für sie das Brüten übernimmt,",,32.09505008518004
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, b",,31.91791935391135
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, be",,32.23271205022844
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, bes",,32.440389972415936
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, besc",,32.636115683865114
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, besch",,33.02522891594686
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschl",,33.09696817627502
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschli",,33.22027809227437
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschlie",,33.029790703634674
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließ",,33.291071026500035
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt",,33.234021924930076
+word_finished,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt",,32.15641507735873
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt d",,32.194566895315965
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt di",,32.356626519946914
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die",,32.60318604726835
+word_finished,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die",,32.44228890526199
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die E",,32.42778329517936
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die En",,32.708275268834456
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Ent",,32.83522769691257
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Ente",,33.0463090181397
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Enten",,33.29472378512177
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenm",,33.163250198956725
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmu",,33.227593939660075
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmut",,33.343721874637815
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutt",,33.483254009486096
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutte",,33.63237232664681
+key_pressed,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter",,33.83628483936767
+word_finished,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter,",,33.652519102843705
+sentence_finished,1,normal,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter,",20.087362,32.66028018324457
+key_pressed,1,normal,i,,32.565841683063134
+key_pressed,1,normal,in,,32.688220007731196
+word_finished,1,normal,in,,32.41709912666516
+key_pressed,1,normal,in d,,32.480100060580305
+key_pressed,1,normal,in di,,32.682130089421314
+key_pressed,1,normal,in die,,32.87968055274324
+word_finished,1,normal,in die,,32.759124267521386
+key_pressed,1,normal,in die W,,32.44462710745944
+key_pressed,1,normal,in die We,,32.57440847470148
+key_pressed,1,normal,in die Wel,,32.796266439391346
+key_pressed,1,normal,in die Welt,,32.96579437779366
+word_finished,1,normal,in die Welt,,32.608615480888446
+key_pressed,1,normal,in die Welt a,,32.28378298018757
+key_pressed,1,normal,in die Welt au,,32.41794875782701
+key_pressed,1,normal,in die Welt aus,,32.63061852797741
+key_pressed,1,normal,in die Welt ausz,,32.550168320205266
+key_pressed,1,normal,in die Welt auszu,,32.733611415281594
+key_pressed,1,normal,in die Welt auszuz,,32.588392528362355
+key_pressed,1,normal,in die Welt auszuzi,,32.75049953040559
+key_pressed,1,normal,in die Welt auszuzie,,32.91439889654235
+key_pressed,1,normal,in die Welt auszuzieh,,33.02888731111032
+key_pressed,1,normal,in die Welt auszuziehe,,33.21360070955804
+key_pressed,1,normal,in die Welt auszuziehen,,33.366806408545806
+word_finished,1,normal,in die Welt auszuziehen,,32.76850428844852
+key_pressed,1,normal,in die Welt auszuziehen u,,32.84127405243217
+key_pressed,1,normal,in die Welt auszuziehen un,,32.9487029880355
+key_pressed,1,normal,in die Welt auszuziehen und,,33.1550752723528
+word_finished,1,normal,in die Welt auszuziehen und,,33.03924166518611
+key_pressed,1,normal,in die Welt auszuziehen und e,,33.18563039158468
+key_pressed,1,normal,in die Welt auszuziehen und et,,33.2296607585764
+key_pressed,1,normal,in die Welt auszuziehen und etw,,33.395498993880764
+key_pressed,1,normal,in die Welt auszuziehen und etwa,,33.460113764840195
+key_pressed,1,normal,in die Welt auszuziehen und etwas,,33.58794257870345
+word_finished,1,normal,in die Welt auszuziehen und etwas,,33.08400047731675
+key_pressed,1,normal,in die Welt auszuziehen und etwas z,,33.051204578693536
+key_pressed,1,normal,in die Welt auszuziehen und etwas zu,,33.2298563226285
+word_finished,1,normal,in die Welt auszuziehen und etwas zu,,33.041656941194404
+key_pressed,1,normal,in die Welt auszuziehen und etwas zu w,,33.23653882012468
+key_pressed,1,normal,in die Welt auszuziehen und etwas zu we,,33.392997953570124
+key_pressed,1,normal,in die Welt auszuziehen und etwas zu wer,,33.483295091069905
+key_pressed,1,normal,in die Welt auszuziehen und etwas zu werd,,33.586245657336114
+key_pressed,1,normal,in die Welt auszuziehen und etwas zu werde,,33.747362521252576
+key_pressed,1,normal,in die Welt auszuziehen und etwas zu werden,,33.89400160264705
+word_finished,1,normal,"in die Welt auszuziehen und etwas zu werden,",,33.149140052919336
+word_finished,1,normal,"in die Welt auszuziehen und etwas zu werden,",,33.062417021734554
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, w",,33.05727676515243
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, wo",,33.13541380320779
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, wom",,33.247247589666905
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womi",,33.3497241505767
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit",,33.44712748683919
+word_finished,1,normal,"in die Welt auszuziehen und etwas zu werden, womit",,33.340478687342355
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit s",,33.2528564675591
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit si",,33.415402068321235
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie",,33.551799484860055
+word_finished,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie",,33.44624693391983
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie i",,33.45916510602996
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ih",,33.54864184899323
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihr",,33.652824674156925
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre",,33.765879855879874
+word_finished,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre",,33.65050164465853
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre K",,33.663394533126635
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Ki",,33.77544855704228
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kin",,33.855511738726946
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kind",,33.955471757937865
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinde",,34.02330101373453
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder",,34.033860476865435
+word_finished,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder",,33.748382819680764
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder b",,33.70034283775373
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder be",,33.83451324396743
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder bee",,33.85871260839076
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beei",,33.98538187210904
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beein",,34.08613415829597
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeind",,34.16538704638331
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindr",,34.14501816935437
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrc",,34.21304466522004
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcu",,34.33212589093936
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuk",,34.324629834789484
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuke",,34.44078215016263
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken",,34.53676673327667
+word_finished,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken",,34.1532532721812
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken k",,34.15282477647055
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken ka",,34.33036289635782
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken kan",,34.418174492704786
+key_pressed,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken kann",,34.525971668216435
+word_finished,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken kann.",,34.160885939940115
+sentence_finished,1,normal,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrcuken kann.",23.288856,33.74449498458044
+key_pressed,1,normal,D,,33.544592287827065
+key_pressed,1,normal,De,,33.63587883135143
+key_pressed,1,normal,Den,,33.760478296082695
+key_pressed,1,normal,Denn,,33.855426045643085
+key_pressed,1,normal,Denns,,33.97936799932081
+word_finished,1,normal,Denns,,33.93475520729397
+key_pressed,1,normal,Denns c,,34.05630041062592
+key_pressed,1,normal,Denns ch,,34.18235148398086
+key_pressed,1,normal,Denns chl,,34.22969225145997
+key_pressed,1,normal,Denns chli,,34.30473675231111
+key_pressed,1,normal,Denns chlie,,34.412397718027876
+key_pressed,1,normal,Denns chließ,,34.48407145184029
+key_pressed,1,normal,Denns chließl,,34.38503792383141
+key_pressed,1,normal,Denns chließli,,34.379012285215204
+key_pressed,1,normal,Denns chließlic,,34.47978457413707
+key_pressed,1,normal,Denns chließlich,,34.55946837227084
+word_finished,1,normal,Denns chließlich,,34.25438031436721
+key_pressed,1,normal,Denns chließlich i,,33.633309912701996
+key_pressed,1,normal,Denns chließlich is,,33.744556442941445
+key_pressed,1,normal,Denns chließlich ist,,33.82364910022889
+word_finished,1,normal,Denns chließlich ist,,33.687324869392945
+key_pressed,1,normal,Denns chließlich ist s,,33.78950072542405
+key_pressed,1,normal,Denns chließlich ist si,,33.842833758724005
+key_pressed,1,normal,Denns chließlich ist sie,,33.868565334817035
+word_finished,1,normal,Denns chließlich ist sie,,33.72199738636487
+key_pressed,1,normal,Denns chließlich ist sie n,,33.38881510509996
+key_pressed,1,normal,Denns chließlich ist sie nu,,33.46320983446555
+key_pressed,1,normal,Denns chließlich ist sie nur,,33.53796690549916
+word_finished,1,normal,Denns chließlich ist sie nur,,33.442662481835725
+key_pressed,1,normal,Denns chließlich ist sie nur e,,33.540146677558724
+key_pressed,1,normal,Denns chließlich ist sie nur ei,,33.65408470829526
+key_pressed,1,normal,Denns chließlich ist sie nur ein,,33.72939153837919
+key_pressed,1,normal,Denns chließlich ist sie nur eine,,33.8660702824535
+word_finished,1,normal,Denns chließlich ist sie nur eine,,33.78247776015903
+key_pressed,1,normal,Denns chließlich ist sie nur eine E,,33.783785247045444
+key_pressed,1,normal,Denns chließlich ist sie nur eine En,,33.910921976980795
+key_pressed,1,normal,Denns chließlich ist sie nur eine Ent,,33.98225887463437
+key_pressed,1,normal,Denns chließlich ist sie nur eine Ente,,34.05932495077345
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente,",,33.59687555844554
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente,",,33.48284824892525
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, u",,33.46549447559381
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, un",,33.53054322330118
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und",,33.61713751495681
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente, und",,33.54959468834805
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und w",,33.62171723253653
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und wa",,33.67632215853613
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was",,33.759605817988145
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente, und was",,33.63741667937688
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was h",,33.47838911463515
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was ha",,33.5846918366089
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat",,33.629146625069424
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat",,33.53478142747682
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat d",,33.62553419603665
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat di",,33.69850980567515
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die",,33.814137720501215
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die",,33.68934278950405
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die s",,33.738357518419086
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die sc",,33.7985972413011
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die sch",,33.91843158624482
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die scho",,33.860697880059234
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon",,33.861719212245696
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon",,33.348437073147274
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon u",,33.19007394497501
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon",,32.84444211506342
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon z",,32.92670294887843
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu",,32.99552663527776
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu",,32.888739213971256
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu b",,32.95047800109704
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bi",,33.02476789733187
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bie",,33.13040209088979
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu biet",,33.0573868382513
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu biete",,33.120241545026445
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bieten",,33.037013380904
+word_finished,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bieten!",,32.40643344723703
+sentence_finished,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bieten!",23.410542,32.18204047798364
+key_pressed,1,normal,S,,31.537570979333683
+key_pressed,1,normal,"Denns chließlich ist sie nur eine Ente, und was hat die schon zu bieten!",,31.25882695364544
+key_pressed,1,normal,D,,31.20661962059786
+key_pressed,1,normal,Da,,31.27046369546071
+word_finished,1,normal,Da,,31.216360397366696
+key_pressed,1,normal,Da w,,31.287631394784608
+key_pressed,1,normal,Da wä,,31.27577323493727
+key_pressed,1,normal,Da wär,,31.330176940151556
+key_pressed,1,normal,Da wäre,,31.210260652582694
+word_finished,1,normal,Da wäre,,31.146078087094025
+key_pressed,1,normal,Da wäre s,,31.16830459871621
+key_pressed,1,normal,Da wäre si,,31.22474183660552
+key_pressed,1,normal,Da wäre sic,,31.283892639478765
+key_pressed,1,normal,Da wäre si,,30.89991969699441
+key_pressed,1,normal,Da wäre sie,,30.938717701503982
+word_finished,1,normal,Da wäre sie,,30.86193561692516
+key_pressed,1,normal,Da wäre sie d,,30.888313767733425
+key_pressed,1,normal,Da wäre sie do,,30.93319193956368
+key_pressed,1,normal,Da wäre sie doc,,31.030923878194688
+key_pressed,1,normal,Da wäre sie doch,,31.096992871376738
+word_finished,1,normal,Da wäre sie doch,,31.014499387978358
+key_pressed,1,normal,Da wäre sie doch l,,31.029029992372354
+key_pressed,1,normal,Da wäre sie doch li,,31.08132484147137
+key_pressed,1,normal,Da wäre sie doch lie,,31.18576973754217
+key_pressed,1,normal,Da wäre sie doch lieb,,31.244646777640853
+key_pressed,1,normal,Da wäre sie doch liebe,,31.354106787902843
+key_pressed,1,normal,Da wäre sie doch lieber,,31.40753653689341
+word_finished,1,normal,Da wäre sie doch lieber,,31.11872691230765
+key_pressed,1,normal,Da wäre sie doch lieber e,,31.18348145540494
+key_pressed,1,normal,Da wäre sie doch lieber ei,,31.239994439537053
+key_pressed,1,normal,Da wäre sie doch lieber ein,,31.300752599979983
+word_finished,1,normal,Da wäre sie doch lieber ein,,31.23667162299148
+key_pressed,1,normal,Da wäre sie doch lieber ein R,,31.2630120240912
+key_pressed,1,normal,Da wäre sie doch lieber ein Ra,,31.36186850711316
+key_pressed,1,normal,Da wäre sie doch lieber ein Rab,,31.438531158864514
+key_pressed,1,normal,Da wäre sie doch lieber ein Rabe,,31.522611444537283
+word_finished,1,normal,Da wäre sie doch lieber ein Rabe!,,31.07032787431416
+sentence_finished,1,normal,Da wäre sie doch lieber ein Rabe!,11.54472,30.875296681325132
+key_pressed,1,normal,O,,30.8412883553442
+key_pressed,1,normal,Od,,30.853033837101982
+key_pressed,1,normal,Ode,,30.912818420302433
+key_pressed,1,normal,Oder,,31.003435060103826
+word_finished,1,normal,Oder,,30.957763138870824
+key_pressed,1,normal,Oder i,,30.99830278190241
+key_pressed,1,normal,Oder ie,,31.06821508890814
+key_pressed,1,normal,Oder ien,,31.15216052756996
+word_finished,1,normal,Oder ien,,31.085564057324657
+key_pressed,1,normal,Oder ien K,,31.128813442406784
+key_pressed,1,normal,Oder ien Ka,,31.215425840718325
+key_pressed,1,normal,Oder ien Kat,,31.257365230395088
+key_pressed,1,normal,Oder ien Katz,,31.31756802943659
+key_pressed,1,normal,Oder ien Katze,,31.35509795599901
+word_finished,1,normal,Oder ien Katze!,,31.01978002221975
+sentence_finished,1,normal,Oder ien Katze!,4.040901,30.914079281446252
+key_pressed,1,normal,O,,30.797048780722896
+key_pressed,1,normal,Od,,30.83981295946594
+key_pressed,1,normal,Ode,,30.90703664835041
+key_pressed,1,normal,Oder,,30.987872321234864
+word_finished,1,normal,Oder,,30.944410264494422
+key_pressed,1,normal,Oder e,,31.007260060464354
+key_pressed,1,normal,Oder eb,,31.08600591647027
+key_pressed,1,normal,Oder ebe,,31.153998749422694
+key_pressed,1,normal,Oder eben,,31.221592992992434
+word_finished,1,normal,Oder eben,,31.118156033702963
+key_pressed,1,normal,Oder eben e,,31.158771636593322
+key_pressed,1,normal,Oder eben ei,,31.19255108067993
+key_pressed,1,normal,Oder eben ein,,31.243084213129908
+word_finished,1,normal,Oder eben ein,,31.18079194435069
+key_pressed,1,normal,Oder eben ein P,,31.204883118423986
+key_pressed,1,normal,Oder eben ein Pi,,31.233368682388612
+key_pressed,1,normal,Oder eben ein Pin,,31.273663738895763
+key_pressed,1,normal,Oder eben ein Ping,,31.26881604782105
+key_pressed,1,normal,Oder eben ein Pingu,,31.172566206113572
+key_pressed,1,normal,Oder eben ein Pingui,,31.10800358484307
+key_pressed,1,normal,Oder eben ein Pinguin,,31.08998477927949
+word_finished,1,normal,Oder eben ein Pinguin!,,30.881095487123588
+test_finished,1,normal,Oder eben ein Pinguin!,7.2248660000000005,30.62775816775895
+key_pressed,1,auto_complete,W,,82758.62068965517
+key_pressed,1,auto_complete,Wä,,59.99625023436035
+word_finished,1,auto_complete,Wäre,,22.061297314588586
+key_pressed,1,auto_complete,Wäre e,,25.252620906392327
+key_pressed,1,auto_complete,Wäre ei,,28.853737200161586
+word_finished,1,auto_complete,Wäre ein,,20.042294012340804
+key_pressed,1,auto_complete,Wäre ein P,,21.468359774823746
+key_pressed,1,auto_complete,Wäre ein Pi,,22.879596336129232
+word_finished,1,auto_complete,Wäre ein Pinguin,,31.155865935567075
+key_pressed,1,auto_complete,Wäre ein Pinguin v,,28.12782157210145
+key_pressed,1,auto_complete,Wäre ein Pinguin vi,,28.95264267507942
+word_finished,1,auto_complete,Wäre ein Pinguin vielleicht,,39.17199115583489
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht d,,37.654524755967294
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht di,,38.27389634398417
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die,,39.217219457986545
+word_finished,1,auto_complete,Wäre ein Pinguin vielleicht die,,38.101684694212224
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die B,,37.43538635602724
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die,,32.71581227909254
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die b,,32.26046794576861
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die be,,33.0419156639284
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die bes,,31.52248065110735
+word_finished,1,auto_complete,Wäre ein Pinguin vielleicht die bessere,,31.69808013740807
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die bessere E,,31.438521185858026
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die bessere En,,31.977771895446896
+key_pressed,1,auto_complete,Wäre ein Pinguin vielleicht die bessere Ent,,32.163588065570266
+word_finished,1,auto_complete,Wäre ein Pinguin vielleicht die bessere Ente?,,30.07910210186301
+sentence_finished,1,auto_complete,Wäre ein Pinguin vielleicht die bessere Ente?,15.59965,29.23116085337297
+key_pressed,1,auto_complete,A,,29.10783913291479
+key_pressed,1,auto_complete,Al,,29.3826934833532
+key_pressed,1,auto_complete,Als,,29.84306369862436
+word_finished,1,auto_complete,Als,,28.782412682233034
+key_pressed,1,auto_complete,Als i,,28.315623240632068
+key_pressed,1,auto_complete,Als ih,,28.50533281743837
+key_pressed,1,auto_complete,Als ihr,,28.801284013607308
+word_finished,1,auto_complete,Als ihr,,27.909757393905263
+key_pressed,1,auto_complete,Als ihr M,,27.428185518354866
+key_pressed,1,auto_complete,Als ihr Ma,,27.678071536382674
+word_finished,1,auto_complete,Als ihr Mann,,27.513531904925646
+key_pressed,1,auto_complete,Als ihr Mann f,,26.924092740495343
+key_pressed,1,auto_complete,Als ihr Mann fü,,26.776937666234573
+key_pressed,1,auto_complete,Als ihr Mann für,,27.170393931199502
+word_finished,1,auto_complete,Als ihr Mann für,,26.918397669183445
+key_pressed,1,auto_complete,Als ihr Mann für s,,27.05549928387475
+key_pressed,1,auto_complete,Als ihr Mann für si,,27.29189362529594
+word_finished,1,auto_complete,Als ihr Mann für sie,,27.009204511820922
+key_pressed,1,auto_complete,Als ihr Mann für sie d,,26.743321129059254
+key_pressed,1,auto_complete,Als ihr Mann für sie da,,26.975485666122083
+word_finished,1,auto_complete,Als ihr Mann für sie da,,25.885664330344216
+word_finished,1,auto_complete,Als ihr Mann für sie da,,25.48017039863954
+word_finished,1,auto_complete,Als ihr Mann für sie da,,24.01342092943302
+key_pressed,1,auto_complete,Als ihr Mann für sie das,,24.030600651187118
+word_finished,1,auto_complete,Als ihr Mann für sie das,,23.78349260797575
+key_pressed,1,auto_complete,Als ihr Mann für sie das B,,23.33117564654341
+key_pressed,1,auto_complete,Als ihr Mann für sie das Br,,23.537877265130053
+word_finished,1,auto_complete,Als ihr Mann für sie das Brüten,,24.654763199152498
+key_pressed,1,auto_complete,Als ihr Mann für sie das Brüten ü,,24.3558333981078
+key_pressed,1,auto_complete,Als ihr Mann für sie das Brüten üb,,24.528679073083865
+key_pressed,1,auto_complete,Als ihr Mann für sie das Brüten übe,,24.820829339122852
+key_pressed,1,auto_complete,Als ihr Mann für sie das Brüten über,,25.083813945240287
+word_finished,1,auto_complete,Als ihr Mann für sie das Brüten übernimmt,,26.18843433263731
+key_pressed,1,auto_complete,Als ihr Mann für sie das Brüten übernimmt,,25.708516600739003
+word_finished,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt,",,25.346685599623807
+word_finished,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt,",,25.198830144310552
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, b",,25.27141893391827
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, be",,25.493757818947007
+word_finished,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt",,26.29386877483638
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt d",,26.43345354185188
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt di",,26.64580328466095
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die",,26.87293771609168
+word_finished,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die",,26.562690227599287
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die A",,26.691196358907
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die An",,26.89649186531833
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die A",,26.08907147755886
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die",,25.669936907573405
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die E",,25.810345431707663
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die En",,25.97024874174891
+key_pressed,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Ent",,26.146204674124327
+word_finished,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter,",,26.926406135144237
+sentence_finished,1,auto_complete,"Als ihr Mann für sie das Brüten übernimmt, beschließt die Entenmutter,",27.057085999999998,26.70669951467065
+key_pressed,1,auto_complete,i,,26.454776332593447
+key_pressed,1,auto_complete,in,,26.59687610191299
+word_finished,1,auto_complete,in,,26.486719736653537
+key_pressed,1,auto_complete,in d,,26.68670176042827
+key_pressed,1,auto_complete,in di,,26.858064996830638
+key_pressed,1,auto_complete,in die,,27.05097682929832
+word_finished,1,auto_complete,in die,,26.92406307925889
+key_pressed,1,auto_complete,in die E,,26.877260838217005
+key_pressed,1,auto_complete,in die,,26.394285767796053
+key_pressed,1,auto_complete,in die W,,26.48458256500456
+key_pressed,1,auto_complete,in die We,,26.54344666139492
+key_pressed,1,auto_complete,in die Wel,,26.691481760072236
+word_finished,1,auto_complete,in die Welt,,26.475353798977928
+key_pressed,1,auto_complete,in die Welt a,,26.22496080636312
+key_pressed,1,auto_complete,in die Welt au,,26.34184464183185
+key_pressed,1,auto_complete,in die Welt aus,,26.48553990681136
+word_finished,1,auto_complete,in die Welt auszuziehen,,28.141882476021475
+key_pressed,1,auto_complete,in die Welt auszuziehen u,,27.861849519579554
+key_pressed,1,auto_complete,in die Welt auszuziehen un,,27.984105107350175
+key_pressed,1,auto_complete,in die Welt auszuziehen und,,28.160955875923467
+word_finished,1,auto_complete,in die Welt auszuziehen und,,28.066208736727766
+key_pressed,1,auto_complete,in die Welt auszuziehen und e,,28.18700425249895
+key_pressed,1,auto_complete,in die Welt auszuziehen und et,,27.74981296110055
+key_pressed,1,auto_complete,in die Welt auszuziehen und etw,,27.84700588669346
+word_finished,1,auto_complete,in die Welt auszuziehen und etwas,,27.64725176191309
+key_pressed,1,auto_complete,in die Welt auszuziehen und etwas z,,27.64045589799419
+key_pressed,1,auto_complete,in die Welt auszuziehen und etwas zu,,27.791132143818967
+word_finished,1,auto_complete,in die Welt auszuziehen und etwas zu,,27.644171898262204
+key_pressed,1,auto_complete,in die Welt auszuziehen und etwas zu w,,27.78727368756139
+key_pressed,1,auto_complete,in die Welt auszuziehen und etwas zu we,,27.936844906222873
+word_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden,",,27.54580925466153
+word_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden,",,27.44306754589589
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, w",,27.59477126804752
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, wo",,27.697751524780173
+word_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit",,27.898895962284765
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit s",,27.607682757983504
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit si",,27.726307172376774
+word_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie",,27.591901520693163
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie i",,27.647089542517797
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ih",,27.69621967081093
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre",,27.352669507365913
+word_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre",,27.17353059094016
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre K",,26.98549376172153
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Ki",,27.087413774438467
+word_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder",,27.553260797537398
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder b",,27.39523518544828
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder be",,27.51304973060667
+word_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken",,28.843028243185238
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken k",,28.792066814081267
+key_pressed,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken ka",,28.9110061350389
+word_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken kann.",,28.641926656135297
+sentence_finished,1,auto_complete,"in die Welt auszuziehen und etwas zu werden, womit sie ihre Kinder beeindrucken kann.",26.288016,28.34072160200652
+key_pressed,1,auto_complete,D,,28.02671768536233
+key_pressed,1,auto_complete,De,,28.09376958925529
+word_finished,1,auto_complete,Denn,,28.170601938651114
+key_pressed,1,auto_complete,Denn s,,28.091370825082578
+key_pressed,1,auto_complete,Denn sc,,28.169282813744502
+key_pressed,1,auto_complete,Denn sch,,28.284746741838326
+word_finished,1,auto_complete,Denn schließlich,,29.31372322627648
+key_pressed,1,auto_complete,Denn schließlich i,,29.00270917706008
+key_pressed,1,auto_complete,Denn schließlich is,,29.116020513535805
+word_finished,1,auto_complete,Denn schließlich ist,,29.06514641909761
+key_pressed,1,auto_complete,Denn schließlich ist s,,29.085155137269677
+key_pressed,1,auto_complete,Denn schließlich ist si,,29.17484442435784
+word_finished,1,auto_complete,Denn schließlich ist sie,,28.96946885214715
+key_pressed,1,auto_complete,Denn schließlich ist sie n,,28.79164270500495
+key_pressed,1,auto_complete,Denn schließlich ist sie nu,,28.84642534537489
+word_finished,1,auto_complete,Denn schließlich ist sie nur,,28.72705432835316
+key_pressed,1,auto_complete,Denn schließlich ist sie nur e,,28.764542926832156
+key_pressed,1,auto_complete,Denn schließlich ist sie nur ei,,28.85472840267725
+key_pressed,1,auto_complete,Denn schließlich ist sie nur eine,,28.722267712854705
+word_finished,1,auto_complete,Denn schließlich ist sie nur eine,,28.624774710542717
+key_pressed,1,auto_complete,Denn schließlich ist sie nur eine E,,28.363387797219676
+key_pressed,1,auto_complete,Denn schließlich ist sie nur eine En,,28.436222485778497
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente,",,28.024369028854412
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente,",,27.958527290223174
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, u",,27.981142631519365
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, un",,28.05171380192241
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und",,27.97385993560237
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und w",,27.97022048472484
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und wa",,28.007885668499426
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was",,27.84357705888523
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was h",,27.808223637803987
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was ha",,27.89604570166736
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat",,27.913639200818125
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat",,27.721256781343133
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat d",,27.57680706999508
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat di",,27.648309838866023
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die",,27.725057993229928
+sentence_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die",19.760436,27.612305437066745
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die",,27.561859832739977
+key_pressed,1,auto_complete, s,,27.55565924841548
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die",,27.240043642441353
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die",,27.19073807499739
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die",,27.096850530912253
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die",,26.888825844788226
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die s",,26.982245842083334
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die sc",,27.036334985036603
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon",,26.81715455957891
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon z",,26.675599150217515
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon zu",,26.763081455565892
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon zu",,26.689900135905297
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon zu b",,26.75738730191977
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon zu bi",,26.820882796497923
+key_pressed,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon zu bie",,26.90027188838441
+word_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon zu bieten!",,26.813612746141402
+sentence_finished,1,auto_complete,"Denn schließlich ist sie nur eine Ente, und was hat die schon zu bieten!",8.686395,26.607504674533896
+key_pressed,1,auto_complete,D,,26.542633834047408
+key_pressed,1,auto_complete,Da,,26.59462425918089
+word_finished,1,auto_complete,Da,,26.54630271502114
+key_pressed,1,auto_complete,Da w,,26.534413877545422
+key_pressed,1,auto_complete,Da wä,,26.526823175702454
+word_finished,1,auto_complete,Da wäre,,26.422804819000373
+key_pressed,1,auto_complete,Da wäre s,,26.3300973007758
+key_pressed,1,auto_complete,Da wäre si,,26.386133960955267
+word_finished,1,auto_complete,Da wäre sie,,26.28033293443677
+key_pressed,1,auto_complete,Da wäre sie d,,26.34384613595889
+key_pressed,1,auto_complete,Da wäre sie do,,26.41493360369381
+word_finished,1,auto_complete,Da wäre sie doch,,26.453725633615303
+key_pressed,1,auto_complete,Da wäre sie doch l,,26.459061157152057
+key_pressed,1,auto_complete,Da wäre sie doch li,,26.517463718241626
+key_pressed,1,auto_complete,Da wäre sie doch lie,,26.593982875848827
+word_finished,1,auto_complete,Da wäre sie doch lieber,,26.78198512352951
+key_pressed,1,auto_complete,Da wäre sie doch lieber e,,26.680151671721486
+key_pressed,1,auto_complete,Da wäre sie doch lieber ei,,26.69387886383412
+word_finished,1,auto_complete,Da wäre sie doch lieber ein,,26.5669618828436
+key_pressed,1,auto_complete,Da wäre sie doch lieber ein R,,26.537498091605983
+key_pressed,1,auto_complete,Da wäre sie doch lieber ein Ra,,26.61337407346468
+word_finished,1,auto_complete,Da wäre sie doch lieber ein Rabe!,,26.26424776109154
+sentence_finished,1,auto_complete,Da wäre sie doch lieber ein Rabe!,12.792555,26.195910376531486
+key_pressed,1,auto_complete,O,,26.049198548215646
+key_pressed,1,auto_complete,Od,,26.091617805304608
+word_finished,1,auto_complete,Oder,,26.162546002476727
+key_pressed,1,auto_complete,Oder e,,26.194834670802518
+key_pressed,1,auto_complete,Oder ei,,26.255165510761557
+key_pressed,1,auto_complete,Oder eine,,26.18728092087183
+word_finished,1,auto_complete,Oder eine,,26.107530722316135
+key_pressed,1,auto_complete,Oder eine K,,26.02936753303012
+key_pressed,1,auto_complete,Oder eine Ka,,26.106059697754826
+word_finished,1,auto_complete,Oder eine Katze!,,25.66095967957232
+sentence_finished,1,auto_complete,Oder eine Katze!,7.696724000000001,25.589383986856948
+key_pressed,1,auto_complete,O,,25.433844696254013
+key_pressed,1,auto_complete,Od,,25.479618018703288
+word_finished,1,auto_complete,Oder,,25.54268503152645
+key_pressed,1,auto_complete,Oder e,,25.561906185809768
+key_pressed,1,auto_complete,Oder eb,,25.592322812456217
+word_finished,1,auto_complete,Oder eben,,25.59964360239385
+key_pressed,1,auto_complete,Oder eben e,,25.619426647157983
+key_pressed,1,auto_complete,Oder eben ei,,25.68702562815953
+word_finished,1,auto_complete,Oder eben ein,,25.586608537682682
+key_pressed,1,auto_complete,Oder eben ein P,,25.57641642824256
+key_pressed,1,auto_complete,Oder eben ein Pi,,25.613338955021405
+word_finished,1,auto_complete,Oder eben ein Pinguin!,,25.74820628301139
+test_finished,1,auto_complete,Oder eben ein Pinguin!,6.76584,25.677783827511195
+key_pressed,1,auto_complete,G,,74074.07407407407
+key_pressed,1,auto_complete,Gl,,86.14315556736034
+word_finished,1,auto_complete,Glücklich,,83.85399156646245
+key_pressed,1,auto_complete,Glücklich s,,71.4261905555529
+key_pressed,1,auto_complete,Glücklich se,,68.74631204680165
+key_pressed,1,auto_complete,Glücklich sei,,69.29316639454663
+word_finished,1,auto_complete,Glücklich sein,,57.3558722302353
+key_pressed,1,auto_complete,Glücklich sein h,,48.16421244202018
+key_pressed,1,auto_complete,Glücklich sein he,,48.73647968825982
+key_pressed,1,auto_complete,Glücklich sein hei,,49.94104615567092
+word_finished,1,auto_complete,Glücklich sein heißt,,48.130808842699146
+key_pressed,1,auto_complete,Glücklich sein heißt e,,45.378895867773856
+key_pressed,1,auto_complete,Glücklich sein heißt ei,,45.898983222774156
+word_finished,1,auto_complete,Glücklich sein heißt einen,,40.02406664529149
+key_pressed,1,auto_complete,Glücklich sein heißt einen g,,39.301283227836215
+key_pressed,1,auto_complete,Glücklich sein heißt einen gu,,39.768958260092155
+key_pressed,1,auto_complete,Glücklich sein heißt einen gut,,40.43114110157236
+key_pressed,1,auto_complete,Glücklich sein heißt einen gutgu,,37.43356795044864
+key_pressed,1,auto_complete,Glücklich sein heißt einen gutg,,35.40425650952058
+key_pressed,1,auto_complete,Glücklich sein heißt einen gut,,33.449552660477714
+key_pressed,1,auto_complete,Glücklich sein heißt einen gute,,33.50667175747458
+word_finished,1,auto_complete,Glücklich sein heißt einen guten,,30.884007847111658
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten G,,30.41900075680376
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Ge,,30.884766192025005
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Gen,,31.53487617432446
+word_finished,1,auto_complete,Glücklich sein heißt einen guten Genius,,32.44336981966655
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Genius h,,32.16900430651057
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Genius ha,,32.76626458212546
+word_finished,1,auto_complete,Glücklich sein heißt einen guten Genius haben,,33.601812774719946
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Genius haben o,,32.82429238347855
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Genius haben od,,33.20884740392872
+word_finished,1,auto_complete,Glücklich sein heißt einen guten Genius haben oder,,32.82501841477171
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Genius haben oder g,,32.77124035669012
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Genius haben oder gu,,32.35956219669652
+word_finished,1,auto_complete,Glücklich sein heißt einen guten Genius haben oder gut,,31.26503603267082
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Genius haben oder gut s,,30.964715596773523
+key_pressed,1,auto_complete,Glücklich sein heißt einen guten Genius haben oder gut se,,31.236999835843054
+word_finished,1,auto_complete,Glücklich sein heißt einen guten Genius haben oder gut sein.,,30.357244047956353
+sentence_finished,1,auto_complete,Glücklich sein heißt einen guten Genius haben oder gut sein.,20.111887,29.832861394039888
+key_pressed,1,auto_complete,W,,29.49148866963027
+key_pressed,1,auto_complete,Wa,,29.668927575247466
+word_finished,1,auto_complete,Was,,29.11016940425077
+key_pressed,1,auto_complete,Was m,,29.10684827543272
+key_pressed,1,auto_complete,Was ma,,29.508746437154198
+key_pressed,1,auto_complete,Was mac,,29.374899515550204
+key_pressed,1,auto_complete,Was mach,,29.619788443692308
+word_finished,1,auto_complete,Was machst,,29.73834165649872
+key_pressed,1,auto_complete,Was machst d,,29.005416358651967
+key_pressed,1,auto_complete,Was machst du,,29.038390140212968
+word_finished,1,auto_complete,Was machst du,,28.713268982138146
+key_pressed,1,auto_complete,Was machst du a,,28.72212597779247
+key_pressed,1,auto_complete,Was machst du al,,28.961631278439192
+key_pressed,1,auto_complete,Was machst du als,,29.20840321196595
+word_finished,1,auto_complete,Was machst du also,,28.862710410546523
+key_pressed,1,auto_complete,Was machst du also h,,28.181513140875893
+key_pressed,1,auto_complete,Was machst du also hi,,28.318325736050173
+word_finished,1,auto_complete,"Was machst du also hier,",,28.05666049363661
+word_finished,1,auto_complete,"Was machst du also hier,",,27.837981334835238
+key_pressed,1,auto_complete,"Was machst du also hier, E",,27.910460451824502
+key_pressed,1,auto_complete,"Was machst du also hier, Ei",,28.22257221450665
+key_pressed,1,auto_complete,"Was machst du also hier, Ein",,28.334111646894
+word_finished,1,auto_complete,"Was machst du also hier, Einbildung?",,28.790661038436628
+sentence_finished,1,auto_complete,"Was machst du also hier, Einbildung?",13.013974000000001,28.075817620081054
+key_pressed,1,auto_complete,G,,27.765815017777356
+key_pressed,1,auto_complete,Ge,,27.943913575570072
+word_finished,1,auto_complete,Geh,,27.35187790655398
+key_pressed,1,auto_complete,Geh,,26.974428817155122
+word_finished,1,auto_complete,"Geh,",,26.69524939317818
+word_finished,1,auto_complete,"Geh,",,26.361059828193394
+key_pressed,1,auto_complete,"Geh, u",,26.371785620895096
+key_pressed,1,auto_complete,"Geh, um",,26.515572795821985
+word_finished,1,auto_complete,"Geh, um",,26.373088147337658
+key_pressed,1,auto_complete,"Geh, um d",,26.334794552973054
+key_pressed,1,auto_complete,"Geh, um de",,26.478370558022423
+key_pressed,1,auto_complete,"Geh, um der",,26.05836914944684
+word_finished,1,auto_complete,"Geh, um der",,25.87211389320868
+key_pressed,1,auto_complete,"Geh, um der G",,25.598164999420533
+key_pressed,1,auto_complete,"Geh, um der Gö",,25.60456194658155
+key_pressed,1,auto_complete,"Geh, um der Göt",,25.560069642669763
+word_finished,1,auto_complete,"Geh, um der Götter",,25.90051759724333
+key_pressed,1,auto_complete,"Geh, um der Götter w",,25.81935952057295
+key_pressed,1,auto_complete,"Geh, um der Götter wi",,25.966239651855588
+word_finished,1,auto_complete,"Geh, um der Götter willen,",,25.639327309515824
+word_finished,1,auto_complete,"Geh, um der Götter willen,",,25.51112932680188
+key_pressed,1,auto_complete,"Geh, um der Götter willen, w",,25.649894037081488
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wi",,25.79628140218369
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie",,25.496142646085506
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie d",,25.632457028201973
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du",,25.734436697306727
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du",,25.46288172899496
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du g",,25.184166211019807
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du ge",,25.351094724843758
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du ge",,24.7586416856384
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du ge",,24.30472716625339
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gek",,24.17555292398511
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen",,24.870860278615808
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen b",,24.648729698812698
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bi",,24.76621767698563
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist,",,24.339495678655428
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist,",,24.25134258707887
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, d",,24.413823913938693
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, de",,24.50869584452293
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn",,23.95534962383613
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn i",,24.05264069502723
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ic",,24.13625071800812
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich",,24.252253804173865
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich",,23.97796950947751
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich b",,23.96108912360916
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich br",,24.044557450302307
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich brauche",,24.333844624845586
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich brauche d",,24.34058875393884
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich brauche di",,24.456848369161307
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich",,24.45583188550145
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich n",,24.43327361207807
+key_pressed,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich ni",,24.54010903386974
+word_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht.",,24.677775640582453
+sentence_finished,1,auto_complete,"Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht.",33.392905999999996,24.54102183341737
+key_pressed,1,auto_complete,D,,24.427784953601165
+key_pressed,1,auto_complete,Du,,24.47934622437117
+word_finished,1,auto_complete,Du,,24.41204449299985
+word_finished,1,auto_complete,Du,,24.333044131556463
+key_pressed,1,auto_complete,Du  i,,24.34610526110047
+key_pressed,1,auto_complete,Du,,23.963570953336426
+key_pressed,1,auto_complete,Du  b,,24.03818211304197
+key_pressed,1,auto_complete,Du  bi,,24.1444285950122
+word_finished,1,auto_complete,Du  bist,,23.94873780930105
+key_pressed,1,auto_complete,Du  bist g,,23.95661555375061
+key_pressed,1,auto_complete,Du  bist ge,,24.073129253789485
+word_finished,1,auto_complete,Du  bist gekommen,,24.270553536769576
+key_pressed,1,auto_complete,Du  bist gekommen n,,24.249412450383183
+key_pressed,1,auto_complete,Du  bist gekommen na,,24.371592890622917
+word_finished,1,auto_complete,Du  bist gekommen nach,,24.432154390674068
+key_pressed,1,auto_complete,Du  bist gekommen nach d,,24.193925645379988
+key_pressed,1,auto_complete,Du  bist gekommen nach de,,24.2899041304982
+key_pressed,1,auto_complete,Du  bist gekommen nach dei,,24.383475877186022
+word_finished,1,auto_complete,Du  bist gekommen nach deiner,,24.637488515888446
+key_pressed,1,auto_complete,Du  bist gekommen nach deiner a,,24.622376816050423
+key_pressed,1,auto_complete,Du  bist gekommen nach deiner al,,24.710653226866857
+word_finished,1,auto_complete,Du  bist gekommen nach deiner alten,,24.742246785011353
+key_pressed,1,auto_complete,Du  bist gekommen nach deiner alten G,,24.70923456956428
+key_pressed,1,auto_complete,Du  bist gekommen nach deiner alten Ge,,24.805545800193716
+word_finished,1,auto_complete,Du  bist gekommen nach deiner alten Gewohnheit.,,24.888370241353226
+sentence_finished,1,auto_complete,Du  bist gekommen nach deiner alten Gewohnheit.,17.657091,24.713284822944704
+key_pressed,1,auto_complete,I,,24.64014405995585
+key_pressed,1,auto_complete,Ic,,24.70276257970172
+word_finished,1,auto_complete,Ich,,24.532697019328147
+key_pressed,1,auto_complete,Ich z,,24.52860326024221
+key_pressed,1,auto_complete,Ich zü,,24.51800269517159
+word_finished,1,auto_complete,Ich zürne,,24.67088301489509
+key_pressed,1,auto_complete,Ich zürne d,,24.51527864487405
+key_pressed,1,auto_complete,Ich zürne di,,24.586098856235285
+word_finished,1,auto_complete,Ich zürne dir,,24.272507311156392
+key_pressed,1,auto_complete,Ich zürne dir d,,24.22057627825924
+key_pressed,1,auto_complete,Ich zürne dir de,,24.300507454392708
+word_finished,1,auto_complete,Ich zürne dir deswegen,,24.484527420293727
+key_pressed,1,auto_complete,Ich zürne dir deswegen n,,24.49310912764576
+key_pressed,1,auto_complete,Ich zürne dir deswegen ni,,24.55876067608047
+word_finished,1,auto_complete,Ich zürne dir deswegen nicht;,,24.562511673272876
+word_finished,1,auto_complete,Ich zürne dir deswegen nicht;,,24.508693958694906
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; n,,24.55663256954041
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nu,,24.62400016802259
+word_finished,1,auto_complete,Ich zürne dir deswegen nicht; nur,,24.549069763396762
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nur g,,24.47165406830211
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nur ge,,24.569623820365035
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nur geh,,24.529187984424443
+word_finished,1,auto_complete,Ich zürne dir deswegen nicht; nur geh,,24.440128407416314
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nur geh b,,24.317676350227828
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nur geh ba,,24.39245272732982
+word_finished,1,auto_complete,Ich zürne dir deswegen nicht; nur geh bald,,24.38659914582294
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nur geh bald f,,24.357788699308767
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nur geh bald fo,,24.414607031212874
+key_pressed,1,auto_complete,Ich zürne dir deswegen nicht; nur geh bald for,,24.463171813692732
+word_finished,1,auto_complete,Ich zürne dir deswegen nicht; nur geh bald fort.,,24.353773970086927
+test_finished,1,auto_complete,Ich zürne dir deswegen nicht; nur geh bald fort.,19.584887,24.278824995166477
