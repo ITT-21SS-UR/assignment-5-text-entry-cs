@@ -1,6 +1,6 @@
 {
   "participant_id": 1,
-  "keyboard_type": "normal",
+  "keyboard_type": "auto_complete",
   "txt_file": "test.txt",
   "key_limit": 2
 }

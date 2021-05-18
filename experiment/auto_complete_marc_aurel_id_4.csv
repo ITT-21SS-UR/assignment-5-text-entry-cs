@@ -1,0 +1,227 @@
+log_type;participant_id;keyboard_type;txt_file;key_limit;key_code;key_value;content;timestamp;word_time_in_s;sentence_time_in_s;words_per_minute
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;G;G;2021-05-18 21:27:55.343751;NaN;NaN;61224.4897959184
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;76;l;Gl;2021-05-18 21:27:55.436512;NaN;NaN;258.297817383443
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;220;ü;Glü;2021-05-18 21:27:55.571694;NaN;NaN;157.832434565303
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;67;c;Glüc;2021-05-18 21:27:55.707675;NaN;NaN;131.842053220242
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;75;k;Glück;2021-05-18 21:27:55.755538;NaN;NaN;145.654047361841
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich;2021-05-18 21:27:56.279056;0.935321;NaN;115.452209199403
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;83;s;Glücklich s;2021-05-18 21:27:56.566839;NaN;NaN;98.1004483190488
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich se;2021-05-18 21:27:56.619703;NaN;NaN;103.440250325406
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Glücklich sei;2021-05-18 21:27:56.683836;NaN;NaN;107.444084307791
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Glücklich sein;2021-05-18 21:27:56.731543;NaN;NaN;112.39687046765
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich sein;2021-05-18 21:27:56.836260;0.269464;NaN;104.511899282687
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Glücklich sein h;2021-05-18 21:27:57.110770;NaN;NaN;95.0673620165146
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich sein he;2021-05-18 21:27:57.219816;NaN;NaN;95.9379856860526
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Glücklich sein hei;2021-05-18 21:27:57.300466;NaN;NaN;98.11621968426
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich sein heißt;2021-05-18 21:27:57.991201;0.880402;NaN;81.583382371493
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich sein heißt e;2021-05-18 21:27:58.131853;NaN;NaN;81.7718085951496
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Glücklich sein heißt ei;2021-05-18 21:27:58.171587;NaN;NaN;84.8661395772181
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Glücklich sein heißt ein;2021-05-18 21:27:58.228370;NaN;NaN;87.3550149404807
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich sein heißt eine;2021-05-18 21:27:58.300390;NaN;NaN;89.2855331056552
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Glücklich sein heißt einen;2021-05-18 21:27:58.379839;NaN;NaN;90.9020546828556
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich sein heißt einen;2021-05-18 21:27:58.468334;0.336479;NaN;88.3277163092968
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;g;Glücklich sein heißt einen g;2021-05-18 21:27:58.523896;NaN;NaN;90.5578077967128
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;85;u;Glücklich sein heißt einen gu;2021-05-18 21:27:58.635954;NaN;NaN;91.1203243883548
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;84;t;Glücklich sein heißt einen gut;2021-05-18 21:27:58.715530;NaN;NaN;92.5286660925144
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich sein heißt einen gute;2021-05-18 21:27:58.795618;NaN;NaN;93.8582248339014
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich sein heißt einen guten;2021-05-18 21:28:00.246706;1.722744;NaN;68.5280321461736
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;G;Glücklich sein heißt einen guten G;2021-05-18 21:28:00.421202;NaN;NaN;68.5363568632958
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich sein heißt einen guten Ge;2021-05-18 21:28:00.507916;NaN;NaN;69.7091887554431
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Glücklich sein heißt einen guten Gen;2021-05-18 21:28:00.595538;NaN;NaN;70.8310365608105
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Glücklich sein heißt einen guten Geni;2021-05-18 21:28:00.659935;NaN;NaN;72.2302655722528
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich sein heißt einen guten Genius;2021-05-18 21:28:01.399331;0.978098;NaN;67.3738610225866
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Glücklich sein heißt einen guten Genius h;2021-05-18 21:28:01.467673;NaN;NaN;68.5818754105727
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;65;a;Glücklich sein heißt einen guten Genius ha;2021-05-18 21:28:01.515567;NaN;NaN;69.9939387193345
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;66;b;Glücklich sein heißt einen guten Genius hab;2021-05-18 21:28:01.643607;NaN;NaN;70.4761457294313
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich sein heißt einen guten Genius habe;2021-05-18 21:28:01.755782;NaN;NaN;71.114682093978
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Glücklich sein heißt einen guten Genius haben;2021-05-18 21:28:01.820124;NaN;NaN;72.2610179137843
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich sein heißt einen guten Genius haben;2021-05-18 21:28:01.891699;0.424025;NaN;71.4712010765884
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;79;o;Glücklich sein heißt einen guten Genius haben o;2021-05-18 21:28:01.971388;NaN;NaN;72.4224291659607
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Glücklich sein heißt einen guten Genius haben od;2021-05-18 21:28:02.020957;NaN;NaN;73.6818916118408
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich sein heißt einen guten Genius haben ode;2021-05-18 21:28:02.163634;NaN;NaN;73.8999573462349
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;Glücklich sein heißt einen guten Genius haben oder;2021-05-18 21:28:02.227418;NaN;NaN;74.9584351119256
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich sein heißt einen guten Genius haben oder;2021-05-18 21:28:02.284121;0.312702;NaN;74.3460786910019
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;g;Glücklich sein heißt einen guten Genius haben oder g;2021-05-18 21:28:02.404216;NaN;NaN;74.7810741564822
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;85;u;Glücklich sein heißt einen guten Genius haben oder gu;2021-05-18 21:28:02.459600;NaN;NaN;75.8853714926203
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;84;t;Glücklich sein heißt einen guten Genius haben oder gut;2021-05-18 21:28:02.555680;NaN;NaN;76.5382949375464
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Glücklich sein heißt einen guten Genius haben oder gut;2021-05-18 21:28:02.627683;0.223466;NaN;75.7817463738709
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;83;s;Glücklich sein heißt einen guten Genius haben oder gut s;2021-05-18 21:28:02.771806;NaN;NaN;75.9268732667403
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Glücklich sein heißt einen guten Genius haben oder gut se;2021-05-18 21:28:02.836459;NaN;NaN;76.8731832704735
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Glücklich sein heißt einen guten Genius haben oder gut sei;2021-05-18 21:28:02.868847;NaN;NaN;78.1370012719853
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Glücklich sein heißt einen guten Genius haben oder gut sein;2021-05-18 21:28:02.924259;NaN;NaN;79.148823004236
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;46;.;Glücklich sein heißt einen guten Genius haben oder gut sein.;2021-05-18 21:28:03.131689;0.359874;NaN;77.0407814092377
+sentence_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;16777220;<RETURN>;Glücklich sein heißt einen guten Genius haben oder gut sein.;2021-05-18 21:28:03.439661;NaN;8.095917;74.1101318555114
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;87;W;W;2021-05-18 21:28:03.831217;NaN;NaN;72.1050528204858
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;65;a;Wa;2021-05-18 21:28:03.998097;NaN;NaN;72.1012023568774
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;83;s;Was;2021-05-18 21:28:04.091910;NaN;NaN;72.6997723445494
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Was;2021-05-18 21:28:04.187796;0.356632;NaN;71.911624683733
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;77;m;Was m;2021-05-18 21:28:04.253484;NaN;NaN;72.7282767203184
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;65;a;Was ma;2021-05-18 21:28:04.323562;NaN;NaN;73.4970029926643
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;67;c;Was mac;2021-05-18 21:28:04.372357;NaN;NaN;74.4288746819329
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Was mach;2021-05-18 21:28:04.451843;NaN;NaN;75.0968353930068
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Was machst;2021-05-18 21:28:05.191069;0.93753;NaN;71.8966686455175
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Was machst d;2021-05-18 21:28:05.348178;NaN;NaN;71.9670822565758
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;85;u;Was machst du;2021-05-18 21:28:05.387837;NaN;NaN;72.8776330778435
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Was machst du;2021-05-18 21:28:05.468127;0.119959;NaN;72.2997238387598
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;65;a;Was machst du a;2021-05-18 21:28:05.539720;NaN;NaN;72.968990532862
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;76;l;Was machst du al;2021-05-18 21:28:05.627603;NaN;NaN;73.5122591902236
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;83;s;Was machst du als;2021-05-18 21:28:05.707641;NaN;NaN;74.1023913652189
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;79;o;Was machst du also;2021-05-18 21:28:05.795742;NaN;NaN;74.6258732303503
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Was machst du also;2021-05-18 21:28:05.852446;0.312712;NaN;74.2232324617401
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Was machst du also h;2021-05-18 21:28:05.963644;NaN;NaN;74.5760113641789
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Was machst du also hi;2021-05-18 21:28:06.027651;NaN;NaN;75.2523832963296
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Was machst du also hie;2021-05-18 21:28:06.043850;NaN;NaN;76.2599289773338
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;Was machst du also hier;2021-05-18 21:28:06.139928;NaN;NaN;76.6927635098054
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;44;,;Was machst du also hier,;2021-05-18 21:28:06.275738;0.312111;NaN;75.7400433401359
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Was machst du also hier,;2021-05-18 21:28:06.323779;NaN;NaN;75.4086548006716
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;E;Was machst du also hier, E;2021-05-18 21:28:06.526711;NaN;NaN;75.1132802157253
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Was machst du also hier, Ei;2021-05-18 21:28:06.580042;NaN;NaN;75.8247206566563
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Was machst du also hier, Ein;2021-05-18 21:28:06.636081;NaN;NaN;76.5111076594526
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;63;?;Was machst du also hier, Einbildung?;2021-05-18 21:28:08.086913;1.560163;NaN;74.3919575702174
+sentence_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;16777220;<RETURN>;Was machst du also hier, Einbildung?;2021-05-18 21:28:08.336039;NaN;4.504821;72.9655372530246
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;G;G;2021-05-18 21:28:08.855351;NaN;NaN;71.0492771883196
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Ge;2021-05-18 21:28:08.947605;NaN;NaN;71.4495684027074
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Geh;2021-05-18 21:28:09.060062;NaN;NaN;71.7386316687127
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;44;,;Geh,;2021-05-18 21:28:09.204324;0.349029;NaN;70.9919933440677
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh,;2021-05-18 21:28:09.252109;NaN;NaN;70.7480884175673
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;85;u;Geh, u;2021-05-18 21:28:09.372265;NaN;NaN;70.997520147863
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;77;m;Geh, um;2021-05-18 21:28:09.542563;NaN;NaN;70.9910698445782
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um;2021-05-18 21:28:09.579904;0.207637;NaN;70.8049291188573
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Geh, um d;2021-05-18 21:28:09.611517;NaN;NaN;71.4890968614184
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Geh, um de;2021-05-18 21:28:09.771500;NaN;NaN;71.5281008402057
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;Geh, um der;2021-05-18 21:28:09.836248;NaN;NaN;72.0365399138666
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der;2021-05-18 21:28:09.868945;0.257397;NaN;71.8743982498446
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;G;Geh, um der G;2021-05-18 21:28:10.047511;NaN;NaN;71.8176419493376
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;214;ö;Geh, um der Gö;2021-05-18 21:28:10.115593;NaN;NaN;72.298992891276
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter;2021-05-18 21:28:10.783504;0.735679;NaN;72.2802000244432
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;87;w;Geh, um der Götter w;2021-05-18 21:28:10.883440;NaN;NaN;72.5876526472324
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Geh, um der Götter wi;2021-05-18 21:28:10.998624;NaN;NaN;72.8200968647819
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;76;l;Geh, um der Götter wil;2021-05-18 21:28:11.044108;NaN;NaN;73.3734360773746
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;76;l;Geh, um der Götter will;2021-05-18 21:28:11.179589;NaN;NaN;73.5034749336101
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Geh, um der Götter wille;2021-05-18 21:28:11.307701;NaN;NaN;73.6653003298589
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Geh, um der Götter willen;2021-05-18 21:28:11.371565;NaN;NaN;74.1204652219665
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;44;,;Geh, um der Götter willen,;2021-05-18 21:28:11.515615;0.632182;NaN;73.4602699590719
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen,;2021-05-18 21:28:11.548013;NaN;NaN;73.3133939003997
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;87;w;Geh, um der Götter willen, w;2021-05-18 21:28:11.701539;NaN;NaN;73.3589062480514
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Geh, um der Götter willen, wi;2021-05-18 21:28:11.788172;NaN;NaN;73.7021489406107
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Geh, um der Götter willen, wie;2021-05-18 21:28:11.852349;NaN;NaN;74.1424867159864
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen, wie;2021-05-18 21:28:11.979831;0.278289;NaN;73.5743924567493
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Geh, um der Götter willen, wie d;2021-05-18 21:28:12.035972;NaN;NaN;74.0458287366709
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;85;u;Geh, um der Götter willen, wie du;2021-05-18 21:28:12.115611;NaN;NaN;74.4096994474186
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen, wie du;2021-05-18 21:28:12.195484;0.159528;NaN;74.0570367358507
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;g;Geh, um der Götter willen, wie du g;2021-05-18 21:28:12.284399;NaN;NaN;74.3766835472224
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Geh, um der Götter willen, wie du ge;2021-05-18 21:28:12.347487;NaN;NaN;74.8064383407932
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;75;k;Geh, um der Götter willen, wie du gek;2021-05-18 21:28:12.411556;NaN;NaN;75.228704930228
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;79;o;Geh, um der Götter willen, wie du geko;2021-05-18 21:28:12.468379;NaN;NaN;75.6797999343758
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen, wie du gekommen;2021-05-18 21:28:13.112125;0.827492;NaN;75.6393636703461
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;66;b;Geh, um der Götter willen, wie du gekommen b;2021-05-18 21:28:13.374940;NaN;NaN;75.2024059445838
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Geh, um der Götter willen, wie du gekommen bi;2021-05-18 21:28:13.467650;NaN;NaN;75.4798390756589
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;83;s;Geh, um der Götter willen, wie du gekommen bis;2021-05-18 21:28:13.587683;NaN;NaN;75.6409750450557
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;84;t;Geh, um der Götter willen, wie du gekommen bist;2021-05-18 21:28:13.675690;NaN;NaN;75.9324388942971
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;44;,;Geh, um der Götter willen, wie du gekommen bist,;2021-05-18 21:28:13.724319;0.34943;NaN;75.7315644645085
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen, wie du gekommen bist,;2021-05-18 21:28:13.755744;NaN;NaN;75.6023051533888
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Geh, um der Götter willen, wie du gekommen bist, d;2021-05-18 21:28:13.883430;NaN;NaN;75.7288783177703
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Geh, um der Götter willen, wie du gekommen bist, de;2021-05-18 21:28:14.035796;NaN;NaN;75.753555281264
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Geh, um der Götter willen, wie du gekommen bist, den;2021-05-18 21:28:14.075478;NaN;NaN;76.2336925694838
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Geh, um der Götter willen, wie du gekommen bist, denn;2021-05-18 21:28:14.211673;NaN;NaN;76.3193873079587
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen, wie du gekommen bist, denn;2021-05-18 21:28:14.251558;0.368125;NaN;76.1584412905683
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Geh, um der Götter willen, wie du gekommen bist, denn i;2021-05-18 21:28:14.340441;NaN;NaN;76.4337889145107
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;67;c;Geh, um der Götter willen, wie du gekommen bist, denn ic;2021-05-18 21:28:14.379742;NaN;NaN;76.9063476103874
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Geh, um der Götter willen, wie du gekommen bist, denn ich;2021-05-18 21:28:14.475775;NaN;NaN;77.1475397565943
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen, wie du gekommen bist, denn ich;2021-05-18 21:28:14.515489;0.175046;NaN;76.9877469514991
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;66;b;Geh, um der Götter willen, wie du gekommen bist, denn ich b;2021-05-18 21:28:14.683475;NaN;NaN;76.9395116864293
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;Geh, um der Götter willen, wie du gekommen bist, denn ich br;2021-05-18 21:28:14.886398;NaN;NaN;76.754594683547
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche;2021-05-18 21:28:15.775555;1.092021;NaN;76.351001607678
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche d;2021-05-18 21:28:15.859609;NaN;NaN;76.6231159462745
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche di;2021-05-18 21:28:15.956042;NaN;NaN;76.8468048272601
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;67;c;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dic;2021-05-18 21:28:16.022767;NaN;NaN;77.1791354814924
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich;2021-05-18 21:28:16.107378;NaN;NaN;77.4425652368127
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich;2021-05-18 21:28:16.163660;0.304068;NaN;77.2332327876399
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich n;2021-05-18 21:28:16.260355;NaN;NaN;77.449894340655
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich ni;2021-05-18 21:28:16.315663;NaN;NaN;77.817820471618
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;67;c;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nic;2021-05-18 21:28:16.331497;NaN;NaN;78.3308738995382
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nich;2021-05-18 21:28:16.452070;NaN;NaN;78.4519311610834
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;84;t;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht;2021-05-18 21:28:16.563712;NaN;NaN;78.604689476604
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;46;.;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht.;2021-05-18 21:28:16.659624;0.399282;NaN;78.2510165947044
+sentence_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;16777220;<RETURN>;Geh, um der Götter willen, wie du gekommen bist, denn ich brauche dich nicht.;2021-05-18 21:28:17.007047;NaN;8.15167;76.9960569986854
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;D;D;2021-05-18 21:28:17.310645;NaN;NaN;76.4781937453038
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;85;u;Du;2021-05-18 21:28:18.030906;NaN;NaN;74.5791139604564
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Du;2021-05-18 21:28:18.131434;0.820854;NaN;74.2501719997335
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;66;b;Du b;2021-05-18 21:28:18.278257;NaN;NaN;74.2980437246604
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Du bi;2021-05-18 21:28:18.355812;NaN;NaN;74.5691124220191
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;83;s;Du bis;2021-05-18 21:28:18.389165;NaN;NaN;74.9818989009684
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;84;t;Du bist;2021-05-18 21:28:18.499505;NaN;NaN;75.1428329219407
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Du bist;2021-05-18 21:28:18.587735;0.309503;NaN;74.8576156524349
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;g;Du bist g;2021-05-18 21:28:18.683389;NaN;NaN;75.0649684731417
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Du bist ge;2021-05-18 21:28:18.731450;NaN;NaN;75.4237906303984
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;75;k;Du bist gek;2021-05-18 21:28:18.779474;NaN;NaN;75.7812671011886
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;79;o;Du bist geko;2021-05-18 21:28:18.851855;NaN;NaN;76.0583759095048
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Du bist gekommen;2021-05-18 21:28:20.005964;1.322526;NaN;74.445430202138
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Du bist gekommen n;2021-05-18 21:28:20.115311;NaN;NaN;74.6012466481918
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;65;a;Du bist gekommen na;2021-05-18 21:28:20.203671;NaN;NaN;74.8187876894615
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;67;c;Du bist gekommen nac;2021-05-18 21:28:20.259466;NaN;NaN;75.132858131384
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Du bist gekommen nach;2021-05-18 21:28:20.307541;NaN;NaN;75.4688653476413
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Du bist gekommen nach;2021-05-18 21:28:20.387867;0.272552;NaN;75.2268214443877
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Du bist gekommen nach d;2021-05-18 21:28:20.476100;NaN;NaN;75.4401881261839
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Du bist gekommen nach de;2021-05-18 21:28:20.627564;NaN;NaN;75.4628626212033
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Du bist gekommen nach dei;2021-05-18 21:28:20.715355;NaN;NaN;75.674710993549
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Du bist gekommen nach dein;2021-05-18 21:28:20.739656;NaN;NaN;76.0748136728176
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Du bist gekommen nach deine;2021-05-18 21:28:20.795627;NaN;NaN;76.3789944563937
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;Du bist gekommen nach deiner;2021-05-18 21:28:20.875692;NaN;NaN;76.6094775872041
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Du bist gekommen nach deiner;2021-05-18 21:28:20.923367;0.447266;NaN;76.4667064898185
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;65;a;Du bist gekommen nach deiner a;2021-05-18 21:28:21.099721;NaN;NaN;76.4090421404409
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;76;l;Du bist gekommen nach deiner al;2021-05-18 21:28:21.203846;NaN;NaN;76.565408784651
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;84;t;Du bist gekommen nach deiner alt;2021-05-18 21:28:21.299424;NaN;NaN;76.7457934289882
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Du bist gekommen nach deiner alte;2021-05-18 21:28:21.372092;NaN;NaN;76.9925599599731
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Du bist gekommen nach deiner alten;2021-05-18 21:28:21.420626;NaN;NaN;77.3094412391108
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Du bist gekommen nach deiner alten;2021-05-18 21:28:21.507408;0.407687;NaN;77.0530245204051
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;G;Du bist gekommen nach deiner alten G;2021-05-18 21:28:21.750883;NaN;NaN;76.7970015542304
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Du bist gekommen nach deiner alten Ge;2021-05-18 21:28:21.784782;NaN;NaN;77.1523170542701
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;87;w;Du bist gekommen nach deiner alten Gew;2021-05-18 21:28:21.899526;NaN;NaN;77.270900253435
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;79;o;Du bist gekommen nach deiner alten Gewo;2021-05-18 21:28:21.971565;NaN;NaN;77.5125035855166
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;46;.;Du bist gekommen nach deiner alten Gewohnheit.;2021-05-18 21:28:23.055984;1.305099;NaN;77.0774650174399
+sentence_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;16777220;<RETURN>;Du bist gekommen nach deiner alten Gewohnheit.;2021-05-18 21:28:23.303374;NaN;5.992719;76.3954754851175
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;I;I;2021-05-18 21:28:23.743000;NaN;NaN;75.6354087377278
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;67;c;Ic;2021-05-18 21:28:23.853093;NaN;NaN;75.7642402046308
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Ich;2021-05-18 21:28:23.899454;NaN;NaN;76.0614512090654
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Ich;2021-05-18 21:28:23.987440;0.244474;NaN;75.8278404988606
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;90;z;Ich z;2021-05-18 21:28:24.198947;NaN;NaN;75.68788119886
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;220;ü;Ich zü;2021-05-18 21:28:24.364070;NaN;NaN;75.6707326591264
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;Ich zür;2021-05-18 21:28:24.499850;NaN;NaN;75.7299087317408
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Ich zürn;2021-05-18 21:28:24.678367;NaN;NaN;75.6781013550675
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Ich zürne;2021-05-18 21:28:24.749162;NaN;NaN;75.9040127105214
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Ich zürne;2021-05-18 21:28:24.907763;0.708852;NaN;75.4968279831834
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Ich zürne d;2021-05-18 21:28:25.043690;NaN;NaN;75.5553444076234
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Ich zürne di;2021-05-18 21:28:25.131289;NaN;NaN;75.7359708429941
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;Ich zürne dir;2021-05-18 21:28:25.203592;NaN;NaN;75.9544846434634
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Ich zürne dir;2021-05-18 21:28:25.299619;0.255925;NaN;75.7110150613845
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;Ich zürne dir d;2021-05-18 21:28:25.703204;NaN;NaN;75.0998012128025
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;Ich zürne dir de;2021-05-18 21:28:25.878992;NaN;NaN;75.0604192163712
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;83;s;Ich zürne dir des;2021-05-18 21:28:25.931834;NaN;NaN;75.3230899597656
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;Ich zürne dir deswegen;2021-05-18 21:28:26.630593;0.92739;NaN;75.5585652553526
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;Ich zürne dir deswegen n;2021-05-18 21:28:26.707535;NaN;NaN;75.7558173198204
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;73;i;Ich zürne dir deswegen ni;2021-05-18 21:28:26.764173;NaN;NaN;76.0011722257854
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;67;c;Ich zürne dir deswegen nic;2021-05-18 21:28:26.820649;NaN;NaN;76.2460244449202
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;Ich zürne dir deswegen nich;2021-05-18 21:28:26.971799;NaN;NaN;76.2610629919542
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;84;t;Ich zürne dir deswegen nicht;2021-05-18 21:28:27.051588;NaN;NaN;76.4476179597153
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;59;<SEMICOLON>;"Ich zürne dir deswegen nicht;";2021-05-18 21:28:27.335558;0.62796;NaN;75.7690440756719
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;"Ich zürne dir deswegen nicht;";2021-05-18 21:28:27.412374;NaN;NaN;75.5875670426483
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;78;n;"Ich zürne dir deswegen nicht; n";2021-05-18 21:28:27.507528;NaN;NaN;75.7370346731047
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;85;u;"Ich zürne dir deswegen nicht; nu";2021-05-18 21:28:27.676077;NaN;NaN;75.7133524641511
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;"Ich zürne dir deswegen nicht; nur";2021-05-18 21:28:27.739548;NaN;NaN;75.9354295730531
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;"Ich zürne dir deswegen nicht; nur";2021-05-18 21:28:27.804503;0.296971;NaN;75.7834903879425
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;71;g;"Ich zürne dir deswegen nicht; nur g";2021-05-18 21:28:27.915595;NaN;NaN;75.8934333391011
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;69;e;"Ich zürne dir deswegen nicht; nur ge";2021-05-18 21:28:27.963350;NaN;NaN;76.1501734148524
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;72;h;"Ich zürne dir deswegen nicht; nur geh";2021-05-18 21:28:28.003771;NaN;NaN;76.4233691762813
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;"Ich zürne dir deswegen nicht; nur geh";2021-05-18 21:28:28.099723;0.184133;NaN;76.1995126711455
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;66;b;"Ich zürne dir deswegen nicht; nur geh b";2021-05-18 21:28:28.227467;NaN;NaN;76.2684162908972
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;65;a;"Ich zürne dir deswegen nicht; nur geh ba";2021-05-18 21:28:28.323396;NaN;NaN;76.4104273307727
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;76;l;"Ich zürne dir deswegen nicht; nur geh bal";2021-05-18 21:28:28.379474;NaN;NaN;76.6439630619687
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;68;d;"Ich zürne dir deswegen nicht; nur geh bald";2021-05-18 21:28:28.507373;NaN;NaN;76.7101940731726
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;32; ;"Ich zürne dir deswegen nicht; nur geh bald";2021-05-18 21:28:28.539795;0.312319;NaN;76.6353052344444
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;70;f;"Ich zürne dir deswegen nicht; nur geh bald f";2021-05-18 21:28:28.683573;NaN;NaN;76.6647452489904
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;79;o;"Ich zürne dir deswegen nicht; nur geh bald fo";2021-05-18 21:28:28.764192;NaN;NaN;76.8388612181551
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;82;r;"Ich zürne dir deswegen nicht; nur geh bald for";2021-05-18 21:28:28.875736;NaN;NaN;76.9411262009824
+key_pressed;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;84;t;"Ich zürne dir deswegen nicht; nur geh bald fort";2021-05-18 21:28:29.027359;NaN;NaN;76.9510406425887
+word_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;46;.;"Ich zürne dir deswegen nicht; nur geh bald fort.";2021-05-18 21:28:29.059347;0.375772;NaN;76.8780397523531
+test_finished;4;auto_complete;marc_aurel_selbstbetrachtungen.txt;2;16777220;<RETURN>;"Ich zürne dir deswegen nicht; nur geh bald fort.";2021-05-18 21:28:29.326719;NaN;5.583664;76.2731682323314
