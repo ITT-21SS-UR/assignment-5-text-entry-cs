@@ -4,6 +4,11 @@ import sys
 
 from text_model import ConfigKeys
 
+"""
+Responsilbe for parsing the json file for the config.
+If the given config is invalid the system exists and prints out error messages.
+"""
+
 
 # Author: Claudia
 class ConfigParser:

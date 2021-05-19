@@ -13,13 +13,13 @@ from text_model import TextModel, KeyboardType
 
 """
 The features of the application were discussed together and everyone got their own tasks.
-We supported each other with programming and carried out pair programming. 
+We supported each other with programming and carried out pair programming.
 The workload was distributed evenly.
 
 The texts for the study are foldout texts from:
 - Marc Aurel, Albert Wittstock (1949). Marcus Aurelius Antonius Selbstbetrachtungen. Reclam.
   ISBN 978-3-15-001241-3
-- Mastrocola, Paola (2010). Ich wär so gern ein Pinguin: Die Geschichte einer Ente, die 
+- Mastrocola, Paola (2010). Ich wär so gern ein Pinguin: Die Geschichte einer Ente, die
   lernte, sich selbst zu lieben. Piper Verlag. ISBN 978-3-86612-250-5
 
 HOW TO START THE PROGRAM:

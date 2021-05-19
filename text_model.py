@@ -7,6 +7,11 @@ from enum import Enum
 from PyQt5 import QtCore
 from PyQt5.QtCore import QObject, pyqtSignal
 
+"""
+The model contains all relevant data for the different views and classes.
+It is also responsible for handling input, calculating and logging.
+"""
+
 
 # Author: Claudia, Sarah
 # Reviewer: Sarah
