@@ -12,8 +12,15 @@ from text_input_technique import EditTextWidget
 from text_model import TextModel, KeyboardType
 
 """
-The features of the program were discussed together and everyone got their own tasks.
-We helped each other while programming. The workload was distributed evenly.
+The features of the application were discussed together and everyone got their own tasks.
+We supported each other with programming and carried out pair programming. 
+The workload was distributed evenly.
+
+The texts for the study are foldout texts from:
+- Marc Aurel, Albert Wittstock (1949). Marcus Aurelius Antonius Selbstbetrachtungen. Reclam.
+  ISBN 978-3-15-001241-3
+- Mastrocola, Paola (2010). Ich wär so gern ein Pinguin: Die Geschichte einer Ente, die 
+  lernte, sich selbst zu lieben. Piper Verlag. ISBN 978-3-86612-250-5
 
 HOW TO START THE PROGRAM:
 python3 text_entry_speed_test.py config.json
@@ -21,9 +28,9 @@ python3 text_entry_speed_test.py config.json
 Config file structure with description:
 {
   "participant_id": 1,
-  "keyboard_type": "normal",  # 2 possible values: normal, auto_complete
-  "txt_file": "test.txt",  # for the study we used 2 different txt files, which were copied from books
-  "key_limit": 2  # how many characters should be typed, so that auto-completion is invoked if enabled
+  "keyboard_type": "normal",  # two possible values: normal, auto_complete
+  "txt_file": "test.txt",  # path and name of the text file (for the study we used two different ones)
+  "key_limit": 2  # number of characters to be entered from when autocomplete is executed, if enabled
 }
 
 """

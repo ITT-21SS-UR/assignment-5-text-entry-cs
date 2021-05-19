@@ -5,7 +5,7 @@ from text_model import KeyboardType
 """
 Our method for a faster text input is auto-completion.
 When a user types a certain number of characters (set in config.json as key_limit),
-an auto-completion a word list is displayed with suggestions.
+auto-completion will display a list of suggested words.
 With the arrow keys and confirming the selection with Enter, a suggestion can be selected.
 Furthermore a user can manually invoke auto-completion by pressing Ctrl plus Space to select a word.
 
